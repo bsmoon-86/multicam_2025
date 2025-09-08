@@ -1,1 +1,3 @@
 dtbWOdJ%2FCz5HE0DGLU%2BCRPe7pOW0NIQBUcGEqsHZaTRiYCI%2F5%2BzugwzQjcvuId7NPdg6rUiW%2Bft3fm7yqyD4pw%3D%3D
+
+'http://apis.data.go.kr/1262000/CountryPopulationService2/getCountryPopulationList2'
