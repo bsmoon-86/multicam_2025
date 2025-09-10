@@ -28,19 +28,19 @@ while True:
         break
     else:
         save_type = input("저장 방식을 지정하시오 (csv / db) :")
-# opts = Options()
-# # herder setting 변경
-# opts.add_argument("--headless=new")
-# opts.add_argument("--disable-gpu")
-# opts.add_argument("--disable-dev-shm-usage")
-# opts.add_argument("--no-sandbox")
-# opts.add_argument("--window-size=1920,1080")
-# # 프록시/언어 고정 
-# opts.add_argument("--lang=ko-KR")
-# driver = webdriver.Chrome( service=Service(
-#                 ChromeDriverManager().install()
-#             ), options=opts
-#         )
+opts = Options()
+# herder setting 변경
+opts.add_argument("--headless=new")
+opts.add_argument("--disable-gpu")
+opts.add_argument("--disable-dev-shm-usage")
+opts.add_argument("--no-sandbox")
+opts.add_argument("--window-size=1920,1080")
+# 프록시/언어 고정 
+opts.add_argument("--lang=ko-KR")
+driver = webdriver.Chrome( service=Service(
+                ChromeDriverManager().install()
+            ), options=opts
+        )
 driver = webdriver.Chrome()
 # 딜레이 
 time.sleep(1)
@@ -73,7 +73,7 @@ while True:
 
     # 스크롤 이동 후 스크롤의 현재의 높이 
     new_height = driver.execute_script("return window.pageYOffset")
-
+    break
     if new_height == last_height:
         break
 print('스크롤 반복')
