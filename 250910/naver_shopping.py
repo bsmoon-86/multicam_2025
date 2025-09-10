@@ -7,6 +7,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from sqlalchemy import create_engine
 
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+
+
+
+
 search_item = input("검색어를 입력하시오 :")
 save_type = input("저장 방식을 지정하시오 (csv / db) :")
 
@@ -21,8 +28,19 @@ while True:
         break
     else:
         save_type = input("저장 방식을 지정하시오 (csv / db) :")
-
-driver = webdriver.Chrome()
+opts = Options()
+# herder setting 변경
+opts.add_argument("--headless=new")
+opts.add_argument("--disable-gpu")
+opts.add_argument("--disable-dev-shm-usage")
+opts.add_argument("--no-sandbox")
+opts.add_argument("--window-size=1920,1080")
+# 프록시/언어 고정 
+opts.add_argument("--lang=ko-KR")
+driver = webdriver.Chrome( service=Service(
+                ChromeDriverManager().install()
+            ), options=opts
+        )
 # 딜레이 
 time.sleep(1)
 # driver 네이버 요청을 보낸다
