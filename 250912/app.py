@@ -1,5 +1,6 @@
 # 라이브러리 로드 
 from flask import Flask, render_template, request, redirect
+import pandas as pd 
 
 # render_template() -> html문서를 불러와서 문자열으로 변환
 # html문서에서 {{ python code }}, {%=변수명%} 해당하는 부분은 찾아서 형태를 변환
@@ -35,7 +36,19 @@ def second():
     # _text 가 'test'이고 _pass가 '1234'와 같다면 로그인이 성공
     # second.html을 보여준다. 
     if (_text == "test") & (_pass == '1234'): 
-        return render_template("second.html")
+        df = pd.read_csv("../csv/aapl.csv").head(10)
+        # df를 dict형태로 변환
+        data = df.to_dict(orient='records')
+        # columns의 목록을 html에 보낸다. 
+        cols = list(df.columns)
+        # x축의 데이터 -> list
+        x = df['Date'].to_list()
+        y = df['Adj Close'].to_list()
+        return render_template("second.html", 
+                               table_data = data, 
+                               cols = cols, 
+                               x_data = x, 
+                               y_data = y)
     else:
         # 로그인 페이지로 되돌아간다. 
         # 127.0.0.1:5000/으로 이동한다. 
