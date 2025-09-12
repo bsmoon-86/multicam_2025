@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>index Page</h1>
+    <!-- 유저가 데이터를 입력하는 폼을 생성 -->
+    <form action="/second" method="get">
+        <!-- 
+            form 태그의 action 속성 : 어디로 데이터를 보낼것인가 
+            method 속성 : 데이터를 어떠한 방식으로 보낼것인가
+        -->
+        <!-- 
+            유저가 실제 입력한 데이터는 dict에서 value 해당
+            key에 해당하는 속성은 name
+        -->
+        <input type="text" name="input_text"><br>
+        <input type="password" name="input_pass"><br>
+        <!-- 입력된 데이터를 제출한다 버튼을 생성 -->
+        <input type="submit">
+    </form>
+    <h3>post 방식으로 데이터를 보내는 폼</h3>
+    <form action="/third" method="post">
+        <input type="text" name="input_text"><br>
+        <input type="password" name="input_pass"><br>
+        <!-- 입력된 데이터를 제출한다 버튼을 생성 -->
+        <input type="submit">
+    </form>
+</body>
+</html>
