@@ -37,7 +37,7 @@
             <tr>
                 <!-- cols를 이용하여 반복문을 생성 -->
                 {% for col in cols %}
-                <td>{{data[col]}}</td>
+                    <td>{{data[col]}}</td>
                 <!-- 반복문 종료 -->
                 {% endfor %}
             </tr>
@@ -76,11 +76,11 @@
                 ]
             },
             options: {
-            scales: {
-                y: {
-                beginAtZero: true
+                scales: {
+                    y: {
+                    beginAtZero: true
+                    }
                 }
-            }
             }
         });
     </script>

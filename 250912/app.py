@@ -48,7 +48,7 @@ def second():
                                table_data = data, 
                                cols = cols, 
                                x_data = x, 
-                               y_data = y)
+                               y_data = y)                                       
     else:
         # 로그인 페이지로 되돌아간다. 
         # 127.0.0.1:5000/으로 이동한다. 
