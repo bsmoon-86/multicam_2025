@@ -16,6 +16,13 @@ def index():
     # templates 안에 있는 index.html를 되돌려준다.
     return render_template('index.html')
 
+@app.route('/second')
+def second():
+    return render_template('index2.html')
+
+@app.route('/third')
+def third():
+    return render_template('index3.html')
 
 
 
