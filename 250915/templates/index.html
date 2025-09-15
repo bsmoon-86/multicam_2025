@@ -641,7 +641,7 @@
       </div>
     </div>
     <script
-      src="../assets/dist/js/bootstrap.bundle.min.js"
+      src="{{url_for('static', filename='js/bootstrap.bundle.min.js')}}"
       class="astro-vvvwv3sm"
     ></script>
     <script
@@ -650,6 +650,6 @@
       crossorigin="anonymous"
       class="astro-vvvwv3sm"
     ></script>
-    <script src="dashboard.js" class="astro-vvvwv3sm"></script>
+    <script src="{{url_for('static', filename='js/dashboard.js')}}" class="astro-vvvwv3sm"></script>
   </body>
 </html>
