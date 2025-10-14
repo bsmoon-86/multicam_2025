@@ -1,0 +1,9 @@
+-금융 산업군 PreSys(Prediction System)
+  . 주식 가격 예측 모델
+  . 금리 예측 상담 서비스 구축
+- 마케팅 산업군 PreSys(Prediction System)
+  . 소셜 미디어 분석을 통한 브랜드 평판 분석
+  . 리뷰 데이터를 활용한 고객 만족도 분석 및 추천
+- 이커머스 산업군 PreSys(Prediction System)
+  . 판매 데이터 분석을 통한 수요 예측
+  . 온라인 상품 거래 데이터 분석을 통한 고객 이탈 예측   
