@@ -1,0 +1,6030 @@
+[
+  {
+    "Index": "1036252",
+    "RawText": "요새 날씨가 너무 추워진 것 같아요!! 목 부분이 너무 추워서 터틀넥을 알아 보다가 이 옷을 구매하게 되었어요~ 구매 후기 알려 드릴게요!  일단 가격이 상당히 저렴해서 저는 색 별로 산 것 같습니다!! 배송도 빨랐고 받아 보니 색들이 다 예뻐서 좋았던 것 같아요!! 감촉이 포근해서 좋았고 재질이 부드러워 좋은 것 같아요~ 옷에 정전기도 잘 안 일어나서 좋았습니다!! 이거 입고 다른 겉 옷 코디 하기에 좋은 것 같네요~ 보온성도 있어서 정말 따뜻한 거 같습니다~~ 겨울에 입기 좋은 것 같아요 ㅎㅎ  저는 너무 만족하고 입고 다니고 있습니다~ 다음에 또 재주문 해야겠어요!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 브** 터틀넥 셔츠",
+    "Syllable": "323",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 상당히 저렴해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색들이 다 예뻐서 좋았던 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "감촉이 포근해서 좋았고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 부드러워 좋은 것 같아요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷에 정전기도 잘 안 일어나서 좋았습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이거 입고 다른 겉 옷 코디 하기에 좋은 것 같네요~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성도 있어서 정말 따뜻한 거 같습니다~~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 입기 좋은 것 같아요 ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036253",
+    "RawText": "와~~ 제가 최근에 이 옷을 입고 정말 너무 좋아서 추천을 드리려고 가져 오게 되었습니다!! 면 터틀넥 찾으시는 분들은 이 후기 들어보시고 구매하시면 좋을 것 같아요!!  일단 정말 촉감이 부드러워 좋았습니다!! 재질도 너무 좋았고 무엇보다 비침이 없어서 좋았네요~~ 두께감도 어느 정도 있어서 좋았어요!! 가격도 저렴해서 좋았습니다~ 이거 입고 잠바 입었는데 정말 따뜻하네요~ 옷 보온성이 상당히 뛰어난 것 같습니다!! 색상도 괜찮은 편인 것 같아요~ 다만 사이즈는 살짝 정사이즈가 아닌 것 같아요!! 한 치수 내려 입으셔야 할 것 같네요  추천 하고 싶은 터틀넥 긴팔티 입니다~~ 올 겨울 이 터틀넥으로 추위 막아 보세요",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 브** 터틀넥 긴팔티 ",
+    "Syllable": "349",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "정말 촉감이 부드러워 좋았습니다!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 너무 좋았고 무엇보다 비침이 없어서 좋았네요~~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 어느 정도 있어서 좋았어요!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해서 좋았습니다~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이거 입고 잠바 입었는데 정말 따뜻하네요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷 보온성이 상당히 뛰어난 것 같습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 괜찮은 편인 것 같아요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 살짝 정사이즈가 아닌 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "한 치수 내려 입으셔야 할 것 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 겨울 이 터틀넥으로 추위 막아 보세요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036255",
+    "RawText": "결론부터 말씀 드리면 정말 만족도가 높은 자켓인 것 같아요~ 저는 이 자켓만 입고 나가면 정말 좋아서 추천 드리고 싶습니다~ ㅎㅎ  이 브랜드 자켓은 사실 워낙 유명해서 이미 알고 계실 수도 있으시겠지만 추천 하는 이유는 품질이 너무 좋기 때문입니다!! 가격도 저렴한 편이라~너무 좋아요!! 거기에 냄새도 잘 나지 않고 재질도 부드러워 좋은 것 같습니다!! 사이즈도 딱 맞게 나와서 정사이즈 입으면 될 것 같습니다!! 핏도 정말 예뻐서 입으면 태가 나서 너무 좋은 거 같아요~ㅎㅎ  라이더 자켓 찾으시면 이 자켓을 추천 드리고 싶어요~! 완전 좋은 것 같습니다~~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 까** 라이더 자켓",
+    "Syllable": "315",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "추천 하는 이유는 품질이 너무 좋기 때문입니다!! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한 편이라~너무 좋아요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "냄새",
+        "SentimentText": "냄새도 잘 나지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 재질도 부드러워 좋은 것 같습니다!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 딱 맞게 나와서 정사이즈 입으면 될 것 같습니다!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 정말 예뻐서 입으면 태가 나서 너무 좋은 거 같아요~ㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036500",
+    "RawText": "코트에도 종류가 많죠? 울코트, 캐시미어코트 등등이요~ 길이도 그렇잖아요~ 외투 안에 뭘 입든 겉옷만 바꿔입어줘도 분위기가 달라보이잖아요. 그래서 이번에 하프코트를 사봤어요~ 소개해드릴께요~  저는 인터넷으로 옷을 자주 사곤 해요. 실패율은 거의 적어요. 왜냐하면! 상세사이즈를 잘 보고 집에 있는 옷이랑 비교해보고 사거든요~ 리뷰도 꼼꼼하게 살펴보고 산답니다. 그러면 실패할 확률 거의 없어요~ 이 제품도 상세정보 잘 보고 샀더니 사이즈 잘 맞아요. 입어보니 모양도 예쁘더라구요. 따뜻한 울 소재라 좋구요.   여러분도 상세사이즈 잘 살펴보시고 쇼핑 성공하세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울소프트 하프코트",
+    "Syllable": "315",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "상세정보 잘 보고 샀더니 사이즈 잘 맞아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "입어보니 모양도 예쁘더라구요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "따뜻한 울 소재라 좋구요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036501",
+    "RawText": "안녕하세요~ 오늘은 제가 울코트 리뷰를 해보려고해요~  한겨울엔 좀더 두껍고 길고 따뜻한 코트를 입어야겠지요. 그런데 가을에는 가벼운 느낌의 하프코트 한번 입어보시는 거 어떠세요? 울 소재라서 따뜻해요. 그리고 타이트하게 나온 디자인 아니라서 편하게 입기가 좋아요. 오버핏 좋아하시면 만족할 만한 핏 나올 꺼라 생각합니다. 색상도 고급스럽게 나와서 마음에 들어요. 무게감은 약간 무거운 편이에요. 그래도 한번씩 입고 나가기엔 문제 없어요.  후기 참고하셔서 만족스러운 구매하시길 바랍니다^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울소프트 하프코트",
+    "Syllable": "274",
+    "Word": "61",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "울 소재라서 따뜻해요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "타이트하게 나온 디자인 아니라서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "오버핏 좋아하시면 만족할 만한 핏 나올 꺼라 생각합니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스럽게 나와서 마음에 들어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감은 약간 무거운 편이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입기가 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036502",
+    "RawText": "혹시 단색코트만 가지고 계신가요? 그렇다면 컬러감 있는 하프코트 어떠세요? 컬러감 예쁜 코트 소개해드릴께요~~  옷을 사다 보니 다 검정, 회색, 갈색 그렇더라구요. 그런데 가끔은 컬러감 있는 옷도 입고 싶잖아요~ 겉옷도 그렇더라구요~ 그래서 이번에 용기내서 컬러감이 좀 있는 코트를 사게 되었습니다. 받아보니, 원단도 괜찮고 디자인도 마음에 들어요. 디자인이 군더더기 없이 깔끔해서 툭툭 걸쳐 입기가 좋더라구요. 울소재라서 그런지 약간 무게감이 있어요~  참고하셔서 옷 예쁘게 입으세요~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울소프트 하프코트",
+    "Syllable": "275",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러감 예쁜 코트 소개해드릴께요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단도 괜찮고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 마음에 들어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 군더더기 없이 깔끔해서 툭툭 걸쳐 입기가 좋더라구요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "울소재라서 그런지 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "약간 무게감이 있어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1036504",
+    "RawText": "안녕하세요~^^ 오늘은 디자인이 예쁜 패딩코트 소개해드릴께요~  평소에 77사이즈 입는데 이 제품은 상세사이즈 꼭 보고 구매하셔야 됩니다. 저는 상세사이즈 보고 66사이즈 주문했어요. 입어보니 옷이 좀 크게 나왔더라구요. 66사이즈가 잘 맞아요. 지퍼 다 올려도 편안할 정도로 사이즈가 잘 맞네요. 그리고 무게가 가벼워서 자꾸 입게 돼요. 가볍기도 하고 따뜻합니다. 트위드 디자인이라서 분위기 있어 보여요. 환절기에 딱 입기 좋은 옷이예요. 화면에서 보는 것보다 품질 좋습니다.  예쁜옷 득템하세요~!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 트위드 패딩코트",
+    "Syllable": "281",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 예쁜 패딩코트 소개해드릴께요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "입어보니 옷이 좀 크게 나왔더라구요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "66사이즈가 잘 맞아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "지퍼 다 올려도 편안할 정도로 사이즈가 잘 맞네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 가벼워서 자꾸 입게 돼요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍기도 하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻합니다.",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "트위드 디자인이라서 분위기 있어 보여요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "환절기에 딱 입기 좋은 옷이예요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "화면에서 보는 것보다 품질 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036505",
+    "RawText": "패딩도 예쁘게 입고 싶지 않으신가요? 그렇다면 이 제품이예요! 소개해드릴께요~  날씨가 점점 추워져서 코트를 입으면 아쉽고 패딩을 입으면 좀 답답하더라구요. 그래서 이것저것 검색을 잘 하는 서치의 여왕인 제가 발견한 외투입니다! 일단 외투는 가벼워야 한다는 게 제 생각이예요. 근데 보통 코트는 좀 무겁잖아요~ 근데 이 패딩코트는 가벼워요! 얇으면서 따뜻하기까지 하답니다. 인터넷으로 주문햇는데 배송도 빠르고 포장도 깔끔하게 왔어요~ 사이즈도 잘 맞고 간절기에 입기 딱 좋은 두께예요.  사두시면 활용하기 정말 좋으실 꺼예여~!! 추천드립니다~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 트위드 패딩코트",
+    "Syllable": "304",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 패딩코트는 가벼워요! ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇으면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하기까지 하답니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 맞고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "간절기에 입기 딱 좋은 두께예요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "사두시면 활용하기 정말 좋으실 꺼예여~!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036506",
+    "RawText": "울 어머님이 간절기에 입을 옷이 없다고 노래부르셔서 폭풍 검색으로 발견한 패딩코트 소개해드릴께요~  사실 너무 저렴해서 품질이 떨어질까 걱정하긴 했어요. 그런데 받아보니까 그런 걱정은 싹 사라졌습니다. 퀼팅이 고급스럽게 디자인되어 있고요. 트위드가 잘 어우러져서 디자인이 한층 고급스럽고 멋스러워 보여요. 간절기에는 뭘 입어야할지 항상 고민이잖아요. 이제는 고민 그만하시고 픽! 해보세요~ 색상도 고급스러워서 마음에 들어요. 상세사이즈 보고 구매해서 사이즈도 잘 맞답니다.  이제 고민 끝! 행복시작이예요~ 참고하셔서 좋은 상품 구매해보세요~  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 트위드 패딩코트",
+    "Syllable": "305",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "사실 너무 저렴해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "퀼팅이 고급스럽게 디자인되어 있고요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "트위드가 잘 어우러져서 디자인이 한층 고급스럽고 멋스러워 보여요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 고급스러워서 마음에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "상세사이즈 보고 구매해서 사이즈도 잘 맞답니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036527",
+    "RawText": "안녕하세요. 저는 요즘 가을이라 그런지 특히 새틴스커트, 새틴원피스에 자꾸 손이 가더라구요. 그래서 이번에 새로 장만한 OOO 새틴 스커트를 아주 잘 입고 있는데요. 여러분께도 소개해드려 볼께요.  OOO 새틴스커트는 머메이드 실루엣의 스커트에요. 실키 새틴소재의 고급스런 광택감과 부드러움이 느껴지는 소재인데요. 체형에 관계없이 바디라인을 따라 자연스럽게 흘러내리는 실루엣이 굉장히 멋스럽게 느껴져서 좋았어요. 색상도 가을에 어울리는 따뜻하고 포근한 느낌이라서 지금 이 계절에 입기에 딱인 색이랍니다.   새틴스커트 찾고 계시다면 OOO 새틴스커트 어떠신가요?  한번 착용해보세요~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 새틴스커트",
+    "Syllable": "328",
+    "Word": "68",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "실키 새틴소재의 고급스런 광택감과 부드러움이 느껴지는 소재인데요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "체형에 관계없이 바디라인을 따라 자연스럽게 흘러내리는 실루엣이 굉장히 멋스럽게 느껴져서 좋았어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 가을에 어울리는 따뜻하고 포근한 느낌이라서 지금 이 계절에 입기에 딱인 색이랍니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036528",
+    "RawText": "안녕하세요. 요즘 제가 가장 잘 입고 있는 스커트가 있어서 여러분들께 소개해드려볼까 해요. OOO 풀스커트인데요.   풍성하게 퍼지는 도톰한 1온스 패딩의 풀스커트인데요. A라인으로 퍼지는 풍성한 핏이 넘넘 예쁘답니다. 캐주얼한 맨투맨부터 니트까지 다 잘 어울려서 여성스럽고 따뜻하게 연출하기 좋은 아이템이에요. 1온스 패딩의 따뜻함과 관리하기 편한 소재감으로 한겨울 멋스럽게 코디하기 좋은 아이템이랍니다. 부드럽게 늘어나는 전체 허리 밴딩으로 사이즈에 크게 구애받지 않고 편하게 입기 좋아요.  한겨울 코디하기 좋은 스커트 찾으시면 이 스커트 어떠세요?  한번 입어보시길 추천드려요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 패딩 밴딩 풀스커트 ",
+    "Syllable": "327",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "풍성하게 퍼지는",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "도톰한 1온스 패딩의 풀스커트인데요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "A라인으로 퍼지는 풍성한 핏이 넘넘 예쁘답니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "캐주얼한 맨투맨부터 니트까지 다 잘 어울려서 여성스럽고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하게 연출하기 좋은 아이템이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "1온스 패딩의 따뜻함과 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "관리하기 편한 소재감으로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "한겨울 멋스럽게 코디하기 좋은 아이템이랍니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "부드럽게 늘어나는 전체 허리 밴딩으로",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "사이즈에 크게 구애받지 않고 편하게 입기 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036529",
+    "RawText": "안녕하세요. 플리츠 스커트 즐겨 입으시나요? 저는 짧은 미니 플리츠스커트부터 롱한 기장감의 롱주름치마까지 전부 좋아하고 자주 입는답니다.^^ 오늘 소개해드릴 아이템은 OOO 스커트인데요. 지금 바로 후기 소개해드릴께요.  OOO 스커트는 허리 장식에 골드 장식이 있어서 좀더 고급스러운 느낌인데요, 적당하게 힘이 있는 탄탄한 소재로 되있어서 좋았고, 찰랑거리는 실루엣이 넘넘 마음에 들었답니다. 겨울에 롱코트속에 입으면 정말 잘 어울리고 예쁠거 같아요. ㅎㅎ 저렴한 가격에 퀄리티도 좋네요.  플레어 스커트 좋아하시는 분께 추천드리고 싶은 제품 리뷰였어요. 좋은하루 보내세요~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 더** 플리츠 스커트 ",
+    "Syllable": "324",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OOO 스커트는 허리 장식에 골드 장식이 있어서 좀더 고급스러운 느낌인데요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "적당하게 힘이 있는 탄탄한 소재로 되있어서 좋았고, ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "찰랑거리는 실루엣이 넘넘 마음에 들었답니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겨울에 롱코트속에 입으면 정말 잘 어울리고 예쁠거 같아요. ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티도 좋네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036530",
+    "RawText": "안녕하세요. 오늘은 격식 있는 자리 뿐 아니라 출근룩으로도 손색없는 스커트를 가지고 왔어요. OOO 울니트 스커트인데요.   OOO 울니트 스커트는 최적의 조합으로 구성된 울 블렌디드로 보온성이 더해서 따뜻하고, 두께감이 두툼하지만 가벼워서 편안하게 입을 수 있는 스커트랍니다.  신축성이 좋아서 입고 활동하는데 불편함이 하나도 없고, 살짝 퍼지는 플레어라인이 넘 여성스러워서 중요한 자리에 입기에도 딱이에요. 또 종아리까지 오는 길이감이 체형커버도 해줘서 더 좋았답니다.  저렴한 가격에 여성스러운 디자인의 스커트를 찾으시는 분들은 이 제품 착용해보시길 추천드립니다~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울니트 스커트",
+    "Syllable": "320",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": " 격식 있는 자리 뿐 아니라 출근룩으로도 손색없는 스커트를 가지고 왔어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "OOO 울니트 스커트는 최적의 조합으로 구성된 울 블렌디드로",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성이 더해서 따뜻하고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감이 두툼하지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하게 입을 수 있는 스커트랍니다.  ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고 활동하는데 불편함이 하나도 없고,",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "살짝 퍼지는 플레어라인이 넘 여성스러워서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "중요한 자리에 입기에도 딱이에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036531",
+    "RawText": "안녕하세요. 가을엔 롱스커트만큼 유용템도 없는데요. 편안하고 예쁘고...  올해엔 어디꺼 사지 엄청 찾다가 OOO 스커트를 구매해봤는데요. 그 후기 남겨보려고 해요.  OOO 스커트는 힙부터 바디라인까지 과하지 않는 세미 A라인 디자인의 스커트에요. 우아하면서도 여성스러운 느낌이랍니다. 스커트 밑단에 트임이 있어서 활동하기도 편하고, 앞뒤가 언밸런스해서 더 스타일리쉬하게 입을 수 있어서 특히 좋았어요.   OOO 스커트로 올 가을 예쁘게 코디해보세요^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 크** 스커트",
+    "Syllable": "255",
+    "Word": "53",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " OOO 스커트는 힙부터 바디라인까지 과하지 않는 세미 A라인 디자인의 스커트에요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "우아하면서도 여성스러운 느낌이랍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스커트 밑단에 트임이 있어서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동하기도 편하고,",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞뒤가 언밸런스해서 더 스타일리쉬하게 입을 수 있어서 특히 좋았어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "OOO 스커트로 올 가을 예쁘게 코디해보세요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036532",
+    "RawText": "안녕하세요. 최근 날씨가 급격하게 추워지면서, 옷장 정리를 시작했는데요. 작년에 뭘 입고 살았나 싶을 정도로 마땅히 입을 옷이 없는거에요. 예전과는 달리 롱스커트가 눈에 띄어서 제 제 스타일, 체형에 맞는 치마를 데려왔답니다. ㅎㅎ  OO 패딩스커트인데요. 자연스러운 A라인에 풍성한 실루엣의 퀼팅스커트라 넘넘 여성스러워보여서 만족스러웠는데요. 제 키에 종아리 반쯤 내려오는 길이감도 딱 마음에 들었어요. 다운 충전재가 들어가있어서 겨울에 보온성도 있으면서 우아해보이는 디자인까지..올 겨울 잘 입을 거 같네요. ㅎㅎ  따뜻하고 스타일리쉬한 스커트 찾으시면 한번 구매해보시길 바랍니다~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퀼팅 패딩스커트 ",
+    "Syllable": "329",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자연스러운 A라인에 풍성한 실루엣의 퀼팅스커트라 넘넘 여성스러워보여서 만족스러웠는데요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "제 키에 종아리 반쯤 내려오는 길이감도 딱 마음에 들었어요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "다운 충전재가 들어가있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 겨울에 보온성도 있으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "우아해보이는 디자인까지..",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 겨울 잘 입을 거 같네요. ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "따뜻하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일리쉬한 스커트 찾으시면 한번 구매해보시길 바랍니다~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036533",
+    "RawText": "여러분들 와이드 청바지 많이 입으시죠? 소재가 탄탄하면서도 이쁜핏의 와이드팬츠 소개해드려볼께요. ㅎㅎ  OOO 와이드 청바지는 허리 뒷부분이 밴딩으로 되어 있어서 허리가 정말 편안했어요. 매 시즌마다 유행타지 않는 디자인이라 무난하게 어느 옷에 코디해도 입기 좋았구요. 다리라인이 드러나지 않는 와이드핏이라 다리에 군살이 많은 분들께도 강력 추천하고 싶어요. ㅎㅎ 두께감도 적당해서 봄, 가을에 입기 딱 이랍니다.  OOO 와이드 청바지로 트랜디하면서도 편안하게 연출해보세요~ 추천합니다~!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 밴딩 와이드 청바지",
+    "Syllable": "275",
+    "Word": "59",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 탄탄하면서도",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁜핏의 와이드팬츠 소개해드려볼께요. ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OOO 와이드 청바지는 허리 뒷부분이 밴딩으로 되어 있어서",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "허리가 정말 편안했어요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "매 시즌마다 유행타지 않는 디자인이라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "무난하게 어느 옷에 코디해도 입기 좋았구요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다리라인이 드러나지 않는 와이드핏이라 다리에 군살이 많은 분들께도 강력 추천하고 싶어요. ㅎㅎ ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 적당해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 봄, 가을에 입기 딱 이랍니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "OOO 와이드 청바지로 트랜디하면서도 편안하게 연출해보세요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036534",
+    "RawText": "안녕하세요. 눈 깜짝할 사이에 지나가는 가을만을 위한 옷을 지금 사기엔 늦은 감이 있죠. 그래서 남은 가을은 물론 겨울까지 활용할 수 있는 스커트를 구입해 봤는데요. 바로 OOO 코듀로이 스커트랍니다. ㅎㅎ  OOO 코듀로이 스커트는 촉감도 부드럽고 보온성도 우수해서 겨울철에 베스트 아이템이에요. 과하지 않은 세미 A라인과 미디 기장의 길이감이 캐주얼하게도, 여성스럽게도 다양하게 연출이 가능해요. 허리 사이즈도 넉넉하고, 겨울에 롱부츠와 코디하기 좋을 거 같아요.  가을 겨울 무난하게 입을 스커트 필요하신 분들 계시면 OOO 코듀로이 스커트 어떠세요?  추천드리고 싶네요. ㅎㅎ ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코듀로이 스커트 ",
+    "Syllable": "327",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "남은 가을은 물론 겨울까지 활용할 수 있는 스커트를 구입해 봤는데요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성도 우수해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울철에 베스트 아이템이에요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "과하지 않은 세미 A라인과 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "미디 기장의 길이감이 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "캐주얼하게도, 여성스럽게도 다양하게 연출이 가능해요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "허리 사이즈도 넉넉하고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겨울에 롱부츠와 코디하기 좋을 거 같아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036535",
+    "RawText": "안녕하세요. 제가 올 가을 겨울 아주 빠져버린 아이템이죠. 바로 플레어스커트인데요. 그중에서도 OOO에서 출시한 울혼방 스커트를 제일 잘 입고 있어서 오늘 소개를 해드려보려고 해요.  이 제품은 투톤 느낌의 멜란지 컬러라서 먼가 시각적으로 풍성한 느낌을 주는데요. 폴리에스터의 함유로 내구성이 강하고 원단이 구김이 잘 생기지 않아서 활동하기도 너무 좋은 스커트에요. 길이감도 딱 좋고, 부츠에 코디해서 입고 나가니 다들 예쁘다고 칭찬해줬답니다.ㅎㅎ  보온성도 있으면서 우아한 실루엣의 스커트를 찾으신다면 OOO 울혼방 스커트 구입해보세요~~^^ 정말 예쁜 스커트에요.ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울혼방 세** 스커트",
+    "Syllable": "319",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "이 제품은 투톤 느낌의 멜란지 컬러라서 먼가 시각적으로 풍성한 느낌을 주는데요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "폴리에스터의 함유로",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "내구성이 강하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "원단이 구김이 잘 생기지 않아서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동하기도 너무 좋은 스커트에요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감도 딱 좋고, ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "부츠에 코디해서 입고 나가니 다들 예쁘다고 칭찬해줬답니다.ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성도 있으면서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "우아한 실루엣의 스커트를 찾으신다면 OOO 울혼방 스커트 구입해보세요~~^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정말 예쁜 스커트에요.ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036536",
+    "RawText": "요즘들어 갑자기 날씨가 많이 쌀쌀해졌죠? 오늘은 가을, 겨울에 입으시기 좋은 OOO 스커트 실착용후기 들려드리려고 합니다.  OOO 스커트는 울 블렌드 원단으로 한 겨울까지 따뜻하게 입으시기 좋은데요. 무게감도 생각보다 무겁지 않아서 좋았답니다. 또 뒷면에 밴딩처리가 되어 있어서 착용감이 한결 더 편안했어요. 실제로 받아보니 컬러도 훨씬 이쁘고 앵클부츠에 이쁘게 잘 어울리는 길이감이네요. ㅎㅎ   OOO 스커트!! 올 연말 모임에 이쁘게 입어보세요~~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 드** 벨트스커트 ",
+    "Syllable": "256",
+    "Word": "57",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을, 겨울에 입으시기 좋은 OOO 스커트 실착용후기 들려드리려고 합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "OOO 스커트는 울 블렌드 원단으로 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 한 겨울까지 따뜻하게 입으시기 좋은데요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 생각보다 무겁지 않아서 좋았답니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 뒷면에 밴딩처리가 되어 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 한결 더 편안했어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "실제로 받아보니 컬러도 훨씬 이쁘고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "앵클부츠에 이쁘게 잘 어울리는 길이감이네요. ㅎㅎ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "올 연말 모임에 이쁘게 입어보세요~~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036537",
+    "RawText": "안녕하세요. 남녀 노소 전 세대를 아우르고, 클래식한 아노락, 티셔츠, 셔츠로 가장 유명한 유니섹스한 매력을 가진 브랜드 OOO에서 만든 조거 배기팬츠를 추천해드리려고 합니다.  이 팬츠는 탄탄한 폴리에스터 소재로 부드럽고 구김이 잘 가지 않아서 입기 정말 편한 팬츠랍니다. 세미배기핏으로 전체적으로 슬림해보이고, 포멀한 룩이나 캐쥬얼한 룩 모두가 다 연출하기 좋은 팬츠에요. 또 기모라서 포근하고 부드러우면서 겨울철에 입기에 충분한 보온성도 갖추고 있어서 특히 좋았답니다.  OOO 조거\u0026배기팬츠 믿고 구매해보세요~~ 만족하실꺼에요 ^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 조거 \u0026 배기팬츠 ",
+    "Syllable": "301",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "탄탄한 폴리에스터 소재로",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드럽고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김이 잘 가지 않아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입기 정말 편한 팬츠랍니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세미배기핏으로 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "전체적으로 슬림해보이고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "포멀한 룩이나 캐쥬얼한 룩 모두가 다 연출하기 좋은 팬츠에요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모라서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "포근하고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "부드러우면서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036538",
+    "RawText": "안녕하세요. 오늘은 OOO 윈터팬츠를 여러분께 소개해드리고 싶어서 왔어요. ㅎㅎ 리뷰 시작해 보겠습니다.  OOO 윈터팬츠는 구김이 잘 생기지 않고, 세탁 후 건조가 빨라서 세탁에도 부담이 없어요. 입으면 활동감이 편안하고, 동시에 따뜻해서 겨울에 입기에 딱인 팬츠인데요. 앞부분에 턱주름이 스타일리쉬한 느낌을 주면서 핏이 여유있어서 체형커버에도 좋은 팬츠랍니다. 가격이 저렴해서 특히 더 만족스러웠답니다.  OOO 윈터팬츠!!  겨울에 따뜻하게 입어보세요. 추천드립니다.^^ ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 울 윈터팬츠 3종 ",
+    "Syllable": "267",
+    "Word": "55",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "OOO 윈터팬츠는 구김이 잘 생기지 않고,",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "세탁 후 건조가 빨라서 세탁에도 부담이 없어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입으면 활동감이 편안하고,",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "동시에 따뜻해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 입기에 딱인 팬츠인데요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞부분에 턱주름이 스타일리쉬한 느낌을 주면서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 여유있어서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "체형커버에도 좋은 팬츠랍니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 특히 더 만족스러웠답니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "겨울에 따뜻하게 입어보세요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036539",
+    "RawText": "안녕하세요. 저는 OOO 제품이 품질도 좋으면서 디자인도 트렌디해서 자주 사입고 있는데요. 이번에도 오랜만에 가을팬츠를 구입해서 입어 봤답니다.  역시나 기대했던 대로 넘넘 만족스러운 OOO인데요.ㅎㅎ 팬츠의 소재가 탄탄해서 옷의 변형이 적어서 오랜 기간 입어도 될 것 같은 느낌이 들었어요.  또 가을부터 겨울까지 따뜻하게 입을 수 있는 톡톡한 두께감도 마음에 들었답니다. 키가 중간정도인 제가 입기에도 기장감이 딱 좋아서 요즘 출근룩으로 매일 입고 있어요.   OOO 가을팬츠. 오랜 만에 만족스러운 쇼핑이었네요.^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 가을팬츠 3종 ",
+    "Syllable": "291",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "팬츠의 소재가 탄탄해서 옷의 변형이 적어서 오랜 기간 입어도 될 것 같은 느낌이 들었어요. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을부터 겨울까지 따뜻하게 입을 수 있는 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "톡톡한 두께감도 마음에 들었답니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "키가 중간정도인 제가 입기에도 기장감이 딱 좋아서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "요즘 출근룩으로 매일 입고 있어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036727",
+    "RawText": "날씨가 정말 좋아진 것 같아요!! 이런 날에는 진짜 이런 가디건을 입어야 좋은 것 같아요!! 그래서 추천 드리려고 가져 왔습니다~~ 후기 바로 시작할게요 ㅎㅎ  일단 옷 디자인이 정말 예쁜 것 같아요!! 그래서 너무 좋은 것 같습니다!! 핏도 정말 예쁘고 가디건 색상도 부드러워서 좋은 것 같네요~~ㅎㅎ 소재도 너무 좋고 두께도 괜찮아서 마음에 들어요!! 가을에 입기 정말 좋은 것 같습니다! 저는 친구들 선물도 이 옷으로 해주고 있어요~ 받는 친구들마다 다 좋아하는 걸 봐서는 선물로도 최고네요!!  추천 드리고 싶은 가디건입니다!! 꼭 한 번 입어 보세요~ 품질 최고입니다 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 가디건 ",
+    "Syllable": "325",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷 디자인이 정말 예쁜 것 같아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 정말 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "가디건 색상도 부드러워서 좋은 것 같네요~~ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 너무 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 괜찮아서 마음에 들어요!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을에 입기 정말 좋은 것 같습니다!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 최고입니다 ㅎㅎ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036728",
+    "RawText": "가디건은 역시 여기가 제일 잘 만드는 것 같아요!! 그래서 추천 드리고 싶어 오늘 후기를 작성하게 되었습니다~~  이 브랜드에서 다른 옷도 많이 입어 봤고 가디건도 입어 봤는데 이번에 이 가디건이 새로 나와서 저도 구매를 하게 되었습니다!! 개인적으로 이 가디건을 좋아하는 이유는 촉감이 정말 부드러워서 착용감이 너무 뛰어나요~~ 무게도 가벼워서좋고 여름 밤부터 가을 내내 입기 좋은 것 같습니다~~ 네이비 색상도 고급스럽고 품질도 좋아 보여 추천 드리고 싶네요~~ㅎㅎ  가디건은 여기서 구매하세요!! 진짜 최고인 것 같아요!! 다른 가디건 보다 훨씬 좋습니다~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 가디건 ",
+    "Syllable": "314",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 정말 부드러워서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 너무 뛰어나요~~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워서좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름 밤부터 가을 내내 입기 좋은 것 같습니다~~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "네이비 색상도 고급스럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋아 보여 추천 드리고 싶네요~~ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036729",
+    "RawText": "가을에 입기 좋은 가디건을 가져 왔습니다!! 이 가디건 만큼 좋은 가디건은 보지 못 한 것 같아요!! 바로 후기 시작할게요~  제가 이 가디건은 매년 새로운 색상을 사서 입는 것 같아요~ 색상도 정말 예뻐서 산뜻하게 입기 좋고 부드러운 면 소재라 너무 좋은 것 같습니다~~ 구김도 없고 마감 처리도 잘 되어 있어서 너무 좋아요~!ㅎㅎㅎㅎ가을 낮에는 솔직히 더울 때가 있는데 이 옷은 통기성도 좋아서 시원한 것 같아요~ 그래서 이 가디건은 가을에 입기 좋은 것 같네요~  가을에 입을 가디건을 찾으시면 이 가디건을 추천 드리고 싶어요 ㅎㅎㅎ꼭 입어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코튼 가디건 ",
+    "Syllable": "310",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을에 입기 좋은 가디건을 가져 왔습니다!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 정말 예뻐서 산뜻하게 입기 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "부드러운 면 소재라 너무 좋은 것 같습니다~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "구김도 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감 처리도 잘 되어 있어서 너무 좋아요~!ㅎㅎㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 옷은 통기성도 좋아서 시원한 것 같아요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 가디건은 가을에 입기 좋은 것 같네요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을에 입을 가디건을 찾으시면 이 가디건을 추천 드리고 싶어요 ㅎㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036730",
+    "RawText": "이제 코트를 입기 정말 좋은 계절이 온 것 같아요!! 이 코트 같은 경우에는 정말 보온이 따뜻하기 때문에 추천 드리고 싶어 가져오게 되었습니다!!  일단 이 코트는 정말 가격은 비싸지만 품질이 좋은 것 같습니다. 최근에 코트가 필요해서 이것 저것 알아 보다가 이 코트가 후기가 가장 좋아서 선택을 하게 된 것 같습니다!! 다른 코트 다 필요 없는 것 같아요~ 마감 처리 깔끔하고 두께도 꽤 두꺼워서 입으면 보온이 뛰어난 것 같아요!! 다리 까지 떨어지는 기장감도 정말 좋고 일자 핏도 너무 예뻐서 추천 드리고 싶어요!!  요새는 이 코트만 정말 입고 나가고 있는 것 같아요!! 코트 찾으시면 추천 드릴게요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 아** 코트 ",
+    "Syllable": "339",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 코트 같은 경우에는 정말 보온이 따뜻하기 때문에 추천 드리고 싶어 가져오게 되었습니다!!",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 코트는 정말 가격은 비싸지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 것 같습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감 처리 깔끔하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 꽤 두꺼워서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입으면 보온이 뛰어난 것 같아요!!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "다리 까지 떨어지는 기장감도 정말 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "일자 핏도 너무 예뻐서 추천 드리고 싶어요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036731",
+    "RawText": "가을이 다가 오고 있어요~ 이제는  정말 자켓을 입어줘야 되는 것 같아요! 그래서 저는 이 자켓을 추천 해드리고 싶었습니다~~ ㅎㅎ 후기 바로 시작할게요^^  이 자켓 같은 경우에는 제가 정말 좋아하는 자켓이에요!! 색상도 너무 예쁘고 핏도 너무 괜찮아서 항상 옷장을 열면 먼저 입고 싶어지는 자켓이에요~ 사이즈도 잘 나와 있고 기장감도 정말 좋아 가지고 따로 수선을 안 해도 되는 것 같습니다~ 통기성도 우수해서 지금 같이 낮에는 더울 때도 입어도 좋은 것 같습니다!! 저는 오늘도 입고 나갔네요!  블레이저는 OOOO 싱글 블레이저로 구매 추천 드리고 싶어요!! 품질 우수합니다~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 싱글 블레이저 ",
+    "Syllable": "326",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 너무 예쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 너무 괜찮아서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 나와 있고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장감도 정말 좋아 가지고 따로 수선을 안 해도 되는 것 같습니다~",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통기성도 우수해서 지금 같이 낮에는 더울 때도 입어도 좋은 것 같습니다!!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 우수합니다~",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036732",
+    "RawText": "블레이저는 정말 옷장에 하나 정도는 가지고 있는 게 좋은 거 같아요!! 약간 격식 있는 자리에나 캐주얼 하게 입고 갈 때 좋기에 필요한 옷 중 하나입니다~~ㅎㅎ   이 옷 같은 경우에는 확실히 품질이 좋은 것 같아요!! 마감 처리가 너무 깔끔해서 실밥 터져 나온 것도 없습니다~~ 체크 패턴도 굉장히 고급스러워 예쁘고 무엇보다 사이즈가 딱 맞게 잘 나와서 좋은 것 같습니다!! 착용감도 너무 편해서 입고 활동하기 좋은 것 같습니다!! 색상 또한 예뻐서 좋은 것 같아요!! 저는 요새 이 블레이저를 다양하게 코디해서 입고 있는 것 같습니다!!  꼭 추천 드리고 싶은 블레이저입니다~~ 블레이저 찾으시면 이 옷 추천 드리고 싶어요!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 싱글 블레이저 ",
+    "Syllable": "352",
+    "Word": "93",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 옷 같은 경우에는 확실히 품질이 좋은 것 같아요!! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감 처리가 너무 깔끔해서 실밥 터져 나온 것도 없습니다~~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "체크 패턴도 굉장히 고급스러워 예쁘고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 딱 맞게 잘 나와서 좋은 것 같습니다!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 너무 편해서 입고 활동하기 좋은 것 같습니다!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 또한 예뻐서 좋은 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이 블레이저를 다양하게 코디해서 입고 있는 것 같습니다!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036733",
+    "RawText": "터틀넥은 역시 OOOO 입어야 됩니다!! 제 생각에는 OOOO가 제일 잘 만드는 것 같아요~~ 이렇게 품질 좋은 옷 입으시고 올 겨울 따뜻하게 보내세요~  요새 너무 추워지는 것 같아서 터틀넥 찾다가 이 옷이 후기도 좋고 친구도 추천 해서 구매를 하게 되었습니다!! 후기를 시작하면 일단 가격도 저렴하고 품질도 좋습니다! 소재도 부드럽고 마감도 완벽해요~!! 착용감도 좋아서 입을 때 느낌이 좋네요~ 보온성도 뛰어나 정말 따뜻한 것 같아요~ 개인적으로 집에서 내복 대신에 사용해도 정말 좋을 것 같다 생각이 드네요!!  가성비 좋은 옷이라서 추천 드리고 싶었어요~~ OOOO 터틀넥 추천 합니다 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 브** 긴팔티 터틀넥",
+    "Syllable": "335",
+    "Word": "84",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이렇게 품질 좋은 옷 입으시고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "올 겨울 따뜻하게 보내세요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감도 완벽해요~!! ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 좋아서 입을 때 느낌이 좋네요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 보온성도 뛰어나 정말 따뜻한 것 같아요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "집에서 내복 대신에 사용해도 정말 좋을 것 같다 생각이 드네요!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 좋은 옷이라서 추천 드리고 싶었어요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036734",
+    "RawText": "라이더 자켓은 바로 이 옷으로 입으시면 정말 좋을 것 같아요!! 제가 생각하기에는 라이더 자켓 중에 품질이 제일 좋은 것 같다고 생각이 들어요~ㅎㅎ  두께도 얇아서 봄 가을에 입기 좋은 것 같아요~ㅎㅎ 색상도 예뻐서 너무 좋고 마감도 너무 잘 처리가 되어 있어서 좋았습니다!! 무엇보다 가격이 저렴해서 구매할 때 부담이 없어서 좋았던 것 같아요~ 저는 이번에 너무 만족해서 다음에도 또 구매를 할 것 같아요~ 완전 추천 드리고 싶네요!! 디자인도 너무 잘 나와서 입고 나가면 다들 잘 어울린다고 해주네요!  여러모로 추천 드리고 싶은 라이더 자켓입니다!! 꼭 한 번 입어 보세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 까** 라이더 자켓",
+    "Syllable": "324",
+    "Word": "86",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "라이더 자켓 중에 품질이 제일 좋은 것 같다고 생각이 들어요~ㅎㅎ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 얇아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봄 가을에 입기 좋은 것 같아요~ㅎㅎ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 예뻐서 너무 좋고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감도 너무 잘 처리가 되어 있어서 좋았습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 구매할 때 부담이 없어서 좋았던 것 같아요~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 너무 잘 나와서 입고 나가면 다들 잘 어울린다고 해주네요!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036735",
+    "RawText": "안녕하세요~ 오늘은 가을에 입기 정말 좋은 라이더 자켓을 하나 가져 왔어요!! 후기 들어 보시고 괜찮으시면 구매 하셔도 참 좋을 것 같습니다~ 그럼 후기 바로 시작할게요~  이 자켓 같은 경우에는 착용감이 너무 좋아서 자주 입게 됩니다!! 소재도 상당히 좋은 거 같아서 마음에 들어요~ 길이감도 괜찮아서 정말 좋은 것 같아요!! 저는 개인적으로 사이즈가 너무 잘 맞아서 정말 좋은 것 같습니다~~ 여러모로 괜찮은 것 같습니다~라이더 자켓 찾으시면 저는 이 제품으로 추천 드리고 싶습니다~~ 요새 너무 잘 입고 다니고 있어요~ ㅎㅎ  라이더 자켓은 이 제품으로 구매 하세요!! 가격도 그렇기 비싸지 않습니다~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 까** 라이더 자켓",
+    "Syllable": "339",
+    "Word": "87",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을에 입기 정말 좋은 라이더 자켓을 하나 가져 왔어요!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 너무 좋아서 자주 입게 됩니다!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 상당히 좋은 거 같아서 마음에 들어요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감도 괜찮아서 정말 좋은 것 같아요!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 너무 잘 맞아서 정말 좋은 것 같습니다~~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 그렇기 비싸지 않습니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1036750",
+    "RawText": "안녕하세요~ 오늘 리뷰를 하기 위해 가져온 제품은 OO 벨벳 트랙 탑입니다! OO 트레이닝 복이 요새 유명해서 저도 한 번 사 입어보고 제품 리뷰를 쓰게 됐어요!       벨벳이라서 그런지 더 뭔가 멋있어보이는 효과가 납니다. 트레이닝 복 자칫 잘못하면 고등학생 때 공부하러 도서관 가던 패션 되는데 이 제품은 트렌디한 디자인이랑 색감때문에 멋있어 보입니다. 핏도 오버핏이라서 좋습니다. 요즘에는 외출복으로도 홈웨어로도 편하게 입고 있습니다.   여러분도 한 번 구매해서 써보는 것 어떠세요? 추천드립니다!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 벨** 트랙 탑 ",
+    "Syllable": "284",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "벨벳이라서 그런지 더 뭔가 멋있어보이는 효과가 납니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이 제품은 트렌디한 디자인이랑 색감때문에 멋있어 보입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감때문에 멋있어 보입니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 오버핏이라서 좋습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "요즘에는 외출복으로도 홈웨어로도 편하게 입고 있습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036751",
+    "RawText": "OOOO OOO이 입으셔서 유명해진 OO 마운틴 크루넥 스웨터! 저도 한 번 사서 입어봤답니다~  프리미엄 아크릴원사로 짜여져서 소재가 진짜 부드럽고 보풀도 잘 안납니다. 한 번 빨아봤는데 사이즈 줄어드는 현상도 없네요. 디자인도 독특하면서 이쁩니다. 색도 화면에서 보이는 색과 똑같이 이쁩니다. 오버핏이어서 여리여리한 느낌을 줘서 참 좋습니다. 바느질도 꼼꼼하게 잘 되어있는 것 같습니다. 품질도 좋고 디자인도 이쁜 스웨터인 것 같습니다~  다음에는 더 좋은 상품 리뷰로 돌아올게요~ 그럼 안녕~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 마** 크루넥 스웨터 ",
+    "Syllable": "278",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "프리미엄 아크릴원사로 짜여져서 소재가 진짜 부드럽고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": " 보풀도 잘 안납니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "한 번 빨아봤는데 사이즈 줄어드는 현상도 없네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 독특하면서 이쁩니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색도 화면에서 보이는 색과 똑같이 이쁩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "오버핏이어서 여리여리한 느낌을 줘서 참 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "바느질도 꼼꼼하게 잘 되어있는 것 같습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁜 스웨터인 것 같습니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036752",
+    "RawText": "요즘 지하철 광고에 많이 나오는 OOO 브랜드 의류를 사고 싶어서 구매해봤어요! 예전부터 갖고 싶었는데 이제야 샀습니다.  일단 소재가 부드러워서 너무 좋습니다. 어떤 니트는 따가워서 입기 꺼려지기도 하는데 이 니트는 원단이 부드러워서 너무 좋습니다. OOO의 시그니처인 C로고가 큰 사이즈로 새겨져 있어서 포인트도 되고 디자인적으로도 깔끔하니 이쁩니다. 편한 가을 데일리룩 아이템으로 딱인 것 같습니다~       앞으로 잘 입어보도록 할게요~! 오늘의 제품 후기는 여기서 끝! 다음에 더 좋은 제품으로 돌아오도록 할게요! 다음 포스팅에서 봐요~!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 램** 로고 크루넥 니트 ",
+    "Syllable": "307",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "일단 소재가 부드러워서 너무 좋습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "이 니트는 원단이 부드러워서 너무 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OOO의 시그니처인 C로고가 큰 사이즈로 새겨져 있어서 포인트도 되고 디자인적으로도 깔끔하니 이쁩니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "편한 가을 데일리룩 아이템으로 딱인 것 같습니다~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036753",
+    "RawText": "오늘 리뷰해볼 제품은 맨투맨인데요! 색상이 너무 이뻐보여서 구매해봤어요~       일단 받았을 때 든 생각은 디자인이 엄청 깔끔하고 심플해서 마음에 들었다는 점입니다. 그린 색과 대비되게 화이트 자수로 브랜드 로고가 새겨져 있어서 센스 있는 디자인의 옷이라는 생각이 들었어요. 이 맨투맨은 목 늘어남 방지를 위해서 헤링본 테이프까지 있답니다. 정말 디자인도 좋고 사이즈, 품질까지 너무나도 좋은 맨투맨입니다!  오늘 리뷰한 상품 어떠셨나요~? 앞으로 열심히 입을 것 같다는 말을 남기면서 오늘 리뷰 마칠게요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 어** 로고 맨투맨 ",
+    "Syllable": "285",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "일단 받았을 때 든 생각은 디자인이 엄청 깔끔하고 심플해서 마음에 들었다는 점입니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그린 색과 대비되게 화이트 자수로 브랜드 로고가 새겨져 있어서 센스 있는 디자인의 옷이라는 생각이 들었어요. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 맨투맨은 목 늘어남 방지를 위해서 헤링본 테이프까지 있답니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정말 디자인도 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈, 품질까지 너무나도 좋은 맨투맨입니다!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질까지 너무나도 좋은 맨투맨입니다!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036754",
+    "RawText": "제가 OOOO OOO 팬인데 어느 날 SNS에 이 제품을 입고 올리신 걸 보고 저도 따라 구매해봤습니다~  이 제품은 디자인이 마치 자연을 담아낸 것 같아서 좋습니다. 윗부분은 하늘을 표현되어 있고 아래부분은 산이 그려져 있어서 디자인이 독특합니다. 디자인이 독특하다고 해서 싫은 게 아니라 너무 마음에 듭니다. 소재도 좋고 소재의 짜임도 촘촘하니 좋습니다. 핏도 좋고 디자인이 이뻐서 어느 옷에나 다 잘 어울립니다. 좋은 스웨터 얻어갑니다~  오늘의 후기는 여기까지입니다. 품질 좋고 디자인이 이쁜 니트 찾으시는 분은 얼른 구매하시길 바랍니다!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 마** 크루넥 스웨터 ",
+    "Syllable": "305",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이 제품은 디자인이 마치 자연을 담아낸 것 같아서 좋습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "윗부분은 하늘을 표현되어 있고 아래부분은 산이 그려져 있어서 디자인이 독특합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 독특하다고 해서 싫은 게 아니라 너무 마음에 듭니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋고 소재의 짜임도 촘촘하니 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이뻐서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어느 옷에나 다 잘 어울립니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이쁜 니트 찾으시는 분은 얼른 구매하시길 바랍니다!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036755",
+    "RawText": "오늘 리뷰해 볼 제품은 OO 벨벳 트랙 탑이에요! 지인이 입은 게 디자인이 너무 이뻐보여서 구매해서 입었는데 너무 좋아서 블로그에 후기를 남기게 됐어요!  소재가 벨벳이라서 뭔가 더 고급스러운 느낌이 나는 옷입니다. 어깨부터 팔 쪽으로 OO 트레이트 마크인 두 줄이 내려오는데 이것도 깔끔하니 이쁩니다. 디자인도 루즈핏이라서 마음에 듭니다. 원래 트레이닝 복은 루즈하게 입어야 더 이쁘잖아요. 그리고 벨벳이라 더 따뜻해서 간절기에 입기 좋을 것 같습니다.       오늘 가져온 제품의 리뷰는 여기까지입니다~ 다음에는 더 좋은 제품을 들고 와 보도록 할게요~ 다음 포스팅에서 만나도록 해요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 벨** 트랙 탑 ",
+    "Syllable": "330",
+    "Word": "79",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "지인이 입은 게 디자인이 너무 이뻐보여서 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 벨벳이라서 뭔가 더 고급스러운 느낌이 나는 옷입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "어깨부터 팔 쪽으로 OO 트레이트 마크인 두 줄이 내려오는데 이것도 깔끔하니 이쁩니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 루즈핏이라서 마음에 듭니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "벨벳이라 더 따뜻해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간절기에 입기 좋을 것 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036756",
+    "RawText": "지인이 소개해 준 OOO 램스울 C 로고 크루넥 니트! 저도 입어보고 좋아서 여러분께 추천해주고자 글을 씁니다~       배송 받자마자 입어봤는데 옷 핏이 정말 좋습니다. 뭔가 여리여리해보이는 오버핏으로 군살까지 다 커버해줍니다. 데일리템으로 입기 좋은 깔끔한 디자인이어서 코디하기도 쉽고 남녀노소 누가 입어도 잘 어울릴 것 같습니다. C로고 컬러 배색이 포인트가 되어서 더 매력있는 디자인입니다.  오늘의 리뷰 제품 어떠셨나요? 여러분도 한번 구매해보시길 추천드릴게요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 램** 로고 크루넥 니트 ",
+    "Syllable": "264",
+    "Word": "59",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "옷 핏이 정말 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "뭔가 여리여리해보이는 오버핏으로 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "군살까지 다 커버해줍니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리템으로 입기 좋은 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인이어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "코디하기도 쉽고 남녀노소 누가 입어도 잘 어울릴 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "C로고 컬러 배색이 포인트가 되어서 더 매력있는 디자인입니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036757",
+    "RawText": "오늘 여러분께 소개해드릴 제품은 OO 마운틴 크루넥 스웨터입니다! 바로 리뷰 시작~~~  받자마자 느낀 점은 소재가 정말 좋다는 점입니다. 소재가 부들부들하고 그렇게 크게 늘어지는 느낌도 들지 않아서 좋습니다. 디자인도 뭔가 게임 배경화면 같아서 독특한 느낌이 듭니다. 오버핏으로 나와서 좋습니다. 그리고 원단 두께가 좀 있어서 입으면 아주 따뜻합니다. 디자인도 이쁘고 품질도 좋은 니트 득템했네요! 감사합니다~       오늘 제품 리뷰는 어떠셨나요? 여러분도 한 번 꼭 사용해보셨으면 하는 마음으로 블로그 포스팅 마치겠습니다!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 마** 크루넥 스웨터 ",
+    "Syllable": "296",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "받자마자 느낀 점은 소재가 정말 좋다는 점입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 부들부들하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그렇게 크게 늘어지는 느낌도 들지 않아서 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 뭔가 게임 배경화면 같아서 독특한 느낌이 듭니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "오버핏으로 나와서 좋습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "원단 두께가 좀 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입으면 아주 따뜻합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋은 니트 득템했네요! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036758",
+    "RawText": "사계절 내내 입기 좋은 기본 맨투맨 찾다가 발견한 제품입니다. 그럼 리뷰 시작할게요!  OOO은 지난 여름부터 꾸준히 애정하고 있는 브랜드입니다. 봄 맞이해서 이 맨투맨을 장만했는데요~ 루즈핏이라서 편안하게 입기도 좋고 스커트나 팬츠 어디에나 잘 어울려서 데일리룩 코디하기에 정말 쉬운 맨투맨입니다. 색깔도 오트밀 색이어서 마음에 들고 로고가 크게 쓰여져 있는 디자인이 더 마음에 듭니다.  오늘 제품 리뷰는 여기까지예요! 오늘 리뷰한 제품이 마음에 드셨다면 한 번 구매해보시는 것도 추천드릴게요! 그럼 다음 리뷰에서 만나요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 빅** 로고 맨투맨",
+    "Syllable": "294",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "루즈핏이라서 편안하게 입기도 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "스커트나 팬츠 어디에나 잘 어울려서 데일리룩 코디하기에 정말 쉬운 맨투맨입니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색깔도 오트밀 색이어서 마음에 들고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "로고가 크게 쓰여져 있는 디자인이 더 마음에 듭니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036759",
+    "RawText": "안녕하세요~~~ 오늘 리뷰할 제품은 맨투맨인데요~~~  수많은 그린 색상 중에 제가 정말 좋아하는 그린 컬러와 비슷합니다! 차분하면서 살짝 톤 다운되어 있어서 부담스럽지 않게 입을 수 있는 컬러여서 좋습니다. 팔이나 총 기장도 짧지 않아서 좋습니다. 색이 이뻐서 그런지 다양한 하의와도 잘 코디할 수 있어 좋습니다. 로고가 자수로 새겨져 있어서 더 고퀄리티처럼 보입니다. 만족스럽습니다!       다들 봄에 입기 딱인 이 맨투맨을 입어 보시는 건 어떨까요? 이상 오늘의 리뷰였습니다~~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 어** 로고 맨투맨 ",
+    "Syllable": "272",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "수많은 그린 색상 중에 제가 정말 좋아하는 그린 컬러와 비슷합니다!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "차분하면서 살짝 톤 다운되어 있어서 부담스럽지 않게 입을 수 있는 컬러여서 좋습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이나 총 기장도 짧지 않아서 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 이뻐서 그런지",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "다양한 하의와도 잘 코디할 수 있어 좋습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "로고가 자수로 새겨져 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "더 고퀄리티처럼 보입니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다들 봄에 입기 딱인 이 맨투맨을 입어 보시는 건 어떨까요? ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036760",
+    "RawText": "이쁜 겨울 자켓이 마땅한 게 없어서 구매했습니다. 그럼 리뷰 시작하겠습니다~       큼직한 카라가 매력적이고 이쁩니다. 컬러도 너무 다양해서 고르는 데 정말 고민 많이 했답니다. 저는 오트밀 컬러로 구매했는데 색이 마음에 듭니다. 오트밀 컬러가 이 숏 자켓의 매력을 가장 잘 살려주는 컬러인 것 같아서 좋습니다. 사이즈도 넉넉해서 오버핏 이너를 입어도 잘 입을 수 있습니다. 소재도 좋고 마감도 깔끔해서 정말 좋은 것 같습니다~  리뷰 원하는 제품이 있으시다면 댓글에 남겨주세요! 그럼 다음 리뷰에서 봐요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 맥** 숏 자켓 ",
+    "Syllable": "285",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "큼직한 카라가 매력적이고 이쁩니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "저는 오트밀 컬러로 구매했는데 색이 마음에 듭니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "오트밀 컬러가 이 숏 자켓의 매력을 가장 잘 살려주는 컬러인 것 같아서 좋습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 넉넉해서 오버핏 이너를 입어도 잘 입을 수 있습니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": " 마감도 깔끔해서 정말 좋은 것 같습니다~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036761",
+    "RawText": "오늘 리뷰해 볼 제품은 OO 브이넥 베이직 가디건이에요! 시작해 볼게요.       저는 팔이 긴 편이라서 팔이 안 맞을까봐 걱정이었는데 이 제품은 팔이 짧지 않아서 좋았습니다. 옷 재질이 부드러워서 좋고 얇아서 껴입기에도 적합할 것 같습니다. 그런데 크롭은 아닌 것 같았는데 막상 입어보니까 기장이 짧아서 하이웨스트 바지를 입지 않으면 배가 보입니다. 기장이 좀 짧아서 아쉽습니다. 그래도 디자인은 깔끔하고 활용도가 높은 기본템으로 무난하게 잘 입고 다닐 것 같습니다~  오늘 제품 리뷰는 여기까지입니다. 읽어주셔서 감사합니다.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 브이넥 베** 가디건 ",
+    "Syllable": "296",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "이 제품은 팔이 짧지 않아서 좋았습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옷 재질이 부드러워서 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇아서 껴입기에도 적합할 것 같습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "크롭은 아닌 것 같았는데 막상 입어보니까 기장이 짧아서 하이웨스트 바지를 입지 않으면 배가 보입니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 좀 짧아서 아쉽습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 깔끔하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용도가 높은 기본템으로 무난하게 잘 입고 다닐 것 같습니다~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036762",
+    "RawText": "백화점에서 OO 매장 구경하다가 마음에 들어서 온라인으로 바로 구매해봤답니다. 그럼 리뷰 시작할게요!  OO 코트를 온라인으로 주문하면 비닐 포장이 되어 오는데 정말 꼼꼼하게 포장되어 와서 정말 좋았습니다. 입었을 때 꽤 따뜻해서 한겨울에도 잘 입을 수 있을 것 같았습니다. 디자인이 벨트코트라서 코트원피스 같은 느낌으로 코디해서 입어도 이쁩니다. 다만, 코트가 좀 무거워서 신경이 쓰이긴 합니다. 그래도 이 점 말고는 색상도 이쁘고 기장도 적당하고 소재도 좋아서 만족합니다!  디자인이 이쁜 겨울 코트 찾으시는 분에게 추천합니다. 저는 그럼 다음 리뷰로 돌아올게요. 안녕~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 테일러드 롱 코트 ",
+    "Syllable": "321",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "입었을 때 꽤 따뜻해서 한겨울에도 잘 입을 수 있을 것 같았습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 벨트코트라서 코트원피스 같은 느낌으로 코디해서 입어도 이쁩니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "다만, 코트가 좀 무거워서 신경이 쓰이긴 합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋아서 만족합니다!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 이쁜 겨울 코트 찾으시는 분에게 추천합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036763",
+    "RawText": "제가 정말 애정하는 브랜드 OO에서 새로운 신상 코트가 나와서 바로 구매해서 입어봤답니다! 솔직한 내돈내산 후기니까 집중해서 봐주세요!  이 코트는 허리에 끈이 있는 스타일이라서 세련되게 연출할 수 있다는 장점이 있습니다. 디자인 자체가 깔끔하게 잘 떨어져서 어떤 가방이나 신발을 신어도 잘 매치됩니다. 재질도 고급스럽고 가격 대비 품질이 좋습니다. 보풀이나 실빠짐도 잘 안 생길 것 같습니다. 색상도 여성스럽고 우아해 보입니다. 마음에 드는 코트로 올 겨울 잘 보낼 수 있을 듯하네요.  내돈내산 리뷰라서 안 좋은 점도 쓰려고 했는데 입어보니 안 좋은 점이 없는 코트입니다. 여러분도 겨울 코트 OO에서 장만하세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 테일러드 롱 코트 ",
+    "Syllable": "345",
+    "Word": "85",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이 코트는 허리에 끈이 있는 스타일이라서 세련되게 연출할 수 있다는 장점이 있습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 자체가 깔끔하게 잘 떨어져서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어떤 가방이나 신발을 신어도 잘 매치됩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 고급스럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "가격 대비 품질이 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이나 실빠짐도 잘 안 생길 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 여성스럽고 우아해 보입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "마음에 드는 코트로 올 겨울 잘 보낼 수 있을 듯하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036764",
+    "RawText": "오늘 소개해 드릴 제품은 여러분들이 추천해주신 제품 중 하나인 OO 맥카라 숏 자켓입니다. 그럼 소개 시작할게요~ 다들 끝까지 집중!  이 제품은 추워지기 시작하는 가을부터 겨울까지 입기 좋은 자켓입니다. 개인적으로는 기장이 긴 아우터를 선호하지 않는데 이 제품은 기장이 엉덩이시작 라인에서 끝나서 너무 마음에 듭니다. 디자인은 심플하면서도 귀여워서 자주 입을 것 같습니다. 다양한 룩에 잘 어울리는 기본템이라서 휘뚜루 마뚜루 잘 입고 다닐 것 같습니다.   OO에서 오랜기간 꾸준히 팔리는 옷이라고 하니 여러분도 한 번 구매해보시는 걸 추천드립니다~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 맥** 숏 자켓 ",
+    "Syllable": "308",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 제품은 추워지기 시작하는 가을부터 겨울까지 입기 좋은 자켓입니다. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "이 제품은 기장이 엉덩이시작 라인에서 끝나서 너무 마음에 듭니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 심플하면서도 귀여워서 자주 입을 것 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "다양한 룩에 잘 어울리는 기본템이라서 휘뚜루 마뚜루 잘 입고 다닐 것 같습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036765",
+    "RawText": "오늘 리뷰할 제품은 OO 트위드 퍼프 소매 반팔 숏자켓입니다! 그럼 바로 리뷰해볼게요!  두께도 적당하고 소재도 좋습니다. 너무 얇으면 흐물거려서 좀 별로인데 이 제품은 두께가 적당하게 있어서 흐물거리지도 않고 좋습니다. 색상도 화사하니 이뻐서 데님에 입어도 화사한 코디가 완성됩니다. 다만 아쉬운 점은 허리를 잡아주는 디자인이었다면  더 이뻤을 것 같아서 조금 아쉽습니다. 핏이 살짝 어정쩡한 느낌이 나네요. 그래도 나름 만족합니다.       오늘의 내돈내산 리뷰는 여기서 마칩니다! 다음에는 또 다른 제품으로 리뷰할게요! 안녕~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퍼프 소매 반팔 숏자켓 ",
+    "Syllable": "298",
+    "Word": "68",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 적당하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이 제품은 두께가 적당하게 있어서 흐물거리지도 않고 좋습니다. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 화사하니 이뻐서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데님에 입어도 화사한 코디가 완성됩니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "아쉬운 점은 허리를 잡아주는 디자인이었다면  더 이뻤을 것 같아서 조금 아쉽습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 살짝 어정쩡한 느낌이 나네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1036766",
+    "RawText": "오늘 리뷰할 제품은 OO 맥카라 숏 자켓입니다! 여러분들의 후기 요청에 힘입어 제가 한 번 구매했는데 제품 좋아서 소개해 드릴게요.  이전 OO의 숏 자켓보다는 기장이 더 짧아져서 이쁜 것 같습니다. 그 전 숏자켓은 길이가 아예 긴 것도 아니고 짧은 것도 아닌 애매한 기장감이었는데 이 제품은 길이가 짧아져서 다리가 길어보입니다. 두께도 너무 두껍지 않아서 좋습니다. 밑단이 동그란 것과 커다란 주머니가 귀여움을 더해줍니다. 살짝 아쉬운 점은 사이즈가 좀 커서 핏이 살짝 애매한 핏이 나오네요. 이것만 빼면 소재도 좋고 디자인도 귀엽고 데일리템으로 입기 좋은 제품입니다.       오늘의 리뷰는 여기서 마칩니다! 다음에는 또 다른 제품으로 리뷰할게요! 안녕~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 맥** 숏 자켓 ",
+    "Syllable": "369",
+    "Word": "91",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "길이",
+        "SentimentText": "이전 OO의 숏 자켓보다는 기장이 더 짧아져서 이쁜 것 같습니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "이 제품은 길이가 짧아져서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "다리가 길어보입니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 너무 두껍지 않아서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "밑단이 동그란 것과 커다란 주머니가 귀여움을 더해줍니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 좀 커서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 살짝 애매한 핏이 나오네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 귀엽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리템으로 입기 좋은 제품입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036767",
+    "RawText": "오늘 리뷰하기 위해 들고 온 제품은 OOO 빅 체리 스웨트셔츠입니다~ 주변에서 OOO라는 브랜드의 이미지랑 잘 어울릴 것 같다고 입어보라고 추천하더라고요. 그래서 구매했습니다. 그럼 제품 리뷰 시작할게요!       핏이 딱 제가 원하던 핏입니다. 오버핏이어서 여리여리해 보이고 이쁘네요. 흰색 티랑 레이어드해서 입으니까 더 이쁩니다. 마감도 깔끔하고 박음질도 잘 되어 있어서 품질도 좋습니다. 체리 색상도 이쁘고 소매 부분에 체리가 새겨져 있어서 더 귀여운 느낌이 드는 디자인의 제품입니다.   다가오는 겨울에 유용하게 잘 입을 것 같습니다. 여러분도 사서 입어 보시길 강추드릴게요!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 빅** 스웨트셔츠 ",
+    "Syllable": "327",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 딱 제가 원하던 핏입니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "오버핏이어서 여리여리해 보이고 이쁘네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "흰색 티랑 레이어드해서 입으니까 더 이쁩니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감도 깔끔하고 박음질도 잘 되어 있어서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 좋습니다.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "체리 색상도 이쁘고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "소매 부분에 체리가 새겨져 있어서 더 귀여운 느낌이 드는 디자인의 제품입니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다가오는 겨울에 유용하게 잘 입을 것 같습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036768",
+    "RawText": "안녕하세요. 날씨가 많이 추워졌어요. 오늘 리뷰할 제품은 OO 맥카라 숏 자켓인데요~ 요즘 입기 딱 좋은 자켓이라서 글을 남겨봅니다.  컬러는 다섯 가지가 있는데 저는 아이보리로 구매했는데 화사하니 예쁩니다. 딱 입어봤는데 얼굴이 환해 보이는 게 아이보리로 사길 잘한 것 같습니다. 맥카라라서 전체적으로 귀여운 디자인입니다. 그리고 품도 넉넉해서 편하게 잘 맞습니다. 팔길이와 기장 길이도 좋습니다. 숏자켓이다보니 다리도 길어보여서 더욱 마음에 드는 제품입니다.       다들 가을 겨울 자켓으로 딱인 OO 맥카라 숏 자켓를 입어 보는 건 어떨까요? 이상 오늘의 리뷰였습니다~~ 다음에 더 좋은 제품으로 만날게요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 맥** 숏 자켓 ",
+    "Syllable": "344",
+    "Word": "80",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘 입기 딱 좋은 자켓이라서",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "저는 아이보리로 구매했는데 화사하니 예쁩니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "딱 입어봤는데 얼굴이 환해 보이는 게 아이보리로 사길 잘한 것 같습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "맥카라라서 전체적으로 귀여운 디자인입니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "품도 넉넉해서 편하게 잘 맞습니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔길이와 기장 길이도 좋습니다. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "숏자켓이다보니 다리도 길어보여서 더욱 마음에 드는 제품입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다들 가을 겨울 자켓으로 딱인 OO 맥카라 숏 자켓를 입어 보는 건 어떨까요?",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036769",
+    "RawText": "겨울에 입을 적당한 외투가 없어서 새로 구매했습니다. 리뷰 시작하겠습니다~  뽀글이는 자칫하면 품질이 저렴해 보일 수 있는데 이 제품은 그렇지 않아서 좋습니다. 어떤 하의와 매치하느냐에 따라 캐주얼룩, 페미닌룩 등 다양하게 연출할 수 있는 활용도 높은 기본템입니다. 사이즈는 넉넉해서 추워지면 두꺼운 니트를 안에 입어도 괜찮을 것 같습니다. 숏자켓이라 입고 벗기도 편하고 너무 얇지도 않고 그렇다고 너무 두껍지도 않아서 좋았습니다.       여러분들도 품절되기 전에 얼른 사세요! 그럼 안녕~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 덤** 카라 숏 자켓 ",
+    "Syllable": "276",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "뽀글이는 자칫하면 품질이 저렴해 보일 수 있는데 이 제품은 그렇지 않아서 좋습니다. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어떤 하의와 매치하느냐에 따라 캐주얼룩, 페미닌룩 등 다양하게 연출할 수 있는 활용도 높은 기본템입니다. ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 넉넉해서 추워지면 두꺼운 니트를 안에 입어도 괜찮을 것 같습니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "숏자켓이라 입고 벗기도 편하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "너무 얇지도 않고 그렇다고 너무 두껍지도 않아서 좋았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036803",
+    "RawText": "OO에서 이쁜 티셔츠 4종이 나왔네요. 좋은 가격으로 나와 소개합니다.  면티인 줄 알고 샀는데 순면은 아니네요.  옥수수 추출물로 만든 친환경 소재라고 하니 더 좋은 것 같기도 하네요. 신축성도 있고 촉감은 거의 면과 흡사해서 좋으네요.  엉덩이 살짝 덮는 길이감도 좋고 적당히 여유있는 핏도 맘에 듭니다. 근데 나이가 있어서 인지 소매길이가 좀 긴 것이 좋은데 조금 짧은 느낌이라 아쉽습니다. 색상도 다 이뻐서 만족합니다.  믿고 입는 OO의 여름 티셔츠로 멋쟁이가 되어 봅시다. 강추~~!!!  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 반팔 티셔츠 4종 ",
+    "Syllable": "280",
+    "Word": "69",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이쁜 티셔츠 4종이 나왔네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 가격으로 나와 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "면티인 줄 알고 샀는데 순면은 아니네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "옥수수 추출물로 만든 친환경 소재라고 하니 더 좋은 것 같기도 하네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 있고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감은 거의 면과 흡사해서 좋으네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "엉덩이 살짝 덮는 길이감도 좋고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "적당히 여유있는 핏도 맘에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매길이가 좀 긴 것이 좋은데 조금 짧은 느낌이라 아쉽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 다 이뻐서 만족합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036804",
+    "RawText": "몇년이 지나도 갖고 싶은 데님이라는 모토로 옷을 만드는 OO의 겨울바지입니다.  데님의 안쪽에 부드러운 융기모 원단을 본딩 가공해서 매우 따뜻하고 스판성까지 좋으네요.  배가 요즘 나와 바디들이 불편했는데 사이즈 여유있어서 좋아요. 사이즈는 정사이즈 하면 되겠어요. 괜히 본딩이라고 큰 사이즈로 주문했다가 교환했어요.ㅜㅜ 정사이즈 주문해도 좀 여유있어서 좋습니다. 품질은 참 좋아요. 두께감이 있어서 좀 뻣뻣할 것 같아 걱정했는데 뻣뻣함이 없고 착용감이 편하고 부드러워서 많이 입겠어요. 따숩고 핏도 이쁘구 좋습니다.  겨울에는 머니머니해도 따수운 것이 최고랍니다. 강추!!!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 히** 본딩 진 3종",
+    "Syllable": "322",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "데님의 안쪽에 부드러운 융기모 원단을 본딩 가공해서",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "매우 따뜻하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "스판성까지 좋으네요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 여유있어서 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈 하면 되겠어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정사이즈 주문해도 좀 여유있어서 좋습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 참 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감이 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": " 뻣뻣함이 없고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 편하고 부드러워서 많이 입겠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036805",
+    "RawText": "편안하게 입을 수 있는 패딩 자켓을 하나 소개할게요.  홈쇼핑을보다 괜찮은 것 같아 가격도 저렴하길래 샀습니다. 디자인이 심플하고 군더더기가 없어서 맘에 들어요. 소재도 딱히 나쁘지는 않는 것 같아 마음에 드는데 제가 팔이 너무 긴지 팔기장이 좀 짧아서 아쉽네요.ㅜㅜ 다이아몬드 패턴으로 누벼져 있는 것도 맘에 듭니다.  그리고 안쪽에 퍼가 있어서 정말 따뜻합니다. 다만 생각보다 기장이 좀 짧아서 아쉬운 감이 있습니다.   자켓스타일의 패딩이라 아무옷에나 걸쳐도 잘 어울려서 편하게 입을 수 있을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퀼팅 퍼 패딩자켓 1종 ",
+    "Syllable": "285",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편안하게 입을 수 있는",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하길래 샀습니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 심플하고 군더더기가 없어서 맘에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 딱히 나쁘지는 않는 것 같아 마음에 드는데 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "팔이 너무 긴지 팔기장이 좀 짧아서 아쉽네요.ㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다이아몬드 패턴으로 누벼져 있는 것도 맘에 듭니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안쪽에 퍼가 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "정말 따뜻합니다. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "생각보다 기장이 좀 짧아서 아쉬운 감이 있습니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자켓스타일의 패딩이라 아무옷에나 걸쳐도 잘 어울려서",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036806",
+    "RawText": "OOO의 퀼팅 퍼 패딩자켓을 샀어요.  요즘 쌀쌀하긴한데 너무 두꺼운 외투를 걸치기는 좀 답답할 것 같고 간편하고 따뜻하게 입을 수 있는 옷이 없을까 찾다가 방송보고 바로 샀어요. 사이즈는 정사이즈인데 생각보다 넉넉하지는 않는 것 같아요. 라인이 있거나 하지않고 스트레이트로 떨어지는 핏이라 편안할 줄 알았는데 자켓이라 그런지 단추를 잠그면 움직이는 것이 좀 불편하네요. 그래도 퍼가 있어 생각보다 따뜻합니다.  생각만큼 이뿌지는 않지만 그냥 입을 만은 한 것 같아요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퀼팅 퍼 패딩자켓 1종 ",
+    "Syllable": "262",
+    "Word": "64",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈인데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 넉넉하지는 않는 것 같아요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "라인이 있거나 하지않고 스트레이트로 떨어지는 핏이라 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": " 편안할 줄 알았는데 자켓이라 그런지 단추를 잠그면 움직이는 것이 좀 불편하네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "생각만큼 이뿌지는 않지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "퍼가 있어 생각보다 따뜻합니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1036807",
+    "RawText": "초겨울 간편히 걸칠 수 있는 자켓을 찾다가 샀어요.  햇살은 좋아 따뜻한 것 같은데 또 바람은 차서 홑겹 옷으로는 춥게 느껴져서 가볍게 툭 걸칠 수 있는 얇은 패딩을 찾다가 구매하게 됐어요. 자켓 스타일이라 아무옷에나 잘 어울려서 좋으네요. 근데 생각보다 옷길이가 짧아서 조금 아쉽고 카라가 너무 얇아서 힘이 없어 잘 뒤집어져서 좀 불편하네요.  소재도 그닥~ 썩 좋아보이지는 않아요.ㅜㅜ   방송할 때 물건에대해 과장하지말고 정확히 말해주면 좋을 것 같아요. 과장이 좀 심하네요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퀼팅 퍼 패딩자켓 1종 ",
+    "Syllable": "269",
+    "Word": "68",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "자켓 스타일이라 아무옷에나 잘 어울려서 좋으네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "생각보다 옷길이가 짧아서 조금 아쉽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "카라가 너무 얇아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "힘이 없어 잘 뒤집어져서 좀 불편하네요.  ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 그닥~ 썩 좋아보이지는 않아요.ㅜㅜ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1036829",
+    "RawText": "방송보고 스타일이 맘에 들어 하나 구매했어요.  역쉬 모델핏은 따라갈 수가 없어요. 우연히 TV를 돌리다 핏이 편안해보이고 예뻐서 얼렁 주문을 했어요. 배송이 오길 얼마나 기다렸는지 하루만에 왔는데도 엉청 오래 기다린 느낌이였어요. 특별할 것 없는 심플한 디자인이라 정말 입는 사람의 몸매에 따라 많이 다른 느낌이 되는 옷인 듯 합니다. 일단 제게는 안어울리는 듯합니다. 그래도 얇고 가벼워서 데일리로 편안하게  툭 걸치고 다니기는 좋을 것 같아요.   동네 마실 다닐때 툭 걸치기에는 괜찮을 것 같아서 킵 했어요. 담에 더 좋은 옷으로 리뷰를 올릴게요.",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퀼팅 퍼 패딩자켓 1종 ",
+    "Syllable": "310",
+    "Word": "78",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "특별할 것 없는 심플한 디자인이라",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "입는 사람의 몸매에 따라 많이 다른 느낌이 되는 옷인 듯 합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제게는 안어울리는 듯합니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇고  ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 편안하게  툭 걸치고 다니기는 좋을 것 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "동네 마실 다닐때 툭 걸치기에는 괜찮을 것 같아서 킵 했어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037011",
+    "RawText": "이뻐서 샀다가 손이 잘 안가게 된 티셔츠 후기입니다.  좋은 품질의 OO 티셔츠를 저렴하게 세트로 사게 되어 너무 좋았습니다. 심플하지만 로고로 서로 다른 포인트를 준 것도 맘에 들었습니다. 근데 목둘레가 너무 좁게 파여 있어서 목이 많이 답답하네요. ㅜㅜ 반팔이고 여성용인데 목선 부분이 너무 답답해요. 세탁후 입어보니 그래서 반품도 못하고 쟁겨 놓게 되었습니다. 색상도 이쁘고 핏도 나쁘지않아 데일리로 자주 입을 것 같았는데 그러지 못할 것 같아 많이 아쉽습니다.  넥라인 때문에 활동하기가 불편할 듯해서 손이 안가는 옷이 될 것 같아 많이 아쉽습니다.  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 반팔 티셔츠 4종 ",
+    "Syllable": "313",
+    "Word": "79",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "좋은 품질의 OO 티셔츠를",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하게",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "심플하지만 로고로 서로 다른 포인트를 준 것도 맘에 들었습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "목둘레가 너무 좁게 파여 있어서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목이 많이 답답하네요. ㅜㅜ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목선 부분이 너무 답답해요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 이쁘고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 나쁘지않아 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 자주 입을 것 같았는데 그러지 못할 것 같아 많이 아쉽습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 세트로 사게 되어 너무 좋았습니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037012",
+    "RawText": "OO  믿고 구매한 리얼 후기입니다.  요즘은 원단이 좋아서 여름 옷은 시원하게 느껴지도록 하는 기능이 다 장착되어 있는 것 같아요. 그래서 OO이기도 하고 기능성이라고 해서 묻고 따지지도 않고 샀는데 좀 별로네요ㅜㅜ. 전혀 시원하지가 않네요. 그래서 너무 덥게 느껴집니다.  색상은 다양해서 좋고 로고 위치와 색상이 다르게 되어 있어 맘에 들었는데 길이도 좀 긴 듯 합니다.   시원한 티셔츠를 찾으신다면 비추, 예쁘고 편하게 입을 수 있는 티셔츠를 찾으신다면 추천합니다.   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 반팔 티셔츠 4종 ",
+    "Syllable": "268",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "전혀 시원하지가 않네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "너무 덥게 느껴집니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 다양해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "로고 위치와 색상이 다르게 되어 있어 맘에 들었는데 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이도 좀 긴 듯 합니다. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원한 티셔츠를 찾으신다면 비추, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁘고 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을 수 있는 티셔츠를 찾으신다면 추천합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037013",
+    "RawText": "올 여름 패션을 책임질 OO에서 여름 티셔츠 4종을 샀습니다.   여름이 되니 티셔츠가 참 많이 필요하네요. 편안하게 막 입을 수 있는 티셔츠를 찾다가 요 이쁜이를 발견했네요. 4종을 저렴한 가격에 구입할 수 있어서 너무 좋았어요. 색상마다 로고의 색상도 달라서 같은 티셔츠지만 다른 분위기가 나서 좋아요. 길이감도 좋고 면이 아닌데도 면처럼 부드러운 촉감이라 좋으네요. 신축성도 좋아서 활동하기 아주 편안해요.  운동할 때나 일상에서도 데일리로 잘 입을 수 있는 것 같아 강추예요~~~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 반팔 티셔츠 4종 ",
+    "Syllable": "272",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "요 이쁜이를 발견했네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "4종을 저렴한 가격에 구입할 수 있어서 너무 좋았어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상마다 로고의 색상도 달라서 같은 티셔츠지만 다른 분위기가 나서 좋아요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감도 좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": " 면이 아닌데도 면처럼 부드러운 촉감이라 좋으네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋아서 활동하기 아주 편안해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "운동할 때나 일상에서도 데일리로 잘 입을 수 있는 것 같아 강추예요~~~",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037014",
+    "RawText": "컬러감이 있는 아트웍으로 스타일리쉬하게 연출이 가능한 OO의 티셔츠 4종을 소개합니다.  아이보리, 체리핑크, 퍼플, 블랙 이렇게 네가지 색상으로 구성이 되어있는데 모두 색감이 이쁘네요. 컬러마다 로고의 위치와 색상을 달리해서 포인트를 주니 다양한 느낌이 들어 좋아요. 적당히 여유가 있는 핏이라 편안하게 입을 수 있고 소재가 신축성이 좋아서 활동하기에 불편함이 전혀 없네요. 친환경 소재로 만들어졌다고 하니 안심하고 입을 수 있을 것 같아요.  다양한 컬러 구성으로 입는 재미가 있는 OO의 티셔츠 강추합니다~~~^^   ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 여성 반팔 티셔츠 4종 ",
+    "Syllable": "293",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "컬러감이 있는 아트웍으로 스타일리쉬하게 연출이 가능한",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "아이보리, 체리핑크, 퍼플, 블랙 이렇게 네가지 색상으로 구성이 되어있는데 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "모두 색감이 이쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "컬러마다 로고의 위치와 색상을 달리해서 포인트를 주니 다양한 느낌이 들어 좋아요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "적당히 여유가 있는 핏이라 편안하게 입을 수 있고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "소재가 신축성이 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "활동하기에 불편함이 전혀 없네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "친환경 소재로 만들어졌다고 하니 안심하고 입을 수 있을 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "다양한 컬러 구성으로 입는 재미가 있는",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037015",
+    "RawText": "어디에나 잘 어울리는 OOO의 퀼팅 퍼 자켓입니다.   색상이 넘 이쁘네요.  블랙, 아이보리, 카키, 레드 이렇게 네가지 색상이 있는데 카키랑 아이보리 중에 뭘 살지 고민이 많았어요. 근데 아무래도 겨울에는 짙은 색 옷을 많이 입다보니 밝은 색이 하나쯤은 있으면 좋을 것 같아 아이보리로 샀는데 맘에 드네요. 가볍고 안에 퍼가 있어서 진짜 따뜻해서 좋습니다.  핏도 예쁘고 살짝 짧은 감은 있지만 길이감도 나쁘지 않아요.   디자인이 무난해서 다양하게 코디가 가능해 정말 자주 입어질 것 같아 추천합니다.  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 퀼팅 퍼 패딩자켓 1종 ",
+    "Syllable": "285",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어디에나 잘 어울리는 OOO의 퀼팅 퍼 자켓입니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 넘 이쁘네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "아이보리로 샀는데 맘에 드네요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "안에 퍼가 있어서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "진짜 따뜻해서 좋습니다.  ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": " 핏도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "짧은 감은 있지만 길이감도 나쁘지 않아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 무난해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": " 다양하게 코디가 가능해",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037024",
+    "RawText": "안녕하세요~~ 잘 지내셨나요? ㅎㅎ 가을이 돌아온 것 같아요! 그래서 오늘은 가을에 입기 좋은 코트 하나를 추천 드리려고 왔습니다! 바로 시작할게요 ㅎㅎ  이 코트는 제가 가을마다 즐겨 입는 코트인 것 같아요!! 미디 코트라 기장감이 짧아서 정말 좋은 것 같습니다!! 어깨 패드도 있어 어깨가 넓어 보이는 효과까지 있는 것 같습니다!! 사이즈도 여유 있게 나와서 정말 좋은 것 같고 두께감도 어느 정도 있어서 보온성까지 갖춘 것 같아요!! 초 겨울에도 안에만 따뜻하게 입으면 이것만 걸쳐도 정말 따뜻한 것 같습니다!!   가격도 저렴한 편에 속해서 정말 좋은 것 같아요!! 미디 코트는 이 옷 구매 하세요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 캐시미어 투웨이 코트 ",
+    "Syllable": "339",
+    "Word": "89",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을에 입기 좋은 코트 하나를 추천 드리려고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "미디 코트라 기장감이 짧아서 정말 좋은 것 같습니다!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "어깨 패드도 있어 어깨가 넓어 보이는 효과까지 있는 것 같습니다!!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 여유 있게 나와서 정말 좋은 것 같고 ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 어느 정도 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성까지 갖춘 것 같아요!!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "초 겨울에도 안에만 따뜻하게 입으면 이것만 걸쳐도 정말 따뜻한 것 같습니다!! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴한 편에 속해서 정말 좋은 것 같아요!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037035",
+    "RawText": "친구가 이 옷을 입고 나온 걸 보고 디자인이 너무 예뻐서 저도 입고 싶어서 구매를 하게 되었어요!! 바로 리뷰 알려 드리도록 할게요!!  일단 이 패딩 같은 경우에는 가격은 살짝 비쌌지만 정말 품질이 좋은 것 같습니다!! 사이즈도 잘 맞는 것 같고 무엇보다 디자인이 정말 좋은 것 같아요!! 허리 밴딩 디자인이 유니크해서 좋은 것 같아요~ 두께는 두껍고 소재도 빵빵해서 좋았어요~ 그런데 무겁지도 않아서 정말 신기했던 것 같습니다!! 보온성도 너무 좋아서 입고 나면 너무 따뜻해서 좋았습니다 ㅎㅎ  여러모로 너무 만족하는 옷이라 꼭 추천 드리고 싶었습니다!! 후기 마칠게요~",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 폭스퍼 후드 구스 다운 ",
+    "Syllable": "321",
+    "Word": "83",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "친구가 이 옷을 입고 나온 걸 보고 디자인이 너무 예뻐서",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 살짝 비쌌지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 좋은 것 같습니다!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 잘 맞는 것 같고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "무엇보다 디자인이 정말 좋은 것 같아요!!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "허리 밴딩 디자인이 유니크해서 좋은 것 같아요~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께는 두껍고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 빵빵해서 좋았어요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 그런데 무겁지도 않아서 정말 신기했던 것 같습니다!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성도 너무 좋아서 입고 나면 너무 따뜻해서 좋았습니다 ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037038",
+    "RawText": "상품평이 좋아 우연히 구매했다가 너무 마음에 들어 깔별로 쟁이게 된 슬리브리스 탑입니다ㅎㅎㅎㅎ  처음엔 한가지 색만 구매했었다가 소재도 탄탄해서 좋고 색상도 베이직해서 어디에든 잘 어울리니 코디하기가 너무너무 좋아서 결국 깔별로 구매했답니다ㅎㅎㅎ 사이즈는 정사이즈이고 두께는 일반 면티정도라 딱 좋았어요ㅎㅎ 저는 이너로 입으려고 주문했는데 날이 더운날엔 단품으로 입기도 한답니다ㅎㅎ 넥라인도 적당해서 아주 좋아요ㅎㅎ  디자인 깔끔하고 어디에도 코디하기 좋은 슬리브리스 탑을 찾으신다면 OOOOOOO 제품 강력 추천드리고 싶네요ㅎㅎ  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 우먼즈 베** 슬리브리스 탑 ",
+    "Syllable": "298",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 탄탄해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 베이직해서 어디에든 잘 어울리니",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "코디하기가 너무너무 좋아서 결국 깔별로 구매했답니다ㅎㅎㅎ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈이고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께는 일반 면티정도라 딱 좋았어요ㅎㅎ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "저는 이너로 입으려고 주문했는데 날이 더운날엔 단품으로 입기도 한답니다ㅎㅎ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "넥라인도 적당해서 아주 좋아요ㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 깔끔하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어디에도 코디하기 좋은 슬리브리스 탑을 찾으신다면 OOOOOOO 제품 강력 추천드리고 싶네요ㅎㅎ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037039",
+    "RawText": "평도 좋고 가격도 저렴해 구매하게 된 OOOOOOO 슬리브리스 탑입니다^^  색상은 기본 코디가 가능한 다양한 색상으로 구성되어 있으니 취향대로 고를 수 있어요^^ 저는 블랙색상을 선택했는데 선명하고 예쁜 블랙이랍니다~ 디자인도 아주 깔끔해서 이너로도 단품으로도 잘 활용할수 있고 소재도 아주 좋답니다^^ 무엇보다 가격이 아주 저렴한데에 비해 퀄리티가 아주 좋아서 개인적으로 가성비가 정말 좋은 제품이라는 생각이 들어요^^  어쩌다보니 자주 손이 가 데일리템으로 입고 있으니 가성비로 아주 최고의 제품이라고 생각합니다^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 우먼즈 베** 슬리브리스 탑 ",
+    "Syllable": "293",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴해",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙색상을 선택했는데 선명하고 예쁜 블랙이랍니다~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 아주 깔끔해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로도 단품으로도 잘 활용할수 있고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 아주 좋답니다^^ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 아주 저렴한데에 비해 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티가 아주 좋아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 정말 좋은 제품이라는 생각이 들어요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "자주 손이 가 데일리템으로 입고 있으니",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비로 아주 최고의 제품이라고 생각합니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037040",
+    "RawText": "제가 입다가 보니 정말 활용도가 너무너무 좋아서 추천드리고 싶은 OOOOOOO의 슬리브리스 탑을 소개합니다~!!  가격이 워낙 저렴해서 그냥 가볍게 구매한 제품인데 입어보고 착용감이 너무나 편하고 시원하기까지 하니 손이 정말 자주 가더라고요~ 여기저기 너무나 잘 어울려서 어쩌다보니 데일리템으로 입고 있답니다ㅎㅎㅎ 그렇다보니 활용도가 정말 좋은 탑이라고 생각해요~ 스커트에도 팬츠에도 캐쥬얼에도 정장에도 다양하게 활용이 가능하답니다^^  정말 활용도 좋은 기본 민소매 제품 찾으시는 분들은 주저없이 이 제품 너무너무 추천드리고 싶네요^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 우먼즈 베** 슬리브리스 탑 ",
+    "Syllable": "300",
+    "Word": "65",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정말 활용도가 너무너무 좋아서 추천드리고 싶은",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 워낙 저렴해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감이 너무나 편하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시원하기까지 하니 손이 정말 자주 가더라고요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여기저기 너무나 잘 어울려서 어쩌다보니 데일리템으로 입고 있답니다ㅎㅎㅎ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용도가 정말 좋은 탑이라고 생각해요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "스커트에도 팬츠에도 캐쥬얼에도 정장에도 다양하게 활용이 가능하답니다^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정말 활용도 좋은 기본 민소매 제품 찾으시는 분들은 주저없이 이 제품 너무너무 추천드리고 싶네요^^",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037041",
+    "RawText": "너~~~무 예쁜 OOOO의 슬리브리스를 소개해드리고 싶어 후기 남겨봅니다^^  전 베이지색상으로 구매했는데 색상 정말 너무너무 고급스럽고 예쁩니다~! 핏 자체가 허리라인 핏을 예쁘게 잡아주고 군살 뱃살 어느정도 커버도 된답니다~! 그렇다고 너무 딱 붙어서 숨막히는 핏도 아니고 딱 예쁜 핏이에요~! 재질도 탄탄해서 좋고 단독으로 입기에도 디자인이 부담스럽지않고 예쁘답니다^^   여름에 입기 딱~ 좋은 OOOO의 슬리브리스 꼭 한번 입어보세요~~~!!^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 니트 슬리브리스",
+    "Syllable": "256",
+    "Word": "54",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상 정말 너무너무 고급스럽고 예쁩니다~! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "핏 자체가 허리라인 핏을 예쁘게 잡아주고 군살 뱃살 어느정도 커버도 된답니다~! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "그렇다고 너무 딱 붙어서 숨막히는 핏도 아니고 딱 예쁜 핏이에요~!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 탄탄해서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "단독으로 입기에도 디자인이 부담스럽지않고 예쁘답니다^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 딱~ 좋은 OOOO의 슬리브리스 꼭 한번 입어보세요~~~!!^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너~~~무 예쁜 OOOO의 슬리브리스를 소개해드리고 싶어 후기 남겨봅니다^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037042",
+    "RawText": "여름에 기본템으로 입기 딱 좋은 OOOO의 니트 슬리브리스 하나 소개해드립니다~!!!^^  약간 도톰한 두께인데 딱 적당한거 같아요~ 니트재질이라 착용감이 편안하고 핏이 타이트한 핏이라 몸매가 예뻐보인답니다^^ 지금은 날이 약간 쌀쌀해서 이너로 입고 있는데 날이 더워지면 단독으로도 입기 좋을거 같아요~! 길이는 골반에 걸쳐지는 정도라 딱 좋고 소재도 짱짱하고 디자인도 예쁘답니다^^ 이너로 입을때 코디사진처럼 린넨안에 입기 좋을거 같아요^^   여름엔 옷차림이 가벼워지다보니 기본템이 예뻐야 코디가 수월한데요~ 거기에 만족할만한 아이템이 아닌가 싶습니다^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 니트 슬리브리스",
+    "Syllable": "314",
+    "Word": "66",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여름에 기본템으로 입기 딱 좋은",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "약간 도톰한 두께인데 딱 적당한거 같아요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "니트재질이라 착용감이 편안하고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 타이트한 핏이라 몸매가 예뻐보인답니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "지금은 날이 약간 쌀쌀해서 이너로 입고 있는데 날이 더워지면 단독으로도 입기 좋을거 같아요~! ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이는 골반에 걸쳐지는 정도라 딱 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재도 짱짱하고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘답니다^^ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입을때 코디사진처럼 린넨안에 입기 좋을거 같아요^^ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037043",
+    "RawText": "제가 이번에 구매한 OOOO의 스퀘어 넥 니트 슬리브리스에 대한 솔직 후기 한번 남겨봅니다^^  저는 이너로 입을 기본템이 필요해 구매하게 됐는데요~ 개인적으로 린넨셔츠에 코디해서 입었을때 이 슬리브리스의 매력이 잘 살더라구요^^ 입었을때 핏이 날씬해 보이고 이너로 입기 딱 좋습니다^^ 다만, 가격이 저렴해서 좋긴한데 품질도 딱 가격만큼이라는게 아쉬운 점이랄까요~! 두께가 너무 얇아서 생각보다 소재가 많이 비치더라고요ㅜㅜ  단독으로 입기에는 좀 아쉬운점이 많고 이너로 입기에는 나쁘지 않은듯 합니다^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 니트 슬리브리스",
+    "Syllable": "282",
+    "Word": "63",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "린넨셔츠에 코디해서 입었을때 이 슬리브리스의 매력이 잘 살더라구요^^ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 핏이 날씬해 보이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입기 딱 좋습니다^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴해서 좋긴한데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질도 딱 가격만큼이라는게 아쉬운 점이랄까요~!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 너무 얇아서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "생각보다 소재가 많이 비치더라고요ㅜㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "단독으로 입기에는 좀 아쉬운점이 많고 이너로 입기에는 나쁘지 않은듯 합니다^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "1037044",
+    "RawText": "세상에 나시는 너무너무~~~~ 많은데 예쁜 나시는 참 없잖아요??? 제가 이번에 구매하게 된 나시는 네크라인이 너무 예뻐 추천 드리려고 왔답니다~^^  블랙색상을 구매했는데 색상 깔끔해서 좋았구요~ 네크라인이 스퀘어라인이라서 핏이 여리여리해 보이는 효과가 있어요^^ 눈으로 보는 것 보다 입었을때 핏이 훨씬 예뻤답니다~! 이너로 입기에도 단독으로 입기에도 좋아서 데일리로 아주 잘 입고 있어요^^ 어깨끈도 너비가 적당해서 기본템으로 입기 딱 좋답니다^^ 다만 사이즈가 프리사이즈라 저에겐 좀 타이트한 편이었으니 사이즈 체크 잘 해서 구매하시길 바랍니다^^  네크라인이 예쁜 나시를 찾으신다면 이 제품 저는 추천드리고싶네요^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 니트 슬리브리스",
+    "Syllable": "349",
+    "Word": "77",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "네크라인이 너무 예뻐 추천 드리려고 왔답니다~^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙색상을 구매했는데 색상 깔끔해서 좋았구요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "네크라인이 스퀘어라인이라서 핏이 여리여리해 보이는 효과가 있어요^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "눈으로 보는 것 보다 입었을때 핏이 훨씬 예뻤답니다~!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입기에도 단독으로 입기에도 좋아서 데일리로 아주 잘 입고 있어요^^ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "어깨끈도 너비가 적당해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "기본템으로 입기 딱 좋답니다^^ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 프리사이즈라 저에겐 좀 타이트한 편이었으니",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "네크라인이 예쁜 나시를 찾으신다면 이 제품 저는 추천드리고싶네요^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037045",
+    "RawText": "여름맞이를 위해 구매해본 OOOO의 스퀘어 넥 니트 슬리브리스입니다~! 어떤 장단점이 있는지 솔직히 작성해 보겠습니다^^  스퀘어넥이라 목라인이 예뻐보이고 기본템으로 입기 좋아 활용도가 아주 좋아요~ 자켓이나 가디건이나 셔츠 이너로 입기 딱 좋더라고요! 사이즈는 55에게도 좀 타이트한 편이니 상체 사이즈를 잘 체크해봐야 할듯 합니다~! 니트의 짜임은 촘촘한 편이라 좋은데 끝단 마감은 그리 좋은편은 아니네요ㅜ 가격은 저렴하나 품질은 딱 그만큼인듯 합니다ㅜㅜ   디자인이나 핏 자체는 예뻤지만 품질면에는 아쉬움이 많이 남는 그런 제품이었던듯 합니다~!",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스** 니트 슬리브리스",
+    "Syllable": "308",
+    "Word": "68",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "기본템으로 입기 좋아 활용도가 아주 좋아요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "자켓이나 가디건이나 셔츠 이너로 입기 딱 좋더라고요! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 55에게도 좀 타이트한 편이니 상체 사이즈를 잘 체크해봐야 할듯 합니다~! ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트의 짜임은 촘촘한 편이라 좋은데 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "끝단 마감은 그리 좋은편은 아니네요ㅜ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하나 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질은 딱 그만큼인듯 합니다ㅜㅜ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이나 핏 자체는 예뻤지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏 자체는 예뻤지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질면에는 아쉬움이 많이 남는 그런 제품이었던듯 합니다~!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "1037046",
+    "RawText": "디자인이 부담스럽지 않으면서 여름에 입기 딱 좋은 그런 슬리브리스 탑 여기 있어요~~~~~~~~!!!^^  파임이 심하지 않은 디자인이라 부담스럽지 않아 좋고 핏감도 너무 들러붙지 않아 참 좋아요~ 배송도 구매하자마자 총알배송으로 받아 너무 좋았구요~ 시원할거 같아 샀는데 생각보다 소재도 좋고 아주 시원해서 데일리로 매일매일 입고 있답니다ㅎㅎㅎ 사이즈는 정사이즈로 보면 될것 같아요~ 단품으로 입기도 좋고 자켓 등 속에 이너로 입기에도 좋네요^^   여름에 입기 딱 좋은 그런 슬리브리스 탑으로 전 OOOOOOO의 이 제품을 너무 추천드리고 싶네요^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 우먼즈 베** 슬리브리스 탑 ",
+    "Syllable": "309",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 부담스럽지 않으면서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 딱 좋은 그런 슬리브리스 탑 여기 있어요~~~~~~~~!!!^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "파임이 심하지 않은 디자인이라 부담스럽지 않아 좋고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏감도 너무 들러붙지 않아 참 좋아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "생각보다 소재도 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "아주 시원해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 매일매일 입고 있답니다ㅎㅎㅎ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 정사이즈로 보면 될것 같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "단품으로 입기도 좋고 자켓 등 속에 이너로 입기에도 좋네요^^ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 딱 좋은 그런 슬리브리스 탑으로 전 OOOOOOO의 이 제품을 너무 추천드리고 싶네요^^",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037047",
+    "RawText": "여름이 되면서 반팔은 너무 덥고 시원하게 민소매는 입고 싶은데 부담스럽지 않은 디자인을 찾으시는 분들 많으시죠? 그런분들 여기 주목해주세요^^  제가 구매한 OOOOOOO 슬리브리스 탑인데요~ 소매가 없어 너무 시원하고 재질도 아주 탄탄하고 좋답니다~! 화이트 색상이 아주 깨끗한 느낌의 화이트 색상이에요~ 딱 달라붙는 핏이 아닌 넉넉한 핏이라 너무 좋고 제품의 퀄리티도 아주 좋은 느낌이에요^^ 여기저기 편하게 막 입기 좋답니다~!  넥라인이나 암홀이 깊은 디자인이 아니라 부담스럽지 않으니 이런 민소매 찾으시는 분들께 정말 강추드리고 싶네요^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 우먼즈 베** 슬리브리스 탑 ",
+    "Syllable": "306",
+    "Word": "70",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "소매가 없어 너무 시원하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 아주 탄탄하고 좋답니다~! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 색상이 아주 깨끗한 느낌의 화이트 색상이에요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "딱 달라붙는 핏이 아닌 넉넉한 핏이라 너무 좋고",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품의 퀄리티도 아주 좋은 느낌이에요^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여기저기 편하게 막 입기 좋답니다~!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "넥라인이나 암홀이 깊은 디자인이 아니라 부담스럽지 않으니",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037048",
+    "RawText": "그린 덕후는 주목해주세요~!!!ㅋㅋㅋ 저는 개인적으로 초록색을 굉장히 좋아하는 편이라 예쁘게 나온 초록색의 의상을 포인트로 자주 구매하는 편입니다~!  이번에 제가 구매한 피케티셔츠는 사진과 동일하게 너무 예쁜 초록색이에요~~ 편하게 데일리로 입고다니려고 구매했다가 너무 예뻐서 특별한 날에만 입는답니다ㅋㅋㅋ 단추나 스마일 디테일이 너무 귀엽고 예뻐서 포인트가 되고요~ 니트소재가 적당히 도톰하면서도 쫀쫀해서 제품 퀄리티가 아주 좋아요~  초록색을 좋아하시는 분들중에 니트티셔츠를 찾으신다면 이 제품이 꽤 만족감을 주리라는 생각이 들어요~~ 강력추천해요!!!^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스트라이프 니트 카라티 ",
+    "Syllable": "316",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "사진과 동일하게 너무 예쁜 초록색이에요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무예뻐서",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "단추나 스마일 디테일이 너무 귀엽고 예뻐서 포인트가 되고요~",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트소재가 적당히 도톰하면서도 쫀쫀해서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품 퀄리티가 아주 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "특별한 날에만 입는답니다ㅋㅋㅋ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037049",
+    "RawText": "OOOOO의 니트 카라티입니다~! 너무 귀욤귀욤 디자인이라 추천드리고 싶네요^^  스트라이프 단추디자인과 옆으로 돌아간 스마일이 너무 사랑스럽지요? 입을때마다 귀여운 디자인에 감탄하며 즐거운 마음으로 입고 있답니다~ 니트소재가 아주 탄탄해서 질이 아주 좋아요~ 품질이 비싼값을 한다는 느낌이 드는 티셔츠예요~ 카라티 디자인이라서 말끔한 인상을 주면서도 적당히 위트있는 느낌이랄까요ㅎㅎㅎ 다만 소매 길이가 짧은편이다보니 팔뚝이 고민이신 분들은 피하시는게 좋을듯도 합니다ㅎㅎ  팔뚝이 고민이신분들만 아니면 이 티셔츠는 꽤 센스있는 선택이 될듯 합니다~!!^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스트라이프 니트 카라티 ",
+    "Syllable": "310",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "너무 귀욤귀욤 디자인이라 추천드리고 싶네요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스트라이프 단추디자인과 옆으로 돌아간 스마일이 너무 사랑스럽지요? ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "입을때마다 귀여운 디자인에 감탄하며 즐거운 마음으로 입고 있답니다~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트소재가 아주 탄탄해서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "품질이 비싼값을 한다는 느낌이 드는 티셔츠예요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "카라티 디자인이라서 말끔한 인상을 주면서도 적당히 위트있는 느낌이랄까요ㅎㅎㅎ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "소매 길이가 짧은편이다보니 팔뚝이 고민이신 분들은 피하시는게 좋을듯도 합니다ㅎㅎ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "질이 아주 좋아요~",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037050",
+    "RawText": "얼마전 제가 월급날이었거든요~!! 뭔가 저 자신이 만족스러울만한 선물을 제 자신에게 하고 싶어 구매한 티셔츠입니다~!!  여기저기 코디하기 좋게 베이지색으로 구매했는데 딱이었어요~ 예쁜 베이지 색이어서 어디에 코디해도 무난하게 잘 어울렸답니다^^ 길이감은 일반적인 길이감이라 딱 좋았고 핏이 슬림한 핏이라 허리가 강조되어 오히려 더 날씬해 보였어요~! 스마일도 귀엽게 엽으로 돌아가 있어서 독특하면서도 사랑스럽답니다~!^^  입을때마다 매번 뿌듯함이 느껴지는게 제 자신을 위해 구매한 선물로 정말 딱이었답니다~!!!^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스트라이프 니트 카라티 ",
+    "Syllable": "292",
+    "Word": "60",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "여기저기 코디하기 좋게 베이지색으로 구매했는데 딱이었어요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "예쁜 베이지 색이어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어디에 코디해도 무난하게 잘 어울렸답니다^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "길이감은 일반적인 길이감이라 딱 좋았고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏이 슬림한 핏이라 허리가 강조되어 오히려 더 날씬해 보였어요~! ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스마일도 귀엽게 엽으로 돌아가 있어서 독특하면서도 사랑스럽답니다~!^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037051",
+    "RawText": "눈팅하다 우연히 발견해 구매까지 하게 된 피케티셔츠를 소개해봅니다^^  니트재질이라 아주 고급스러워요~ 입었을때 핏도 날씬해 보이면서 색감도 고급스러워서 너무 마음에 들었답니다^^ 여러번 입어도 옷이 늘어지지않고 정말 탄탄해요~ 가격이 비싼만큼 퀄리티가 굉장히 좋다는 느낌을 받았습니다^^ 색감도 여리여리한 베이지 색이라서 좋고 어디에 코디해도 편하게 잘 어울렸어요^^ 데일리 아이템으로 손색이 없는 티셔츠랍니다^^  고급스러우면서도 데일리템으로 입을 티셔츠를 찾는다면 이 제품은 어떠실까요~???^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스트라이프 니트 카라티 ",
+    "Syllable": "282",
+    "Word": "56",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "니트재질이라 아주 고급스러워요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 핏도 날씬해 보이면서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 고급스러워서 너무 마음에 들었답니다^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여러번 입어도 옷이 늘어지지않고 정말 탄탄해요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼만큼 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티가 굉장히 좋다는 느낌을 받았습니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 여리여리한 베이지 색이라서 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어디에 코디해도 편하게 잘 어울렸어요^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리 아이템으로 손색이 없는 티셔츠랍니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리템으로 입을 티셔츠를 찾는다면 이 제품은 어떠실까요~???^^",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037052",
+    "RawText": "제가 오늘 소개해 드릴 상의는 OOOOO의 니트 카라티 입니다~!^^  색감에 반해 구매하게 되었는데요~ 받아보고 역시나 그린색이 너무 잘 빠져 마음에 들었답니다^^ 시그니처 스마일 자수패치가 깨알같이 너무 귀여워요~ 괜히 내 얼굴에도 미소가 번지는 기분ㅎㅎㅎ 단추도 평범한 단추가 달릴수도 있는데 유니크한 느낌의 단추 디테일이 너무나 예쁩니다~! 가격이 비싼 편이라는 생각은 들지만 실물 디자인이 워낙 예뻐서 마음에 들었답니다^^  디테일이 예쁜 티셔츠를 찾으신다면 OOOOO 니트 카라티 강력 추천드려봅니다^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스트라이프 니트 카라티 ",
+    "Syllable": "289",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "역시나 그린색이 너무 잘 빠져 마음에 들었답니다^^ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "시그니처 스마일 자수패치가 깨알같이 너무 귀여워요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "유니크한 느낌의 단추 디테일이 너무나 예쁩니다~! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 비싼 편이라는 생각은 들지만 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "실물 디자인이 워낙 예뻐서 마음에 들었답니다^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디테일이 예쁜 티셔츠를 찾으신다면 OOOOO 니트 카라티 강력 추천드려봅니다^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037053",
+    "RawText": "요즘 유행하는 스타일로 세련되게 입어줄수 있는 OOOOO 피케 티셔츠를 소개합니다~~~!!^^  색상은 블랙 블루 두가지 인데 저는 블루로 구매했어요~ 포인트 되는 디자인 너무 좋고 색감도 화면보다 더 진하고 남청색이라 저는 더 마음에 들더라고요^^ 입었을때 핏도 날씬해 보이고 아무튼 그냥 너무너무 예뻐요~! 넉넉한 바지랑 같이 입으면 잘어울리고 더 예쁘답니다~~ 다만 두께가 조금만 더 얇았으면 좋았을거같아요~ 날이 더워지면 그땐 못입을듯 합니다~!  색감도 디자인도 모두 마음에 든 OOOOO 피케 티셔츠 였습니다~~!!!^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 티셔츠",
+    "Syllable": "299",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "요즘 유행하는 스타일로 세련되게 입어줄수 있는 OOOOO 피케 티셔츠를 소개합니다~~~!!^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "포인트 되는 디자인 너무 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 화면보다 더 진하고 남청색이라 저는 더 마음에 들더라고요^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 핏도 날씬해 보이고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "넉넉한 바지랑 같이 입으면 잘어울리고 더 예쁘답니다~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께가 조금만 더 얇았으면 좋았을거같아요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "날이 더워지면 그땐 못입을듯 합니다~!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 디자인도 모두 마음에 든 OOOOO 피케 티셔츠 였습니다~~!!!^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 모두 마음에 든 OOOOO 피케 티셔츠 였습니다~~!!!^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037054",
+    "RawText": "약간 쌀쌀한 바람이 불긴 하지만 약간 더운 느낌도 있어 옷 고르기 애매한 시기가 왔네요^^ 그럴때 입기 딱 좋은 셔츠 하나 소개합니다^^  소재가 도톰해서 쌀쌀한 바람을 막아줄 정도의 따뜻함은 있으면서도 기장이 크롭기장이라 더워보이지 않는 그런 옷이에요^^ 디테일이 아주 예쁘게 디자인 되어서 입었을때 핏이 날씬해 보여 좋고 디자인이 굉장히 예쁘답니다^^ 디자인이 입었을때 트렌티하고 세련된 느낌을 줘요~^^ 가격도 이만하면 비싸지도 싸지도 않은.. 나쁘진 않은 가격이라고 생각합니다^^  개인적으로 디테일 예쁜걸 중요하게 생각하시는 분들은 이 셔츠 예쁘게 입어보시길 추천드려요^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 티셔츠",
+    "Syllable": "327",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 도톰해서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "쌀쌀한 바람을 막아줄 정도의 따뜻함은 있으면서도 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장이 크롭기장이라 더워보이지 않는 그런 옷이에요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디테일이 아주 예쁘게 디자인 되어서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 핏이 날씬해 보여 좋고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 굉장히 예쁘답니다^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 입었을때 트렌티하고 세련된 느낌을 줘요~^^ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 이만하면 비싸지도 싸지도 않은.. 나쁘진 않은 가격이라고 생각합니다^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디테일 예쁜걸 중요하게 생각하시는 분들은 이 셔츠 예쁘게 입어보시길 추천드려요^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037055",
+    "RawText": "한창 크롭티가 유행이라 한번 발랄한 느낌으로 입어보고 싶으신 분들~!!! 이 제품 한번 주목해보세요~!!!^^  정말정말~~ 옷 디자인이 진짜 장난아니게 예쁩니다!! 디자인이 특이해서 마음에 드는 제품이에요~! 저는 별 기대없이 주문했다가 생각한거보다 재질도 두껍고 튼튼해서 더 마음에 들더라고요^^ 그래서 저는 발랄한 기분을 내고 싶을때 이 옷을 꺼내 입는답니다^^ 두께도 도톰하다보니 몸을 딱 잡아주는 느낌이 있고 입었을때 따뜻하답니다~!ㅎㅎ  저랑 취향이 같으신 분들은 한번 겟~~~ 해보세요 추천드려요~~!!!ㅎㅎ  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 티셔츠",
+    "Syllable": "293",
+    "Word": "62",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정말정말~~ 옷 디자인이 진짜 장난아니게 예쁩니다!! ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 특이해서 마음에 드는 제품이에요~! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "생각한거보다 재질도 두껍고 튼튼해서 더 마음에 들더라고요^^ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "저는 발랄한 기분을 내고 싶을때 이 옷을 꺼내 입는답니다^^ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께도 도톰하다보니 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "몸을 딱 잡아주는 느낌이 있고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "입었을때 따뜻하답니다~!ㅎㅎ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037056",
+    "RawText": "평이 좋아 구매해 본 OOOOO의 피케티셔츠 인데요~ 어떤 장단점이 있는지 솔직 후기 작성해 봅니다^^  디자인 자체는 아주 예뻐요~ 라인과 끝단 디자인이 포인트가 되고 핏도 예뻐서 정말 마음에 들었어요~ 하지만 색감이 저는 아쉽더라고요ㅜ 원래는 화면에서 보이는 색감이 너무 마음에 들어서 구매했던건데 막상 받아보니 색감이 제가 생각했던 색감이 아니더라고용ㅜㅜ 좀 더 블루컬러이길 원했는데 실제로는 좀 더 초록끼 도는 파란색이었어요~   색상은 화면과 달라서 아쉬웠지만 디자인과 핏은 아주 예뻐서 색상을 감안하고 구매하시면 나름 만족하실거라고 생각해요^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 티셔츠",
+    "Syllable": "312",
+    "Word": "71",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 자체는 아주 예뻐요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "라인과 끝단 디자인이 포인트가 되고 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 예뻐서 정말 마음에 들었어요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 저는 아쉽더라고요ㅜ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "막상 받아보니 색감이 제가 생각했던 색감이 아니더라고용ㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "좀 더 블루컬러이길 원했는데 실제로는 좀 더 초록끼 도는 파란색이었어요~ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 화면과 달라서 아쉬웠지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인과 핏은 아주 예뻐서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏은 아주 예뻐서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037057",
+    "RawText": "개인적으로 OOOOO 제품의 옷 스타일이 좋아 여기 제품을 많이 입는 편인데요~ 이번에 구매한 옷이 마음에 들기로 제일 손가락에 꼽아 소개해 보려 합니다^^  이때까지 산 OOOOO 제품중에서 재질이 가장 탄탄하고 안 흐물거려서 정말 좋아요~! 핏도 딱 예쁘게 떨어져 마음에 들고 두께감도 꽤 있어서 가을날씨에 하나만 입어도 따뜻해서 좋았답니다^^ 팔이 길어 보여서 오히려 날씬해 보이고 기장도 심한 크롭이 아니라서 오히려 딱 예뻐요~!  포인트가 되는 크롭티를 찾으시는 분들은 OOOOO의 이 제품을 강력추천 드리고 싶네용~!!!^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 티셔츠",
+    "Syllable": "299",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질이 가장 탄탄하고 안 흐물거려서 정말 좋아요~! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 딱 예쁘게 떨어져 마음에 들고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "두께감도 꽤 있어서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가을날씨에 하나만 입어도 따뜻해서 좋았답니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "팔이 길어 보여서 오히려 날씬해 보이고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "기장도 심한 크롭이 아니라서 오히려 딱 예뻐요~!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "포인트가 되는 크롭티를 찾으시는 분들은 OOOOO의 이 제품을 강력추천 드리고 싶네용~!!!^^",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037058",
+    "RawText": "제가 너무너무 마음에 들어 색상별로 구매하게 된 OOOO의 하이넥티셔츠를 소개합니다~~~^^  저는 처음에 브라운 컬러를 구매했는데 생각보다 색상이 어찌나 고급스럽던지~~~~~~!!! 색상에 한번 반하고 입어보고 소재에 한번 더 반했답니다~ 정말 너무 부드럽고 착용감도 편하더라고요~ 핏도 입었을때 딱 예쁜 핏이라서 정말 좋았어요~! 입다보니 자꾸 손이가고 데일리로 입게 되는게 다른 색상도 있으면 좋을거 같아 저는 결국 깔별로 구매하게 되었답니다^^;;ㅋㅋㅋㅋㅋ    정말 데일리템으로 딱!!!!!!!!!!!!! 좋은 깔별로 소장해야 하는 그런 옷인거 같아요~ 한번 입어보시면 저처럼 두개 세게 더 사게 될 마성의 티셔츠랍니다~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 터틀넥 티셔츠",
+    "Syllable": "354",
+    "Word": "75",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "생각보다 색상이 어찌나 고급스럽던지~~~~~~!!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상에 한번 반하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "입어보고 소재에 한번 더 반했답니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "정말 너무 부드럽고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감도 편하더라고요~ ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 입었을때 딱 예쁜 핏이라서 정말 좋았어요~!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "입다보니 자꾸 손이가고 데일리로 입게 되는게 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "정말 데일리템으로 딱!!!!!!!!!!!!! 좋은",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037059",
+    "RawText": "지금처럼 추워지기 시작하며 이너웨어로 레이어드 할 정말 괜찮은 티셔츠를 소개합니다~ 고고고~~!!!!!!!!!!!!!  소재가 너무 부드러워서 맨살에 입어도 부담이 전혀 없어요~ 핏도 몸에 예쁘게 잘 맞는 편이라 이너로 입기 정말 좋은 아이템인것 같습니다~ 하이넥의 높이도 답답하지 않을만큼 적당해서 입었을때 목이 답답해 자꾸 손이 가는 일은 없는 높이라 딱 좋아요~ 무난하게 다른 옷과 코디하기 좋은 티셔츠라 아무데나 잘 어울립니다~ 그러다보니 데일리로 딱이에요~!!  이너로 입기 좋은 하이넥 티셔츠를 찾으시는 분들은 이 제품 정말 강력 추천 드리고 싶습니다~~~ 어서 겟 하세요!!!^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 터틀넥 티셔츠",
+    "Syllable": "331",
+    "Word": "76",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너웨어로 레이어드 할 정말 괜찮은 티셔츠를 소개합니다~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "소재가 너무 부드러워서 맨살에 입어도 부담이 전혀 없어요~ ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 몸에 예쁘게 잘 맞는 편이라 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입기 정말 좋은 아이템인것 같습니다~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "하이넥의 높이도 답답하지 않을만큼 적당해서 입었을때 목이 답답해 자꾸 손이 가는 일은 없는 높이라 딱 좋아요~",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "무난하게 다른 옷과 코디하기 좋은 티셔츠라 아무데나 잘 어울립니다~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "그러다보니 데일리로 딱이에요~!!",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입기 좋은 하이넥 티셔츠를 찾으시는 분들은 이 제품 정말 강력 추천 드리고 싶습니다~~~",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037060",
+    "RawText": "OOOO이 색감하나는 기가막히게 잘 뽑아내는건 잘 알고 계실텐데요~~ 이번에도 정말 색감천재다운 하이넥탑 하나 가지고 왔습니다^^  저는 핑크바이올렛 색상을 구매했는데 색상이 정말 너~~~~~~~무 예쁩니다ㅜㅜㅜ 핑크바이올렛이라는 이름이 너무 잘 어울리는 색상이에요ㅎㅎ 촉감도 부드러워서 좋고 이너로 입기 딱 좋은 두께감을 가지고 있어요~ 소재가 비치지 않아서 좋았고 앞뒤 구분이 없는 디자인이라 더 좋았답니다^^   저는 색상에 반해 또 다른 색상을 구매하려고 해요ㅜㅜ 정말 이렇게 예쁜 색상은 찾아보기 힘들거 같네요ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 터틀넥 티셔츠",
+    "Syllable": "292",
+    "Word": "64",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감천재다운 하이넥탑 하나 가지고 왔습니다^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크바이올렛 색상을 구매했는데 색상이 정말 너~~~~~~~무 예쁩니다ㅜㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "핑크바이올렛이라는 이름이 너무 잘 어울리는 색상이에요ㅎㅎ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감도 부드러워서 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "이너로 입기 딱 좋은 두께감을 가지고 있어요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 비치지 않아서 좋았고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞뒤 구분이 없는 디자인이라 더 좋았답니다^^ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상에 반해 또 다른 색상을 구매하려고 해요ㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "정말 이렇게 예쁜 색상은 찾아보기 힘들거 같네요ㅎㅎ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037061",
+    "RawText": "날이 추워지다보니 폴라티 많이들 찾으시죠? 이너로 입기 딱 좋은 폴라티 하나 추천드려요~!!^^  OOOO의 하이넥 티셔츠인데요~ 몸에 부드럽게 착 감기는 핏이라 이너하기 정말 좋고 소재도 부드럽고 적당히 도톰해서 요즘같은 날씨엔 딱이더라구요~ 신축성도 좋아서 입고 벗을때 아주 편안하답니다^^ 무엇보다 색감이 정말정말 부드러워요~ 고급스러운 색이라 너무 마음에 들더라고요~ 정말 이너로 입기에 착용감도 편하고 코디하기도 편하니 제가 너무너무 추천하고싶어요~!!  OOOO의 하이넥 티셔츠 강.력.추.천!!! 드립니다~!!!^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 터틀넥 티셔츠",
+    "Syllable": "295",
+    "Word": "60",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "몸에 부드럽게 착 감기는 핏이라 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너하기 정말 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "소재도 부드럽고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "두께",
+        "SentimentText": "적당히 도톰해서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "요즘같은 날씨엔 딱이더라구요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성도 좋아서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입고 벗을때 아주 편안하답니다^^ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감이 정말정말 부드러워요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "고급스러운 색이라 너무 마음에 들더라고요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "이너로 입기에 착용감도 편하고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037062",
+    "RawText": "색감이나 핏이 예뻐 기본템은 늘 OOOO에서 구매하는 편인데요~ 겨울을 맞이해서 따뜻한 이너로 입을 하이넥 티셔츠를 구매해봤습니다^^  기본템으로 입을거라서 화이트로 구매했는데요~ 우선 얇지도 않고 두껍지도 않은 딱 좋은 두께라 마음에 들었습니다~ 목폴라이긴 하지만 높이가 높지 않아 답답하지않고 좋았어요~ 소재가 정말 부드러워서 좋긴한데 그런만큼 보풀이 생각보다 너무 잘 일어나서 아쉬웠네요ㅜㅜ 그래도 크림색상이 정말 예쁜 색상이라 아무 코디에나 받쳐입기 너무 좋았답니다~!  소재가 좀 아쉽기는 했지만 그래도 이너로 입기 너무 괜찮은 티셔츠라고 생각해요^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 터틀넥 티셔츠",
+    "Syllable": "313",
+    "Word": "69",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "두께",
+        "SentimentText": "얇지도 않고 두껍지도 않은 딱 좋은 두께라 마음에 들었습니다~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "목폴라이긴 하지만 높이가 높지 않아 답답하지않고 좋았어요~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "소재가 정말 부드러워서 좋긴한데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "보풀이 생각보다 너무 잘 일어나서 아쉬웠네요ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "크림색상이 정말 예쁜 색상이라 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "아무 코디에나 받쳐입기 너무 좋았답니다~!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 좀 아쉽기는 했지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입기 너무 괜찮은 티셔츠라고 생각해요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037063",
+    "RawText": "얼마전 기본템으로 산 티셔츠가 있는데요~ 생각보다 너무~ 괜찮아서 후기 남겨봅니다^^  가격이 워낙 저렴해서 별 기대 없이 샀는데 두개 구성인것도 좋은데 디자인도 생각보다 예쁘더라구요~ 네크라인이 스퀘어라인이라 목선도 예뻐보이고 핏도 딱 좋았어요~~ 이너로 입으려고 샀는데 단품으로도 잘 입고 있답니다ㅎㅎ 소재가 엄청 고급스럽지는 않지만 그래도 이 가격에 이정도 재질은 훌륭하다고 생각해요~ 다만 마감이 별로인게 아쉽긴 하더라고요~~  그래도 가격이 워낙 저렴하니 이정도면 정말 훌륭한 구성의 제품이 아닐까 싶어 추천 드리고 싶네요^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스퀘어넥 긴팔 티셔츠",
+    "Syllable": "301",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 워낙 저렴해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "두개 구성인것도 좋은데 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 생각보다 예쁘더라구요~ ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "네크라인이 스퀘어라인이라 목선도 예뻐보이고 핏도 딱 좋았어요~~ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로 입으려고 샀는데 단품으로도 잘 입고 있답니다ㅎㅎ ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 엄청 고급스럽지는 않지만",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "이 가격에 이정도 재질은 훌륭하다고 생각해요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감이 별로인게 아쉽긴 하더라고요~~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 워낙 저렴하니",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이정도면 정말 훌륭한 구성의 제품이 아닐까 싶어 추천 드리고 싶네요^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037064",
+    "RawText": "저는 가성비 좋은 아이템을 굉장히 좋아하는 편인데요~ 그러다보니 저렴한 가격에 구성이 좋은 패키지를 많이 구매하는 편이에요~!  이번에 제가 구매한 패키지는 기본 아이템 구성으로 되어 있어 데일리로 입기 딱 좋은 아이템들인데요~ 가격은 저렴한데 두개구성으로 받아볼수 있으니 정말 마음에 들었답니다~ 가격이 싸니 크게 기대를 안했는데 생각보다 촉감이 부들부들하고 입었을때 정말 착용감이 편하더라고요~ 단독으로도 이너로도 활용이 좋아서 정말 잘 입고 있어요^^  디자인 또한 세련되게 잘 빠져서 가격대비 정말 괜찮은 구성이라는 생각이 드네요^^ 가성비가 정말 굿굿굿~!!!^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스퀘어넥 긴팔 티셔츠",
+    "Syllable": "320",
+    "Word": "72",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리로 입기 딱 좋은 아이템들인데요~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴한데 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "두개구성으로 받아볼수 있으니 정말 마음에 들었답니다~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 싸니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "생각보다 촉감이 부들부들하고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입었을때 정말 착용감이 편하더라고요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "단독으로도 이너로도 활용이 좋아서 정말 잘 입고 있어요^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 또한 세련되게 잘 빠져서 ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "가격대비 정말 괜찮은 구성이라는 생각이 드네요^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 정말 굿굿굿~!!!^^",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037065",
+    "RawText": "착용사진을 보고 너무 예뻐보여 구매하게 된 티셔츠인데요~ 열심히 입어보고 느낀 솔직 후기 남겨봅니다^^  색상은 무난해서 코디하기 좋고 핏도 꽤 예쁜 티셔츠 입니다~ 그러다보니 데일리로 매일 입게 되더라구요^^ 다만 생각보다 퀄리티가 좀 떨어진달까요ㅜㅜ 자주 입다보니 옷이 금방 늘어나긴 하더라구요ㅜㅜ 허리부분이 자꾸 쭈글쭈글해져서 아쉽습니다ㅜㅜ 마감도 별로 이고용;; 그래도 가격은 저렴하니 싼맛에 잘 입고 있어요~ 개인적으로는 기모버전도 있으면 좋을거 같네요^^  열심히 입어본 느낌으로는 저렴한 가격으로 막~~~ 입기 좋은 그런 티셔츠라고 생각합니다~^^  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스퀘어넥 긴팔 티셔츠",
+    "Syllable": "315",
+    "Word": "68",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상은 무난해서 코디하기 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "핏도 꽤 예쁜 티셔츠 입니다~ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "그러다보니 데일리로 매일 입게 되더라구요^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "생각보다 퀄리티가 좀 떨어진달까요ㅜㅜ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "자주 입다보니 옷이 금방 늘어나긴 하더라구요ㅜㅜ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "허리부분이 자꾸 쭈글쭈글해져서 아쉽습니다ㅜㅜ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "마감",
+        "SentimentText": "마감도 별로 이고용;;",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 저렴하니 싼맛에 잘 입고 있어요~ ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격으로 막~~~ 입기 좋은 그런 티셔츠라고 생각합니다~^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037066",
+    "RawText": "기본 아이템 이면서도 입었을때 라인이 예쁜 티셔츠를 찾으신다면 여기 주목해주세요~!!!!  한참 유행하는 크롭디자인이라 트렌디한 느낌이 들고 네크라인이 예쁘게 파져 목선이 예뻐보이는 티셔츠랍니다~! 소재도 부들부들해서 입었을때 느낌이 참 좋아요~ 깔끔한 디자인이라 기본템으로 입기 너무 좋아요~ 슬림핏이라 아무래도 마른 분들이 입으시면 핏이 더 예쁠듯 합니다^^ 입었을때 착용감도 아주 편안하니 저는 앞으로도 자주 잘 입어질거 같아요^^  기본티셔츠 이지만 입었을때 라인이 참 예뻐서 강력추천 드리고 싶은 티셔츠랍니다~!!^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스퀘어넥 긴팔 티셔츠",
+    "Syllable": "294",
+    "Word": "63",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 라인이 예쁜 티셔츠를 찾으신다면 여기 주목해주세요~!!!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "한참 유행하는 크롭디자인이라 트렌디한 느낌이 들고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "네크라인이 예쁘게 파져 목선이 예뻐보이는 티셔츠랍니다~!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "소재도 부들부들해서 입었을때 느낌이 참 좋아요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 디자인이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "기본템으로 입기 너무 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "슬림핏이라 아무래도 마른 분들이 입으시면 핏이 더 예쁠듯 합니다^^",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "입었을때 착용감도 아주 편안하니 저는 앞으로도 자주 잘 입어질거 같아요^^",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "입었을때 라인이 참 예뻐서 강력추천 드리고 싶은 티셔츠랍니다~!!^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037067",
+    "RawText": "기본티셔츠는 꼭 한두개씩은 가지고 있는게 정석이죠~?^^ 개인적으로 기본템은 같은 디자인에 구성이 여러개인 패키지 제품을 선호하는데요~   오늘 소개해드리는 티셔츠는 2개 패키지로 아주 알찬 구성입니다^^ 색상도 다르게 선택할수 있으니 더없이 좋은 구매일듯 합니다~! 저는 이 기본템으로 올해 여름~ 가을에 정말 잘 입고 다녔답니다. 데일리 아이템으로 정말 굿굿~!!! 그러다 보니 가격도 저렴하게 잘 산거 같아 아주 만족스럽답니다~! 이너로도 입고 단독으로도 입을수 있으니 정말 좋아요~~  너무나 좋은 가격에 좋은 구성이니 고민말고 기본템으로 하나 들이시길 추천드려요~~~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스퀘어넥 긴팔 티셔츠",
+    "Syllable": "324",
+    "Word": "71",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "2개 패키지로 아주 알찬 구성입니다^^ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "저는 이 기본템으로 올해 여름~ 가을에 정말 잘 입고 다녔답니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "데일리 아이템으로 정말 굿굿~!!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 저렴하게 잘 산거 같아 아주 만족스럽답니다~! ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "이너로도 입고 단독으로도 입을수 있으니 정말 좋아요~~",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "너무나 좋은 가격에 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "좋은 구성이니",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "기본템으로 하나 들이시길 추천드려요~~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037069",
+    "RawText": "안녕하세요. 오늘은 OOO 기모팬츠 실착용 후기 남겨드리려고 해요. 그럼 시작해볼께요. ㅎㅎ  OOO 기모팬츠는 세미 스트레이트 디자인으로 다리를 슬림하게 보이게 해주고, 사방스판이라 굉장히 편안한 팬츠인데요. 여러번 입고 세탁한 후에도 늘어짐 없이 형태가 그대로 유지되서 좋았어요. 촉감이 부드럽고 이면 기모처리가 되있어서 보온성이 높은 소재랍니다. 일상복으로도 출근복으로도 손색없을 정도로 옷의 디자인이 너무 깔끔하네요~~^^  OOO 기모팬츠로 겨울에 멋지게 코디해보세요~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 스트레치 기모팬츠 ",
+    "Syllable": "269",
+    "Word": "55",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "OOO 기모팬츠는 세미 스트레이트 디자인으로",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "다리를 슬림하게 보이게 해주고, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "사방스판이라 ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "굉장히 편안한 팬츠인데요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여러번 입고 세탁한 후에도 늘어짐 없이 형태가 그대로 유지되서 좋았어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감이 부드럽고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "기모처리가 되있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성이 높은 소재랍니다. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "일상복으로도 출근복으로도 손색없을 정도로",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "옷의 디자인이 너무 깔끔하네요~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037070",
+    "RawText": "안녕하세요. 오늘은 겨울에 트렌디하게 연출하기 좋은 니트 반바지를 소개해보려고 해요. 바로 OOO 니트 반바지인데요.   OOO 니트 반바지는 메리노 울을 사용해서 보온성이 좋은데요. 너무 길지 않은 무릎까지 오는 길이라서 롱부츠와 코디해도 길이감이 딱 좋은데요.  주머니가 있어서 활용하기도 좋고, 컬러가 실제로 보니 훨씬 고급스러웠어요. 소재, 디자인 모두 만족스러워서 올겨울 데일리로 잘 입을거 같네요~~^^  올겨울 니트 반바지 도전해보세요~~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 니트 반바지 ",
+    "Syllable": "254",
+    "Word": "55",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겨울에 트렌디하게 연출하기 좋은 니트 반바지를 소개해보려고 해요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "메리노 울을 사용해서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성이 좋은데요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "너무 길지 않은 무릎까지 오는 길이라서 롱부츠와 코디해도 길이감이 딱 좋은데요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "주머니가 있어서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "활용하기도 좋고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러가 실제로 보니 훨씬 고급스러웠어요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재, 디자인 모두 만족스러워서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 모두 만족스러워서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "올겨울 데일리로 잘 입을거 같네요~~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037071",
+    "RawText": "안녕하세요. 겨울이 왔음에도 불구하고 아직은 날씨가 따뜻해서 시즌을 마무리하기 참 아쉬운데요. 오늘은 요즘같은 추운 날씨에 보온성 좋은 OOO 기모팬츠를 소개해드리려고 합니다.  따뜻한 기모원단의 본딩팬츠라서 골프뿐 아니라 레져, 일상복으로도 활용할 수 있는 아이템인데요. 눈이나 비의 날씨 영향을 받지 않는 발수기능과 링클프리 원단이라서 다림질이 필요없는 점도 넘 좋았답니다. 가볍고, 신축성까지 좋아서 겨울에 라운딩을 즐기기에 넘 편한 팬츠에요. 가성비까지 좋으니 넘넘 만족스럽네요~~^^  올겨울 골프 즐기실 분들 OOO기모팬츠 한번 입어보세요~~^^ 강추합니다..  ",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 기모 겨울팬츠 2종 ",
+    "Syllable": "321",
+    "Word": "67",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "오늘은 요즘같은 추운 날씨에 보온성 좋은 OOO 기모팬츠를 소개해드리려고 합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "따뜻한 기모원단의 본딩팬츠라서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "골프뿐 아니라 레져, 일상복으로도 활용할 수 있는 아이템인데요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "눈이나 비의 날씨 영향을 받지 않는 발수기능과",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "링클프리 원단이라서 다림질이 필요없는 점도 넘 좋았답니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성까지 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "겨울에 라운딩을 즐기기에 넘 편한 팬츠에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비까지 좋으니 넘넘 만족스럽네요~~^^",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037072",
+    "RawText": "겨울이 되면 입을 수 있는 코듀로이 팬츠! 찬바람이 많이 부는 계절이 되니 보온성까지 갖춰진 따뜻한 소재를 찾게 되는거 같아요. 그래서 미리 구매해둔 OOO 코듀로이 팬츠를 여러분들께 소개해드리려고 해요.  OOO 코듀로이 팬츠는 기존 코듀로이 소재의 뻣뻣하고 투박하다는 편견에서 벗어날 수 있게 폴리우레탄이 함유되서 신축성이 굉장히 좋은데요. 광택감이 은은하게 나서 멋스럽게 입어볼 수 있답니다. 코듀로이 원단자체가 굉장히 보온성이 좋고, 촉감까지 부드러워서 추운 날에도 따뜻하게 잘 입게 될거 같아요.   보온성이 좋은 OOO 코듀로이 팬츠로 따뜻한 겨울 보내세요~~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 코듀로이 밴딩팬츠 ",
+    "Syllable": "321",
+    "Word": "74",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "기존 코듀로이 소재의 뻣뻣하고 투박하다는 편견에서 벗어날 수 있게",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "폴리우레탄이 함유되서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "신축성",
+        "SentimentText": "신축성이 굉장히 좋은데요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "광택감이 은은하게 나서 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "코듀로이 원단자체가 굉장히 보온성이 좋고, ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "촉감",
+        "SentimentText": "촉감까지 부드러워서 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "추운 날에도 따뜻하게 잘 입게 될거 같아요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "보온성이 좋은 OOO 코듀로이 팬츠로 따뜻한 겨울 보내세요~~^^",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037073",
+    "RawText": "안녕하세요. 착용감 편안하게 여기저기 코디해서 데일리룩으로 입을 수 있는 OOO 린넨 와이드팬츠를 소개하려고 합니다.   OOO 린넨 와이드팬츠는 린넨과 레이온을 블렌딩한 소재여서 가볍고, 통기성이 좋아서 한여름에도 시원하고 부담없이 입을 수 있는데요. 하이웨스트 디자인이라 다리라인이 길어보여서 좋았어요. 앞에 핀턱주름이 잡혀 있어서 체형커버도 되고, 디자인이 무난해서 어디에도 잘 어울리는 팬츠랍니다.   여름에 무난하게 입을 수 있는 팬츠가 필요하시면 OOO 린넨 와이드 팬츠 추천해 드릴께요~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 린넨 와이드팬츠",
+    "Syllable": "281",
+    "Word": "60",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "착용감",
+        "SentimentText": "착용감 편안하게",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "여기저기 코디해서 데일리룩으로 입을 수 있는 OOO 린넨 와이드팬츠를 소개하려고 합니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "린넨과 레이온을 블렌딩한 소재여서 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가볍고, ",
+        "SentimentWord": "1",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통기성이 좋아서",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "한여름에도 시원하고 부담없이 입을 수 있는데요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "하이웨스트 디자인이라 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "다리라인이 길어보여서 좋았어요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "앞에 핀턱주름이 잡혀 있어서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "핏",
+        "SentimentText": "체형커버도 되고, ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "1037074",
+    "RawText": "안녕하세요. 요즘 저는 베이직한 스타일의 옷들을 하나 둘 쟁이고 있는데요. 그 중 하나가 OOO 린넨팬츠랍니다.  OOO 린넨팬츠는 피부에 닿았을때 부드럽고, 흡습성이 좋은 소재라서 더운 여름에 입기 넘 좋은데요. 와이드한 디자인이 멋스럽고 다리라인이 드러나지 않아 편하게 입을 수 있어요. 또 무난한 베이지색이라 어떤 상의와 매치해도 다 소화가 가능해서 좋았답니다. 제가 다리가 긴편이라 바지를 고를때마다 어려움이 많은데 이 팬츠는 제가 입기에도 기장감이 딱 적당해서 넘 만족스러웠어요.  여름에 입기 적당한 팬츠 고민이시라면 시원한 OOO 린넨팬츠 입어보세요. 더운 여름에 시원하게 입기 딱이랍니다~^^",
+    "Source": "SNS",
+    "Domain": "패션",
+    "MainCategory": "여성의류",
+    "ProductName": "OO 린넨 팬츠",
+    "Syllable": "339",
+    "Word": "78",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "촉감",
+        "SentimentText": "피부에 닿았을때 부드럽고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "흡습성이 좋은 소재라서",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "더운 여름에 입기 넘 좋은데요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "와이드한 디자인이 멋스럽고 다리라인이 드러나지 않아",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "착용감",
+        "SentimentText": "편하게 입을 수 있어요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "무난한 베이지색이라",
+        "SentimentWord": "2",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "활용성",
+        "SentimentText": "어떤 상의와 매치해도 다 소화가 가능해서 좋았답니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "길이",
+        "SentimentText": "이 팬츠는 제가 입기에도 기장감이 딱 적당해서 넘 만족스러웠어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여름에 입기 적당한 팬츠 고민이시라면 시원한 OOO 린넨팬츠 입어보세요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "더운 여름에 시원하게 입기 딱이랍니다~^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  }
+]
