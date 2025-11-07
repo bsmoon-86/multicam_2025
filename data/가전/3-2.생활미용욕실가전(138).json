@@ -1,0 +1,3724 @@
+[
+  {
+    "Index": "114360",
+    "RawText": "선이 1.5미터 말고 다양한 선택지가 있었으면 더 좋았을 것 같아요. 제품의 색상도 하얀색 말고 검정색이나 브라운 등 다양한 색상이 있으면 집의 바닥 색이나 가구색에 맞춰서 선택해서 사용하기 좋았을 것 같은데 아쉽네요. 또 먼지가 잘 들어갈 것 같아 걱정이 되어 따로 선정리 제품을 사서 전선 정리를 해주어야 할 것 같아 번거롭습니다. 급한 마음에 여러 사이트에서 찾아보지 않고 바로 샀더니 후회와 아쉬움이 남네요. 그래도 제품에 하자가 없다는 점이 다행입니다. 기스가 조금 많긴 하지만 사용하면서 어차피 생길 것이라고 생각하고 마음 편하게 생각하면 생필품이다 보니 크게 상관 없을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "절전형 멀티탭 6구(1.5m)",
+    "ReviewScore": "2",
+    "Syllable": "332",
+    "Word": "86",
+    "RDate": "20221106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "선이 1.5미터 말고 다양한 선택지가 있었으면 더 좋았을 것 같아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "제품의 색상도 하얀색 말고 검정색이나 브라운 등 다양한 색상이 있으면 집의 바닥 색이나 가구색에 맞춰서 선택해서 사용하기 좋았을 것 같은데 아쉽네요.",
+        "SentimentWord": "21",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그래도 제품에 하자가 없다는 점이 다행입니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "기스가 조금 많긴 하지만 사용하면서 어차피 생길 것이라고 생각하고 마음 편하게 생각하면 생필품이다 보니 크게 상관 없을 것 같아요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114361",
+    "RawText": "집에서 간편하게 보풀 제거하려고 구매했는데 ㅋㅋㅋ 아무리 성능이 좋다고 하더라도 상품 디자인이 정말 너무 촌스러워요.이렇게 색상도 오랜 시간 지나서 저절로 노래진듯한 색감에 먼지통도 이상한 파란색이라 그런지 더 촌스러워 보이네요.그래도 보풀 제거하는 기능은 꽤 성능이 좋네요. 보풀 제거기를 좌우로 조금씩만 움직여도 보풀이나 그외 옷에 붙어있는 먼지도 같이 떼어지는 것 같아요.옷의 두께에 따라 보풀 제거기 높이 조정하는 기능도 있어서 나름 쓸모 있습니다.다만 정말 상품 디자인은 저세상 디자인이에요. 요즘 나오는 예쁘고 세련된 디자인 제품 기대하면 큰일나요~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "점보 보풀제거기 보푸라기 옷면도기 의류",
+    "ReviewScore": "3",
+    "Syllable": "314",
+    "Word": "73",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 아무리 성능이 좋다고 하더라도",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 상품 디자인이 정말 너무 촌스러워요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "이렇게 색상도 오랜 시간 지나서 저절로 노래진듯한 색감에 먼지통도 이상한 파란색이라 그런지 더 촌스러워 보이네요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그래도 보풀 제거하는 기능은 꽤 성능이 좋네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "옷의 두께에 따라 보풀 제거기 높이 조정하는 기능도 있어서 나름 쓸모 있습니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "다만 정말 상품 디자인은 저세상 디자인이에요. 요즘 나오는 예쁘고 세련된 디자인 제품 기대하면 큰일나요~~",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114362",
+    "RawText": "아침에 바쁜데 머리 말리는 시간은 부족하고 그렇다고 머리를 짧게 자르기는 싫고 결국 드라이기가 중요하더라고요.그래서 강력한 모터!라는 상품 품질를 믿고 구매했는데 생각했던 것보다는 그전과 비슷해 실망스러워요. 힘 좋은 모터라서 풍량이나 열량이나 더 좋다고 되어 있었는데... 결국 드라이기 성능은 거기서 거기였구나...를 느끼며 말리고 있어요. 그렇다고 실망스러워! 까지는 아니고 쓰기에 나쁘진 않아요. 바람의 온도와 세기는 풍량 풍온 등 다 합치면 결국 6단계까지 할 수 있어서 미세한 조절이 가능한데 사실 그렇게 예민하고 까다롭게 쓰게 되진 않아요. 아침에 바쁜데 무조건 빠르게 말릴 수 있는 쪽으로!!! 가 되는 거죠. ㅎㅎ  그럭저럭 쓸 만해서 우선 괜찮아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "접이식 드라이기 XD-7017B 다크그레이",
+    "ReviewScore": "4",
+    "Syllable": "373",
+    "Word": "89",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "강력한 모터!라는 상품 품질를 믿고 구매했는데 생각했던 것보다는 그전과 비슷해 실망스러워요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "결국 드라이기 성능은 거기서 거기였구나...를 느끼며 말리고 있어요. 그렇다고 실망스러워! 까지는 아니고 쓰기에 나쁘진 않아요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람의 온도와 세기는 풍량 풍온 등 다 합치면 결국 6단계까지 할 수 있어서 미세한 조절이 가능한데 사실 그렇게 예민하고 까다롭게 쓰게 되진 않아요.",
+        "SentimentWord": "23",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114363",
+    "RawText": "가끔 드라이기 쓰다가 긴 머리 여자분들은 경험해 보셨을 일! 드라이기 뒷면 후드에 머리카락 껴서 고생하는 거요. 그러고 나면 낀 부분이 타잖아아요. 머리카락 끝도 손상되고. ㅠ.ㅠ근데 이 제품은 이중 후드로 되어 있어서 안전하더라고요. 바쁘게 머리카락 앞으로 다 쓸어내리고 말리고 있는데 끼임 사고 일어나면 미치겠거든요. 그런데 이 제품은 후드가 이중이라서 끼임 사고가 없어서 좋아요.그리고 들고서 머리 말리다 보니 손목이 아플 때가 있는데 그게 드라이기 무게 때문이었나 봐요. 이 드라이기로 바꾼 뒤로는 손목 저림이 덜하더라고요. 드라이기가 그만큼 가볍고 그립감이 좋아서 만족스러워요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "접이식 드라이기 XD-7017B 다크그레이",
+    "ReviewScore": "5",
+    "Syllable": "328",
+    "Word": "78",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "근데 이 제품은 이중 후드로 되어 있어서 안전하더라고요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 제품은 후드가 이중이라서 끼임 사고가 없어서 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 드라이기로 바꾼 뒤로는 손목 저림이 덜하더라고요. 드라이기가 그만큼 가볍고 ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "그립감이 좋아서 만족스러워요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114364",
+    "RawText": "머리가 길어서 볼륨 컬링 스타일링 하고 싶어서 구매하게 되었어요.아무래도 서툴어서 너무 전문가용을 사는 것보다는 초보자들도 쉽게 쓸 수 있는 간단한 걸로 찾아서 구매했습니다.사용해보니 봉고데기와 판고데기 2가지 기능중에 전 봉고데기를 더 많이 쓰게 되더라구요.판고데기는 열판이 사용하기에는 온도가 계속 올라가서 머리결에 안 좋을 거 같아서 피하게 되구요.하지만 봉고데기는 브러쉬가 감싼 상태에서 안에서 봉에 열이 나니 볼륨 컬링 효과를 내는데는 아주 효과적이네요.성능이 다 좋은 건 아니지만 봉고데기 기능은 좋아요.사용하기 쉽게 조작법도 간단하고 필요에 따라 2가지 기능 다 쓸 수 있으니 괜찮은것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 2in1 고데기",
+    "ReviewScore": "3",
+    "Syllable": "339",
+    "Word": "79",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "판고데기는 열판이 사용하기에는 온도가 계속 올라가서 머리결에 안 좋을 거 같아서 피하게 되구요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "봉고데기는 브러쉬가 감싼 상태에서 안에서 봉에 열이 나니 볼륨 컬링 효과를 내는데는 아주 효과적이네요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 다 좋은 건 아니지만 봉고데기 기능은 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용하기 쉽게 조작법도 간단하고 필요에 따라 2가지 기능 다 쓸 수 있으니 괜찮은것 같아요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114365",
+    "RawText": "이 제품은 저를 위한 겁니다! ㅋㅋ 머리를 말리는 거야 대충 물기야~ 사라져라~ 하는데... 항상 앞머리가 문제더라고요.앞머리가 제대로 안 나오면 그날은 그냥 아침부터 망쳐진 느낌이에요. 그만큼 앞머리가 중요하더라고요. 그런데 이 제품 사용하면서 앞머리 관리하는 게 훨씬 편해졌어요.전 판 고데기는 별로 쓰지 않고, 락 스위치 걸고 봉 고데기로만 사용하고 있어요. 이렇게 락 스위치가 있어서 봉으로 사용 가능한 고데기는 처음이네요.아침 등교 때 앞머리용으로 구매한 고데기인데 흡족해요. 주말에 시간 여유 있을 땐 락 스위치 풀고 판 고데기로 머리에 컬도 한번 시도할까 봐요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 2in1 고데기WJM-6600",
+    "ReviewScore": "5",
+    "Syllable": "321",
+    "Word": "78",
+    "RDate": "20221110",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이 제품 사용하면서 앞머리 관리하는 게 훨씬 편해졌어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이렇게 락 스위치가 있어서 봉으로 사용 가능한 고데기는 처음이네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "아침 등교 때 앞머리용으로 구매한 고데기인데 흡족해요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114366",
+    "RawText": "머리가 나이 들수록 얇아지고 약해져서 사실 열을 줄 때 더 손상되고 끊어질까 봐 걱정돼서 고데기를 사용하기가 망설여지더라고요.그런데 머리를 또 예쁘게 관리하려면 고데기를 쓰긴 써야 하고 고민하고 있었는데 이 제품은 세라믹 코팅으로 되어 있어서 모발 손상이 적다고 해서 구매해서 일주일 정도 사용해 봤어요.우선 일주일 사용기로는 만족스러워요. 컬 내기도 쉽고 머리 손상도 적은 편이라서 앞으로 더 써 봐야 알겠지만 지금으로선 만족스러워요.펌이나 염색을 자주 하던 머리라서 이제는 손상도가 높아서 관리하기가 쉽지 않은데 이 제품으로는 괜찮을 거 같아요. 손잡이 그립감도 좋은 편이고요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 2in1 고데기WJM-6600",
+    "ReviewScore": "5",
+    "Syllable": "325",
+    "Word": "78",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": " 이 제품은 세라믹 코팅으로 되어 있어서 모발 손상이 적다고 해서 구매해서 일주일 정도 사용해 봤어요.우선 일주일 사용기로는 만족스러워요. ",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "컬 내기도 쉽고 머리 손상도 적은 편이라서 앞으로 더 써 봐야 알겠지만 지금으로선 만족스러워요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "펌이나 염색을 자주 하던 머리라서 이제는 손상도가 높아서 관리하기가 쉽지 않은데 이 제품으로는 괜찮을 거 같아요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "손잡이 그립감도 좋은 편이고요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114367",
+    "RawText": "제가 같은 제품의 드라이기가 있어서 기대감이 컸나 봐요. 드라이기는 정말 만족감이 높았거든요. 그런데 고데기는 그만큼이 아니네요.온도조절이 2단계라서 적절한 온도를 조절하기는 좋아요. 고데기들이 온도를 엄청 다양하게 쓰는 건 아니라서 2단 계면 충분하거든요. 그래서 그 부분은 불만족스럽지 않고 괜찮은데 생각보다 잘 엉키네요.전 봉 쪽에 브러시 타입 쪽이 마음에 들어서 구입한 건데 이게 생각보다 머리가 잘 엉켜요. 고열인데 머리가 엉키니까 손상이 더 잘 되네요. 머리숱이 적어서 항상 컬을 내는 편인데 자꾸 머리가 엉키고 끊어 먹으니 난감해요. 드라이기는 정말 마음에 들었는데 말이죠.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 2in1 고데기WJM-6600",
+    "ReviewScore": "2",
+    "Syllable": "328",
+    "Word": "78",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "온도조절이 2단계라서 적절한 온도를 조절하기는 좋아요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "전 봉 쪽에 브러시 타입 쪽이 마음에 들어서 구입한 건데 이게 생각보다 머리가 잘 엉켜요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "고열인데 머리가 엉키니까 손상이 더 잘 되네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "머리숱이 적어서 항상 컬을 내는 편인데 자꾸 머리가 엉키고 끊어 먹으니 난감해요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114368",
+    "RawText": "이런 드라이기는 처음이네요. 드라이기가 작고 아담한데 앞이 툭 튀어나오지 않아서 디자인적으로 굉장히 새로워요~아담한 사이즈만큼 무게도 적게 나가더라고요. 무게가 적게 나가야 들고 긴 머리를 장시간 말릴 때 손목이랑 어깨가 덜 힘들잖아요. 그래서 머리를 말릴 때 좀 더 편해졌어요. 머리가 길어지면서 말릴 때 시간이 오래 걸리는데 가벼워지니까 몸도 편해지더라고요.게다가 말리면서 바람의 온도 조절을 대부분은 눈으로 보고 스위치를 올리는 형태만 쓰다가 이건 터치식으로 누르는 푸시 스위치라서 굳이 드라이기를 잠깐 내리고 볼 필요 없이 그냥 누르면 돼요. 감각적으로 말이죠! 머리 말리는 시간이 편해지니 하루가 더 즐겁게 시작되네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 BLDC 드라이기",
+    "ReviewScore": "5",
+    "Syllable": "351",
+    "Word": "83",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 드라이기가 작고 아담한데 앞이 툭 튀어나오지 않아서 디자인적으로 굉장히 새로워요~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "아담한 사이즈만큼 무게도 적게 나가더라고요. 무게가 적게 나가야 들고 긴 머리를 장시간 말릴 때 손목이랑 어깨가 덜 힘들잖아요. ",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그래서 머리를 말릴 때 좀 더 편해졌어요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 머리가 길어지면서 말릴 때 시간이 오래 걸리는데 가벼워지니까 몸도 편해지더라고요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "이건 터치식으로 누르는 푸시 스위치라서 굳이 드라이기를 잠깐 내리고 볼 필요 없이 그냥 누르면 돼요. 감각적으로 말이죠!",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "머리 말리는 시간이 편해지니 하루가 더 즐겁게 시작되네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114369",
+    "RawText": "머리 말릴 때 시간을 단축하고 싶어서 이 제품 구입했어요. 에어 쇼크로 다른 모터들보다 더 강력한 바람이 나온다고 해서요. 사용해 보니 바람이 더 세긴 센 거 같아요.근데 그게 획기적으로 정말 강풍이 어마 무시해요! 라는 느낌은 아니더라고요. 그래도 다른 드라이기 보다 센 편에 속해서 뭐 이 정도는 쏘 쏘 괜찮네~ 정도예요. 가성비 생각하면 굳이 바꿀 필요가 있었나... 싶긴 하지만요.좋은 건 고리가 있어요. 드라이기 쓰고 나면 둘둘 본체에 선 말아서 어디 위에 올리거나 서랍에 넣거나 하잖아요. 아침에 바쁜데 그거 정리해서 넣는 시간도 아까운데 이건 걸림 고리가 있어요. 그 점은 정말 편하더라고요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 BLDC 드라이기",
+    "ReviewScore": "3",
+    "Syllable": "338",
+    "Word": "88",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "그게 획기적으로 정말 강풍이 어마 무시해요! 라는 느낌은 아니더라고요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다른 드라이기 보다 센 편에 속해서 뭐 이 정도는 쏘 쏘 괜찮네~ 정도예요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 생각하면 굳이 바꿀 필요가 있었나... 싶긴 하지만요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "아침에 바쁜데 그거 정리해서 넣는 시간도 아까운데 이건 걸림 고리가 있어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114370",
+    "RawText": "드라이기가 오래돼서 망가졌는데 복잡한 것보다 심플한 걸 선호해서요.디자인도 심플하고 가벼운 데다가 스위치도 이것도 조절하고 저것도 조절하고 하지 않고 그냥 강/약/냉풍 끝! 저는 도리어 복잡하지 않아서 더 좋더라고요.요즘은 풍속도 조절 해야지, 풍온도 조절 해야지... 에이 바빠 죽겠는데... 심플 이즈 베스트! 입니다.그리고 굳이 바람세기가 노즐이 필요하지 않고 단순한 형태로 써도 괜찮은데 노즐이 필요한 분들을 위해서 노즐을 두 가지 타입으로 같이 주더라고요. 주말에 스타일링이 필요할 때 쓰면 괜찮은 거 같아서 하나 사용해 봤는데 그냥 직장 출근용으로 말리는데 목적일 때 하고는 느낌인지 또 다르더라고요. 다목적으로 필요할 때 쓰면 좋은 거 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제니아 BLDC 드라이기",
+    "ReviewScore": "5",
+    "Syllable": "367",
+    "Word": "87",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하고 가벼운 데다가 스위치도 이것도 조절하고 저것도 조절하고 하지 않고 그냥 강/약/냉풍 끝! 저는 도리어 복잡하지 않아서 더 좋더라고요",
+        "SentimentWord": "20",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼운 데다가 스위치도 이것도 조절하고 저것도 조절하고 하지 않고 그냥 강/약/냉풍 끝! 저는 도리어 복잡하지 않아서 더 좋더라고요",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "스위치도 이것도 조절하고 저것도 조절하고 하지 않고 그냥 강/약/냉풍 끝! 저는 도리어 복잡하지 않아서 더 좋더라고요",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "바람세기가 노즐이 필요하지 않고 단순한 형태로 써도 괜찮은데 노즐이 필요한 분들을 위해서 노즐을 두 가지 타입으로 같이 주더라고요",
+        "SentimentWord": "18",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다목적으로 필요할 때 쓰면 좋은 거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114371",
+    "RawText": "해마다 날씨가 점점 습해지는 거 같아요. 제습기 없이 살다가 올여름 너무 습해서 제습기 들여놓았습니다.장마철에 빨래도 잘 안 마르고 건조기에 돌릴 수 없는 빨래는 실내 건조해야 하는데 집안도 습하다 보니 꿉꿉한 냄새가 나요.실내에 빨래 널 때 그 앞에 제습기 틀어놓으면 좋다고 해서 겸사겸사 구매해서 사용해 봤는데 확실히 빨래가 잘 마르긴 하네요.날씨가 너무 습할 때 틀어두니까 집안이 보송보송 해지긴 해요. 물통 열어보면 물도 많이 차 있고요.화장실 청소하고 그 앞에 틀어두면 물이 빨리 건조돼서 곰팡이도 덜 생기는 거 같아요. 사길 잘한 거 같아요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제습기",
+    "ReviewScore": "5",
+    "Syllable": "308",
+    "Word": "80",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "실내에 빨래 널 때 그 앞에 제습기 틀어놓으면 좋다고 해서 겸사겸사 구매해서 사용해 봤는데 확실히 빨래가 잘 마르긴 하네요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "날씨가 너무 습할 때 틀어두니까 집안이 보송보송 해지긴 해요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "물통 열어보면 물도 많이 차 있고요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "화장실 청소하고 그 앞에 틀어두면 물이 빨리 건조돼서 곰팡이도 덜 생기는 거 같아요. 사길 잘한 거 같아요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114372",
+    "RawText": "집안이 꿉꿉해서 제습기 구매해 봤습니다. 집 평수가 넓지 않아서 그전부터 사고는 싶었는데 자리 차지 많이 할까 봐 망설였는데 생각보다 심플하니 한쪽에 두니 괜찮네요.화이트 구매했는데 깔끔하니 집 분위기랑 잘 어울려요. 손잡이가 달려있고 바퀴가 360도 회전이 가능해서 필요한 곳으로 이동해서 사용하기도 편리해요.한 번씩 드레스룸으로 옮겨서 돌려주니 옷에서 나는 특유의 탁한 냄새도 좀 덜한 거 같아요. 평소에 환기가 잘 안되는 다용도실 이런데 가지고 가서 돌려주면 보송보송 해지는 거 같아서 잘 활용하고 있습니다.물통이랑 필터관리를 잘 해줘야 해서 소홀하면 곰팡이 생길 수 있다고 해서요. 그게 조금 귀찮지만 그 정도는 감수해야겠죠.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제습기",
+    "ReviewScore": "4",
+    "Syllable": "354",
+    "Word": "85",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 심플하니 한쪽에 두니 괜찮네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "화이트 구매했는데 깔끔하니 집 분위기랑 잘 어울려요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "손잡이가 달려있고 바퀴가 360도 회전이 가능해서 필요한 곳으로 이동해서 사용하기도 편리해요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "평소에 환기가 잘 안되는 다용도실 이런데 가지고 가서 돌려주면 보송보송 해지는 거 같아서 잘 활용하고 있습니다",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "물통이랑 필터관리를 잘 해줘야 해서 소홀하면 곰팡이 생길 수 있다고 해서요. 그게 조금 귀찮지만 그 정도는 감수해야겠죠",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114373",
+    "RawText": "요즘 제습기 없는 집이 거의 없더라고요. 저도 큰맘 먹고 하나 구매해 봤습니다.제습기 돌리니 거실이 보송보송 해지는데 집안 온도가 너무 올라갑니다. 문 닫고 돌리라고 해서 방문이랑 창문 다 닫고 돌렸는데 제습기에서 나오는 열이 꽤 되네요. 집에 있을 때 말고 외출할 때 돌려놓고 나가야겠어요. 그리고 소음이 너무 심합니다. 낮에 아래층에 사람 없을 때 돌려야지 잘못하면 시끄럽다고 전화 와요.. 밤이나 저녁에 돌리는 건 좀 자제해야 할 거 같아요.필터관리도 잘해야 할 거 같아요. 곰팡이가 잘 생길 수 있어서 자주 해줘야 한다는데 저는 직장인이기도 하고 그런 면에서 좀 약한 편이라 필터 청소하는 게 스트레스네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제습기",
+    "ReviewScore": "3",
+    "Syllable": "343",
+    "Word": "89",
+    "RDate": "20221107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제습기 돌리니 거실이 보송보송 해지는데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "집안 온도가 너무 올라갑니다",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "문 닫고 돌리라고 해서 방문이랑 창문 다 닫고 돌렸는데 제습기에서 나오는 열이 꽤 되네요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 너무 심합니다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "낮에 아래층에 사람 없을 때 돌려야지 잘못하면 시끄럽다고 전화 와요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "곰팡이가 잘 생길 수 있어서 자주 해줘야 한다는데 저는 직장인이기도 하고 그런 면에서 좀 약한 편이라 필터 청소하는 게 스트레스네요",
+        "SentimentWord": "20",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114374",
+    "RawText": "드라이기가 다르면 얼마나 다를까 하고 그냥 모양 예쁘고 디자인 세련되서 이 제품으로 찾아서 구매했어요.받아서 사용해보니 출력이 높아서 그런지 풍속이 정말 시원하게 나오네요.바람이 세고 균일하니 머리카락 말리거나 스타일링 할 때 시간도 덜 들고 빨리 할 수 있어서 아침마다 사용하면서 만족스러운 마음이 절로 들어요.이물질 방지 필터 망이 있어서 머리가 빨려 들어가지않게 잘 되어 있고 제일 좋은건 쿨샷이 버튼 형태로 되어 있어서 만족!! 어느 바람에서든 버튼만 누르면 찬 바람으로 전환이 쉽게 되어 사용하기 너무너무 편합니다.정말 기대안했는데 너무 만족스러워요~!!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제시엔제니 드라이기 2200 RCY-100 블랙",
+    "ReviewScore": "4",
+    "Syllable": "315",
+    "Word": "75",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모양 예쁘고 디자인 세련되서 이 제품으로 찾아서 구매했어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "사용해보니 출력이 높아서 그런지 풍속이 정말 시원하게 나오네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "이물질 방지 필터 망이 있어서 머리가 빨려 들어가지않게 잘 되어 있고",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "제일 좋은건 쿨샷이 버튼 형태로 되어 있어서 만족!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "버튼만 누르면 찬 바람으로 전환이 쉽게 되어 사용하기 너무너무 편합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114375",
+    "RawText": "드라이기가 정말 조용해요.아침에 드라이 하면 밖에서 불러도 안 들려서 끄고 대답하고 했는데요.이 드라이기는 소리가 나기는 해도 소음처럼 들리지는 않을 정도로 꽤 조용해서 맘에 들어요.설명서를 보니 적은 양의 공기로 강력한 바람을 내보내서 소리가 적게 난다고 되어 있는데 실제로 써보니 체감하는 소음의 크기가 정말 적게 느껴져요.공기 흡입망도 이중으로 되어 있고 떼어 내서 세척할 수 있게 되어 있어 깨끗하게 사용할 수 있겠어요.전체적인 퀄리티가 아주 마음에 들고 잘 샀다는 생각이 절로 듭니다.좋은 디자인으로 보기에도 이뻐서 기분 좋네요. 소리도 작고 바람도 쎄고 너무 마음에 들어요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "제시엔제니 드라이기 2200 RCY-100 블랙",
+    "ReviewScore": "4",
+    "Syllable": "327",
+    "Word": "80",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 나기는 해도 소음처럼 들리지는 않을 정도로 꽤 조용해서 맘에 들어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "전체적인 퀄리티가 아주 마음에 들고 잘 샀다는 생각이 절로 듭니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "좋은 디자인으로 보기에도 이뻐서 기분 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람도 쎄고 너무 마음에 들어요~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "실제로 써보니 체감하는 소음의 크기가 정말 적게 느껴져요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리도 작고 바람도 쎄고 너무 마음에 들어요~  ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114376",
+    "RawText": "배송도 하루만에 올 정도로 빨랐고, 제품 자체도 저희 집 멍멍이한테 써보니 털도 잘 밀리고 LCD로 배터리 파악하기도 편해서 마음에 드네요..구매하고 써보니 좋아요. 날도 미리 마다 여러 단계로 있어서 좋아요.몇년 전에 구매한 OOO 이발기가 날이 다 되어서 날만 교체할까하다 금액 차이가 얼마 안나서 새것으로 구매하게 되었어요.근데 저가인 이유가 어댑터가 따로 없다는 걸 개봉하고야 알았네요ㅋ이해가 되네요.잘 안 알아보고 산 제 탓입니다ㅋㅋ그래도 충전 방식이 편하니 가격 대비로는 만족합니다.작동시켜 강아지 털 깎아보니 잘 깍이네요.소음도 심하지 않고 괜찮아요.만족합니다~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 애견 바리깡 강아지 고양이 이발기 LDC표시창 4시간사용 생활방수 JP-6300",
+    "ReviewScore": "5",
+    "Syllable": "321",
+    "Word": "73",
+    "RDate": "20221110",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "털도 잘 밀리고 LCD로 배터리 파악하기도 편해서 마음에 드네요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "날도 미리 마다 여러 단계로 있어서 좋아요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "저가인 이유가 어댑터가 따로 없다는 걸 개봉하고야 알았네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "그래도 충전 방식이 편하니 가격 대비로는 만족합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작동시켜 강아지 털 깎아보니 잘 깍이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음도 심하지 않고 괜찮아요.만족합니다~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114377",
+    "RawText": "집에 털이 길어 더위를 많이 타 강아지를 처음으로 짧게 깎아주었는데 성능에 만족합니다. 단. 제가 사용을 잘못해서 그랬는지는 모르겠지만 털길이 조정 브라켓 과 (제가 7년전부터 이발기로 제머리를 내가 깎고 있음) 본체날 사이 중간에 털 끼이는 현상 때문에 불편해서 본체만으로 사용 합니다.가격대비 구입잘했습니다.사용시간 길고 밧데리 잔량이 표기되어 애견 미용에 참고가 많이 되네요완충하여 이발 시켜보니 다른 제품보다 충분한 밧데리 용량으로 이발이 되고 용량이 남아서 만족합니다. 참고로 강아지는 6~7kg 푸들입니다. 미용 한번에 4~5만원 지불해야되는데 ○○○ 애견바리깡 구입하여 많은 도움이 되었습니다 그외는 모두 만족 합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 애견 바리깡 강아지 고양이 이발기 LDC표시창 4시간사용 생활방수 JP-6300",
+    "ReviewScore": "4",
+    "Syllable": "353",
+    "Word": "80",
+    "RDate": "20221110",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "집에 털이 길어 더위를 많이 타 강아지를 처음으로 짧게 깎아주었는데 성능에 만족합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "본체날 사이 중간에 털 끼이는 현상 때문에 불편해서 본체만으로 사용 합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "다른 제품보다 충분한 밧데리 용량으로 이발이 되고 용량이 남아서 만족합니다. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114378",
+    "RawText": "손에 착 감기는 맛이 있네요 떡본김에 제사 지낸다고 성능 테스트도 할겸 냥이들 이발 해 보았어요. 절삭력 좋고 소리도 얌전하니 아주 좋네요. 베터리도 50% 충전해서 했는데 3마리 다 하고도 여유가 있네요. 가격대비 괜찮은데 다만 절삭력이 너무 좋아 강아지가 상처 날수 있어 조심스러워요.긴머리도 한번에 자르기 좋고 짧은 단발머리 뒤통수 밑부분도 깔끙하게 다듬을수 있을거같아 주문해 봅니다. 이미 충전량이 있어 전원켜봤더니 잘 작동하네요. 지인이 전기면도기 오랫동안 고장 안나고 쓰고 있어서 저도 이번에 같은제품 구매해봅니다.생활방수가 되서 더 나은듯해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 애견 바리깡 강아지 고양이 이발기 LDC표시창 4시간사용 생활방수 JP-6300",
+    "ReviewScore": "4",
+    "Syllable": "311",
+    "Word": "73",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리도 얌전하니 아주 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "베터리도 50% 충전해서 했는데 3마리 다 하고도 여유가 있네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "절삭력이 너무 좋아 강아지가 상처 날수 있어 조심스러워요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "생활방수가 되서 더 나은듯해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "손에 착 감기는 맛이 있네요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114379",
+    "RawText": "주문하고 정말 기다렸는데 조금 오래 걸렸지만 괜찮아서 기분이 풀렸어요.받자마자 작동여부 확인하고 컴퓨터 USB2.0단자로 충전 중입니다.※전용 아답터(5V, 1A)는 별도 구매인지라, 컴퓨터로 충전하실 경우, USB 2.0은 5V, 0.5A이고 USB 3.0(파랑)은 5V, 0.9A 이네요. 구매시, 참조하세요~  상품평이 반반이여서 고민했는데 일단 원래 쓰던 바리깡에비해 소음이 적은건 인정 이예요. 엄청 잘 깎인다기 보다는 깔끔하게 깎여요 너무 잘깎이면 댕댕이 다칠까겁나는데 안전하게 깎인다고해야하나 저는 맘에 듭니다 일단 소음이 적으니깐 애들이 예전보다 가만히 있어서 너무좋아용",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 애견 바리깡 강아지 고양이 이발기 LDC표시창 4시간사용 생활방수 JP-6300",
+    "ReviewScore": "5",
+    "Syllable": "327",
+    "Word": "67",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "일단 원래 쓰던 바리깡에비해 소음이 적은건 인정 이예요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": ". 엄청 잘 깎인다기 보다는 깔끔하게 깎여요 너무 잘깎이면 댕댕이 다칠까겁나는데 안전하게 깎인다고해야하나 저는 맘에 듭니다",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114380",
+    "RawText": "빠른 배송 감사합니다.받자마자 작동여부 확인하고 컴퓨터 USB2.0단자로 충전 중입니다. 전용아답터(5V, 1A)는 별도 구매인지라, 컴퓨터로 충전하실 경우, USB 2.0은 5V, 0.5A이고 USB 3.0(파랑)은 5V, 0.9A 이네요. 구매시, 참조하세요~  빠른 배송 감사합니다. 고장나 새로 구입해서 미용 해보니 막날은 아니라 상처 낼 일은 없어 가정용으로 쓰기 좋아요. 그리고 날이 길이 조정 가능한게 좋아요. 가볍고 유 무선 둘다 가능하고 사용 가능 시간 알려주니 편해요. 단점은 닭발은 안되네요. 닭발용 따로 사야 할 듯요.ㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 애견 바리깡 강아지 고양이 이발기 LDC표시창 4시간사용 생활방수 JP-6300",
+    "ReviewScore": "4",
+    "Syllable": "303",
+    "Word": "68",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 미용 해보니 막날은 아니라 상처 낼 일은 없어 가정용으로 쓰기 좋아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "그리고 날이 길이 조정 가능한게 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "가볍고 유 무선 둘다 가능하고 사용 가능 시간 알려주니 편해요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "단점은 닭발은 안되네요. 닭발용 따로 사야 할 듯요.ㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114381",
+    "RawText": "문화센터에서 미용 수업을 배우고 이제 직접 남편 머리도 자르고 할 수 있을 것 같아 전문가용으로 마음먹고 구매했습니다.일단 최신 제품이라 좋은 제품일 거라고 믿고 구매했어요.사용시간이 꽤 길어서 그 점이 구매하는 데 영향을 많이 미쳤습니다.배터리도 리튬 이온이라 고성능 충전이 돼서 충전시간이 아주 짧아요.3시간 충전하면 4시간은 넉넉히 사용 가능하니 여유 있게 사용할 수 있을 거 같아서 아주 마음에 들어요. 과충전 방지 기능이 있다고 하니 그 점도 아주 안심이 되고 정말 세심한 제품이라고 느껴지네요.일단 더 사용해 봐야 기능이라 그런 점의 장단점을 알게 될 거 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 전문가용 바리깡 남자 이발기",
+    "ReviewScore": "3",
+    "Syllable": "322",
+    "Word": "81",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "최신 제품이라 좋은 제품일 거라고 믿고 구매했어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": ".배터리도 리튬 이온이라 고성능 충전이 돼서 충전시간이 아주 짧아요.3시간 충전하면 4시간은 넉넉히 사용 가능하니 여유 있게 사용할 수 있을 거 같아서 아주 마음에 들어요.",
+        "SentimentWord": "24",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "과충전 방지 기능이 있다고 하니 그 점도 아주 안심이 되고 정말 세심한 제품이라고 느껴지네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114382",
+    "RawText": "이제 막 배송 받아서 상품 개봉해서 충전시켜놓고 상품 후기 씁니다.실제로 사용하고 나면 더 자세하게 쓸 수 있을 것 같지만 일단 받은 상품에 대해 첫 개봉 느낌으로 후기를 쓰려고 해요.일단 상품 설명서를 읽어보니 날 자체 길이를 조절할 수 있어서 빗살캡 말고도 컷트 길이를 조절 할 수 있다고 해서 사용하기 편리할 거라는 생각이 듭니다.전문가용이라 기능 자체가 꽤 수준이 다른건가 하는 생각이 들었어요.우선 살짝 전원을 켜서 작동시켜 보니까 기계 자체 소리가 크지 않아 아이 머리카락도 한 번 용기내어 잘라 보려고 해요. 사용하면서 사용감이나 그런점은 더 자세히 알아갈거 같아요.지금까지 살짝 켜서 소리도 듣고 만져보기에는 괜찮은 것 같아요.터보 기능으로 작동 해보니 속도가 너무 빨라서 적응이 어렵네요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 전문가용 바리깡 남자 이발기",
+    "ReviewScore": "3",
+    "Syllable": "393",
+    "Word": "101",
+    "RDate": "20221107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "작동시켜 보니까 기계 자체 소리가 크지 않아 아이 머리카락도 한 번 용기내어 잘라 보려고 해요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "터보 기능으로 작동 해보니 속도가 너무 빨라서 적응이 어렵네요 ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114383",
+    "RawText": "남편이 미용실 가는 것보다 그냥 제가 집에서 깎아주는 걸 좋아해서 이번에 좋은 걸로 하나 구매한다 생각하고 주문했습니다.이것저것 알아보다 신중하게 결정했는데 정말 마음에 들고 좋네요.개봉해 보니 충전이 꽤 되어 있길래 남편 머리 잘라줬는데 꽤 잘 잘리고 괜찮은 거 같아요.특히 디자인이 너무 고급 지네요.블랙에 티타늄 코팅이라 그런지 아주 반질반질하니 너무 세련됐어요.무게감이 좀 느껴지기는 하는데, 손으로 잡았을 때 그립감도 꽤 좋아서 손에 감기는 느낌이 들어 아주 편안합니다.고장 나지 않고 오래오래 잘 사용했으면 좋겠어요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "조아스 전문가용 바리깡 남자 이발기",
+    "ReviewScore": "4",
+    "Syllable": "295",
+    "Word": "70",
+    "RDate": "20221107",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 고급 지네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "블랙에 티타늄 코팅이라 그런지 아주 반질반질하니 너무 세련됐어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 좀 느껴지기는 하는데, ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "손으로 잡았을 때 그립감도 꽤 좋아서 손에 감기는 느낌이 들어 아주 편안합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114384",
+    "RawText": "지문인식 디지털 도어록이라고 해서 이번에 이사가면서 이 제품 구매해서 설치하게 되었어요.어머니가 가끔씩 비밀번호를 잊어버리시곤 해서 걱정되는 마음에 지문인식 기능이 있는걸 찾다가 주문했습니다.설치하고 나서 어머니가 사용하기 편하다고 아주 좋아하시네요.저도 비밀번호 누르는 것보다 지문인식이 편하다보니 더 자주 이용하게 되는 좋은 기능같아 만족스러워요.그리고 지문 인식하는 부분이 살짝 눕혀져 있는 디자인은 지문을 갖다 데기에도 아주 각도가 좋아요.비밀번호 허수 입력 기능은 처음 써 보는데 혹시라도 노출될까 걱정하는 분들은 이 기능 쓰면 노출 걱정없이 잘 쓸 것 같아요~만족스런 제품 잘 쓰고 있습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지문인식도어락 현관문도어락 번호키",
+    "ReviewScore": "4",
+    "Syllable": "337",
+    "Word": "76",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "저도 비밀번호 누르는 것보다 지문인식이 편하다보니 더 자주 이용하게 되는 좋은 기능같아 만족스러워요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 지문 인식하는 부분이 살짝 눕혀져 있는 디자인은 지문을 갖다 데기에도 아주 각도가 좋아요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "어머니가 사용하기 편하다고 아주 좋아하시네요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114385",
+    "RawText": "이렇게 고급스러운 디자인의 디지털 도어록은 처음 보네요.푸시풀 핸들 도어록 찾다가 이 제품 보니 다른 건 눈에 들어오지도 않네요.푸시풀 되는 것만 해도 좋은데 지문인식도 되니 정말 너무 편리해요. 특히 애들이 지문인식이 된다고 너무나 쉽게 문 열고 들어오기도 좋고 너무 신나하네요.저는 다른 것보다도 무음 모드가 있어서 그 기능이 가장 마음에 들었습니다.밤에 들어오고 나가고 할 때 무음모드로 해 놓으니 강아지도 안 짖고 애들도 자다가 깨는 일 없어서 아주 편리한 기능이에요.디자인에 반해서 샀는데 그 기능에 아주 감동하고 있는 중입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지문인식푸시풀도어락 현관문번호키 번호키",
+    "ReviewScore": "5",
+    "Syllable": "301",
+    "Word": "75",
+    "RDate": "20221110",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이렇게 고급스러운 디자인의 디지털 도어록은 처음 보네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "지문인식도 되니 정말 너무 편리해요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 무음 모드가 있어서 그 기능이 가장 마음에 들었습니다.밤에 들어오고 나가고 할 때 무음모드로 해 놓으니 강아지도 안 짖고 애들도 자다가 깨는 일 없어서 아주 편리한 기능이에요.",
+        "SentimentWord": "26",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114386",
+    "RawText": "강아지 키우느라 매트를 다 깔아놓았는데 저희 집에 정말 딱 맞춤형 청소기네요!!진공청소랑 물걸레 다 되니 청소하는 시간이 확 줄어들은게 느껴져서 만족스럽네요~기능이 아무리 많아도 잘 사용하지도 못했는데 이건 사용법이 간단해서 설명서 보고 하지 않아도 되니 너무 좋네요.강아지 털도 많아 매트 밑에도 항상 청소하기 힘들었는데 이건 밑에 매트 밑에도 흡입이 되니 얼마나 편리한지 몰라요.  소리가 많이 크지 않아서 청소할 때 강아지들이 무서워하거나 놀라지도 않아서 그 점이 저는 가장 마음에 들어요. 무게가 가벼워서 맘에 들어요. 흡입력도 좋고 아주 만족스런 쇼핑이에요~~!!! 강추합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지웰 벤투스 멀티플 청소기 VENTUS MULTIPLE (진공+물청소+아쿠아)",
+    "ReviewScore": "5",
+    "Syllable": "328",
+    "Word": "77",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "진공청소랑 물걸레 다 되니 청소하는 시간이 확 줄어들은게 느껴져서 만족스럽네요~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "이건 사용법이 간단해서 설명서 보고 하지 않아도 되니 너무 좋네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "강아지 털도 많아 매트 밑에도 항상 청소하기 힘들었는데 이건 밑에 매트 밑에도 흡입이 되니 얼마나 편리한지 몰라요. ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 많이 크지 않아서 청소할 때 강아지들이 무서워하거나 놀라지도 않아서 그 점이 저는 가장 마음에 들어요. ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 무게가 가벼워서 맘에 들어요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 흡입력도 좋고 아주 만족스런 쇼핑이에요~~!!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114387",
+    "RawText": "일반 물걸레 청소를 하다가 세탁하는게 너무 번거롭고 귀찮아서 구매하게 되었어요.회사 동료가 자기 집에서 잘 쓰고 있는 아이템이라고 소개해줘서 속는셈치고 사보았는데 만족스럽습니다 ^^깊숙한 곳까지 청소하기 위해서 숙이고 그러면 수압때문에 오수가 흘러서 스트레스 받았는데 손에 익고 나니 확실히 편리하네요.눈으로 직접 오수 물이 보이니까 청소가 실제로 잘 되고 있는것 같다는 느낌이 확실하게 들어서 계속 사용하게 되네요.손걸레질 하면서 무릎이랑 허리가 많이 아팠는데 이 제품을 만나고나니 완전 몸이 한결 편해져 신세계네요.다른 분들도 물걸레 청소하시는걸 필수로 하시는 분이라면 추천합니다. 물티슈보다 환경적으로 훨씬 경제적이고 좋아요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지웰 벤투스 아쿠아 청소기",
+    "ReviewScore": "5",
+    "Syllable": "353",
+    "Word": "78",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "눈으로 직접 오수 물이 보이니까 청소가 실제로 잘 되고 있는것 같다는 느낌이 확실하게 들어서 계속 사용하게 되네요.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": ".손걸레질 하면서 무릎이랑 허리가 많이 아팠는데 이 제품을 만나고나니 완전 몸이 한결 편해져 신세계네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114388",
+    "RawText": "이번에 물걸레와 먼지청소가 한 번에 되는 제품이 있다고 해서 샀는데 확실히 신기하네요.물티슈로도 안닦이던것들이 잘 닦이고 찌든 때나 기름 때도 잘 닦여서 사용시 만족도가 높은 제품입니다.그런데 아쉬운것은 조작이 너무 어려워요. 오수통 크기도 작아서 조금 더 크게 만들어주시면 좋을 것 같습니다.색상을 화이트로 샀는데 기스가 나면 티가 많이나서 조금 후회중이에요.역시 오래 사용할 것은 어두운 색으로 사용하는것이 나은 것 같습니다. 제 개인적인 취향이지만 다른 분들도 참고하셔요.요즘 기능이 좋아져서 별 신기한 제품들이 많이 나오네요. 물걸레질을 안해도 되는 점이 마음에 들지만 단점도 명확히 있으니 리뷰 참고하셔서 잘 선택하세요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지웰 벤투스 아쿠아 청소기",
+    "ReviewScore": "3",
+    "Syllable": "352",
+    "Word": "82",
+    "RDate": "20221110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "물티슈로도 안닦이던것들이 잘 닦이고 찌든 때나 기름 때도 잘 닦여서 사용시 만족도가 높은 제품입니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "아쉬운것은 조작이 너무 어려워요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "오수통 크기도 작아서 조금 더 크게 만들어주시면 좋을 것 같습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상을 화이트로 샀는데 기스가 나면 티가 많이나서 조금 후회중이에요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114389",
+    "RawText": "상품 광고에 혹해서 충동적으로 구매했습니다.매트를 사용하시는 집들에는 비추라고 말씀드리고 싶어요 자꾸 매트가 밀려서 잘 안닦이고 먼지 흡수도 잘 안됩니다.그리고 머리카락이 브러쉬에 자꾸 끼이는 사태가 발생하여 손수 일일히 빼줘야하니 그 점이 너어무 귀찮고 번거롭고 저는 머리까락 끊어지고 빼는게 너무 소름끼치고 싫은일이라 그 점이 꼭 개선되면 좋겠네요. 소리가 조금 커서 듣기에 너무 거슬립니다. 그래도  흡입력은 그만큼 괜찮으니 그점은 어느정도 감수해야겟죠? 저희 강아지가 생긴 오줌이나 다른 기름때들도 잘 닦이는게 보이니 그점에선 만족합니다.또 물청소하고 건조까지 한 번에 되니 완전 깔끔하고 뽀드득해져서 이 기능은 마음에 듭니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지웰 벤투스 아쿠아 청소기",
+    "ReviewScore": "3",
+    "Syllable": "354",
+    "Word": "81",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "머리카락이 브러쉬에 자꾸 끼이는 사태가 발생하여 손수 일일히 빼줘야하니 그 점이 너어무 귀찮고 번거롭고 ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 조금 커서 듣기에 너무 거슬립니다. 그래도  흡입력은 그만큼 괜찮으니 그점은 어느정도 감수해야겟죠?",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "물청소하고 건조까지 한 번에 되니 완전 깔끔하고 뽀드득해져서 이 기능은 마음에 듭니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114390",
+    "RawText": "제품의 성능은 매우 마음에 듭니다.반려견을 기르다 보니 바닥을 청소해야 할 일이 많은데 그럴 때 쓱쓱 청소하면 깔끔하게 청소가 되어서 너무 만족스러워요.그런데 배터리 용량이 짧아서 청소하다 중간에 자꾸 오수통 비우고 충전해줘야하는게 불편하네요.30분밖에 작동시간이 안되니 방 두개정도 하고 나면 다시 충전하러 들어가야합니다.무게도 3키로나 되니까 손목이 너무 아파요ㅠㅠ그래도 브러쉬 세척이 물청소가 되니까 다행이라는 생각이듭니다.생각보다 손이 많이 가지만 성능이 마음에 들어서 계속 사용하고 싶은 마음이 생기네요.다른 분들도 참고하셔서 구매하시면 좋을 것 같아요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지웰 벤투스 아쿠아 청소기",
+    "ReviewScore": "3",
+    "Syllable": "315",
+    "Word": "68",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "제품의 성능은 매우 마음에 듭니다",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리 용량이 짧아서 청소하다 중간에 자꾸 오수통 비우고 충전해줘야하는게 불편하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 3키로나 되니까 손목이 너무 아파요ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그래도 브러쉬 세척이 물청소가 되니까 다행이라는 생각이듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114391",
+    "RawText": "밀대를 살까 로봇청소기 물걸레를 살까 아니면 물걸레 청소기를 살지 여기저기 고민하다가 이 제품을 알게되어 구매했습니다.얼룩, 아이들 낙서, 장판, 대리석 가리지 않고 다 사용가능하다는 광고에 완전히 혹해서 구매했습니다.근데 이럴수가 마루바닥이나 평평한 곳이 아니면 사용을 할 수 없더군요. 그리고 지나간 자리에 고무 자국이 남아서 너무 속상했습니다. 마감이 완벽하게 되지 않은 것 같아요. 손이 두번가게 되서 더 번거롭더라구요..그리고 세척도 힘들어서 손이 많이 가는 점이 너무 불편합니다.먼지가 많은 곳은 먼지랑 물이 뒤엉켜서 오히려 더 엉망진창이 됩니다.그래서 그냥 일반청소기랑 물걸레 사용하다가 한 번 큰맘 먹고 사용하게 됩니다.쇼파 밑이나 이런곳은 아예 사용할 수 없어요... 참고하세요...",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "지웰 벤투스 아쿠아 청소기",
+    "ReviewScore": "2",
+    "Syllable": "391",
+    "Word": "89",
+    "RDate": "20221110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "지나간 자리에 고무 자국이 남아서 너무 속상했습니다. 마감이 완벽하게 되지 않은 것 같아요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "손이 두번가게 되서 더 번거롭더라구요..그리고 세척도 힘들어서 손이 많이 가는 점이 너무 불편합니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114392",
+    "RawText": "체대 준비 중인 아들 근육 풀어주는데 도움이 될까 해서 구매했습니다. 운동하고나서 근육 혹시라도 뭉치지 않도록 갖고 다니면서 사용하라고 했는데 나름 효과가 있어서 만족합니다.아무래도 그냥 두는 것보다 자극을 줘서 풀어주니 좋은 것 같네요.학원가서 친구들이랑 운동하고 나서 뭉치거나 한 부분에 서로 풀어주는데 사용한다고 합니다.헤드 부분이 여러 종류가 있어서 간단하게 필요에 맞게 갈아 끼면서 사용하는데 다들 좋아한다고 해서 다행입니다.일단 충전하면 하루는 너끈하게 사용해서 그 부분이 아주 좋네요.아 그리고 전용가방이 있어서 보관하기에도 아주 편리합니다~ 잘 사용할게요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "진동 무선 리밋 제로 마사지건",
+    "ReviewScore": "4",
+    "Syllable": "319",
+    "Word": "72",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "운동하고나서 근육 혹시라도 뭉치지 않도록 갖고 다니면서 사용하라고 했는데 나름 효과가 있어서 만족합니다",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "헤드 부분이 여러 종류가 있어서 간단하게 필요에 맞게 갈아 끼면서 사용하는데 다들 좋아한다고 해서 다행입니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "일단 충전하면 하루는 너끈하게 사용해서 그 부분이 아주 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "전용가방이 있어서 보관하기에도 아주 편리합니다~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114393",
+    "RawText": "애들이 차에서 자꾸 과자를 먹어서 시트 사이사이 과자 부스러기가 심란합니다. ㅎㅎ가끔 집에 있는 청소기 가지고 나와서 청소했는데 이제 그럴 필요 없어졌어요. 차량용 무선 청소기 구입했는데충전도 차량해서 간편하게 할 수 있는 usb 타입이라서 정말 편하네요.차에 가지고 다니면서 수시로 바로바로 청소할 수 있고 충전도 차에서 가능하니 가요. 세상 편합니다.사이즈도 차량 내부에서 사용하기 딱 좋아서 맘에 들어요 손에 잡히는 그립감도 당연 좋고요. 용적으로 잘 사용할 수 있을 거 같아요.이제 깨끗한 차량 내부 유지할 수 있겠네요. 잘 사용할게요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "차량무선청소기",
+    "ReviewScore": "5",
+    "Syllable": "304",
+    "Word": "74",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "충전도 차량해서 간편하게 할 수 있는 usb 타입이라서 정말 편하네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 차량 내부에서 사용하기 딱 좋아서 맘에 들어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 손에 잡히는 그립감도 당연 좋고요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114394",
+    "RawText": "미니 차량 무선 청소기인데 진짜 딱 미니에요. ㅎㅎ 어차피 큰 거 필요한 게 아니어서 저는 딱 좋은 사이즈입니다.작아서 차량 안에 수납하기도 딱 맞고 에어컨 나오는 곳 기어 변속하는 곳 등등 손쉽게 청소할 수 있어서 좋아요.작지만 노즐 변환 가능해서 브러시 상황에 맞게 교체해서 사용하니 구석구석 청소 다 됩니다.무게도 가벼워서 세차 한번 하고 나면 어깨가 아팠는데 부담이 확 줄었어요.필터도 일회용 필터가 아니라서 세척해가며 사용하면 되니 경제적인 면에서도 실용적이고 가성비가 좋아요.남편이 제 차 세차 잘 안하다고 타박 했는데 앞으로 수시로 먼지 제거 해야겠어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "차량무선청소기",
+    "ReviewScore": "5",
+    "Syllable": "317",
+    "Word": "80",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "미니 차량 무선 청소기인데 진짜 딱 미니에요. ㅎㅎ 어차피 큰 거 필요한 게 아니어서 저는 딱 좋은 사이즈입니다.",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 에어컨 나오는 곳 기어 변속하는 곳 등등 손쉽게 청소할 수 있어서 좋아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "노즐 변환 가능해서 브러시 상황에 맞게 교체해서 사용하니 구석구석 청소 다 됩니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워서 세차 한번 하고 나면 어깨가 아팠는데 부담이 확 줄었어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "필터도 일회용 필터가 아니라서 세척해가며 사용하면 되니 경제적인 면에서도 실용적이고 가성비가 좋아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114395",
+    "RawText": "자동차 전용 진공 청소기 정말 너무 갖고 싶었어요.자동차 용품에 원래 욕심 안 내는데 청소기는 꼭 하나 장만해야지 하고 벼르다고 구매했어요.사고 나니 너무 기분 좋아요.일단 차량용이다 보니 사이즈가 작아서 휴대하기도  편리하고 손으로 들고 앞좌석 뒷좌석 계속 청소기 돌려도 팔 안 아플 정도로 가볍습니다.청소기는 작지만 흡입력이 정말 좋아서 자동차 내부 먼지는 다 빨아들이는 것 같아요.이제 주유소에서 동전 넣고 쓰던 내부 진공 청소기 안 써도 된다고 생각하니 너무 편하고 흐뭇하고 기분이 날아가는것 같네요.매일매일 잘 청소해서 차에서 냄새도 안 나고 먼지도 안 날리게 잘 관리할 수 있겠어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "차량용 청소기",
+    "ReviewScore": "4",
+    "Syllable": "332",
+    "Word": "83",
+    "RDate": "20221110",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 작아서 휴대하기도  편리하고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "작지만 흡입력이 정말 좋아서 자동차 내부 먼지는 다 빨아들이는 것 같아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "손으로 들고 앞좌석 뒷좌석 계속 청소기 돌려도 팔 안 아플 정도로 가볍습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114396",
+    "RawText": "드디어 자동차 전용 휴대용 진공 청소기를 구매했습니다.너무 좋아요. 제품이 기대했던 것 보다도 훨씬 더 좋네요.일단 보관하기 좋게 청소기랑 코드선이랑 솔이랑 보관함에 딱 들어가 있으니 사용후에도 트렁크에 넣어놔도 청소기처럼 보이지도 않고 아주 깔끔합니다.시트는 그냥 청소기 기본으로 흡입하면서 먼지 청소하고 에어컨 송풍구나 시트랑 기어 사이 이런데는 별도 좁은 툴로 갈아 끼워서 청소하니까 얼마나 깔끔한지 차량 내부가 아주 깨끗해졌어요.성능 좋은 흡입 기능이 맘에 들어요.활용도 높은 툴 같은 알찬 구성품이 만족스러워요. 보관하기 좋고 예쁜 디자인의 전용 보관함까지정말 너무너무나 만족스럽고 기분도 좋고 최고네요!!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "차량용 청소기",
+    "ReviewScore": "5",
+    "Syllable": "344",
+    "Word": "78",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능 좋은 흡입 기능이 맘에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "활용도 높은 툴 같은 알찬 구성품이 만족스러워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "예쁜 디자인의 전용 보관함까지정말 너무너무나 만족스럽고 기분도 좋고 최고네요!!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114397",
+    "RawText": "차를 끌고 다니면서 신발에 붙어온 흙먼지가 바닥에 많고 차량 바람 나오는 위치에 먼지도 잘 제거되지 않아서 이번에 에어건 제품 구매했어요.빠른 회전속도로 바람이 강력하다고 하더니 자동차 발판에 흙먼지도 정말 싸악~ 날려주면서 속이 시원하더라고요. 문 활짝 열고 파워 에어건 한번 쏴 주면 자동차 발판이 깨끗해 져요! 물청소한 것만큼의 효과는 없겠지만 간단히 청소하기에 얼마나 간편한지 몰라요. 앞 좌석 부분에도 창문 다 열고 바람 날리며 먼지 제거에도 좋고요. 당연히 차에 가지고 다니며 쓰기 좋게 무선으로 된 제품이고요. 흔히 사용하는 C 타입 충전이라서 차량에 있는 휴대폰용 충전 잭 이용하면 돼서 편리해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "차모아 다용도 파워 에어건",
+    "ReviewScore": "5",
+    "Syllable": "342",
+    "Word": "86",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "빠른 회전속도로 바람이 강력하다고 하더니 자동차 발판에 흙먼지도 정말 싸악~ 날려주면서 속이 시원하더라고요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "당연히 차에 가지고 다니며 쓰기 좋게 무선으로 된 제품이고요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "흔히 사용하는 C 타입 충전이라서 차량에 있는 휴대폰용 충전 잭 이용하면 돼서 편리해요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114398",
+    "RawText": "차를 매번 손 세차 맡기기에는 금전적으로 부담되고 해서 간단한 차량 내부 청소를 위해서 에어건 제품을 구매했어요.파워라는 이름이 붙은 만큼 바람의 힘이 세고 좌석 바닥 쪽이나 뒷좌석에 어두운 부분에 불빛 비춰서 청소할 수 있게 LED도 탑재 되어 있는 제품이라서 유용했어요. 사실 LED는 청소가 아니라 떨어진 물건 찾을 때 더 편리해서 좋아요.그리고 노즐도 두 가지 타입으로 되어 있고 붓으로 된 타입은 바람 나오는 송풍구 쪽 청소하기 좋아서 맘에 들어요. 크지 않으면서 쏠쏠하게 사용하는 알찬 물건인 거 같아요.에어건 덕분에 차량 내부가 깨끗하게 유지되는 것 같아서 기분이 좋네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "차모아 다용도 파워 에어건",
+    "ReviewScore": "5",
+    "Syllable": "327",
+    "Word": "84",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "파워라는 이름이 붙은 만큼 바람의 힘이 세고 좌석 바닥 쪽이나 뒷좌석에 어두운 부분에 불빛 비춰서 청소할 수 있게 LED도 탑재 되어 있는 제품이라서 유용했어요. ",
+        "SentimentWord": "24",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 사실 LED는 청소가 아니라 떨어진 물건 찾을 때 더 편리해서 좋아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "붓으로 된 타입은 바람 나오는 송풍구 쪽 청소하기 좋아서 맘에 들어요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크지 않으면서 쏠쏠하게 사용하는 알찬 물건인 거 같아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114399",
+    "RawText": "아침에 머리를 말리는 것에만 후다닥 빨리하고 나가는 게 목표였는데... 스타일링까지 청담 스타일로 가능하다는 광고에 혹해서 사봤어요.정말 아침에 3가지 기능을 다 한다고 되어 있더니 말리면서 빗질이 가능하더라고요. 나름 빗질 겸 고데기 겸 드라이 겸 다 되어서 아침 시간에 머리 말리는데 시간이 늘어난 것도 아닌데 그전보다는 머리 컬을 만들어 주고 갈 수 있어서 기분이 좋네요.아침에 머리가 예쁘게 되면 아무래도 스스로 뿌듯하고 좋잖아요. 그래도 직장인인데 후줄근하게 다닐 수는 없으니... ^^ 스스로 잘 샀네~ 하고 뿌듯해졌어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청담스타일 헤어 볼륨 브러쉬",
+    "ReviewScore": "5",
+    "Syllable": "298",
+    "Word": "72",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "정말 아침에 3가지 기능을 다 한다고 되어 있더니 말리면서 빗질이 가능하더라고요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "빗질 겸 고데기 겸 드라이 겸 다 되어서 아침 시간에 머리 말리는데 시간이 늘어난 것도 아닌데 그전보다는 머리 컬을 만들어 주고 갈 수 있어서 기분이 좋네요.",
+        "SentimentWord": "26",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114400",
+    "RawText": "머리숱이 적어서 나이 들수록 머리가 착 가라앉으며 더 없어 보이더라고요. 미용실 가서 펌을 해도 그때뿐이고 금방 머리가 가라 앉아서 방법을 찾다가 이 헤어브러시를 보게 됐어요.제가 미용사샘이 아니다 보니까 혼자서 드라이기로는 잘 못하겠던데 그래도 이건 드라이기면서 브러시 형태로 되어 있어서 혼자서 뒷머리 잡고 끙끙은 대지만 전에 드라이기들보다는 할 수 있어서 편하더라고요. 광고만큼 제가 뒷머리의 뽕을 넣지는 못하지만 그래도 이게 어딘가 싶어요. 이 정도만 돼도 너무 빈약해서 없어 보이진 않는 거 같아요. 기능이 괜찮아서 뽕 도 넣을 수 있고 밖에 나갈 때 좀 더 자신감이 생겨서 신나요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청담스타일 헤어 볼륨 브러쉬",
+    "ReviewScore": "5",
+    "Syllable": "331",
+    "Word": "85",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "혼자서 뒷머리 잡고 끙끙은 대지만 전에 드라이기들보다는 할 수 있어서 편하더라고요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능이 괜찮아서 뽕 도 넣을 수 있고 밖에 나갈 때 좀 더 자신감이 생겨서 신나요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114401",
+    "RawText": "제가 남자여도 머리 위쪽이 숲이 적어서 탈모는 아니지만 출근하면서 세련되고 풍성해 보이고 싶어서 이 제품 구매했어요.브러시 형태라서 둥근 빗들고 드라이기로 하려니 미용실처럼 되지는 않아서 힘들었던 점을 보완해 주더라고요.처음에는 그래도 설명서처럼 따라 해서 원하던 스타일을 만들어 내는 게 쉽지 않았어요. 아무리 기계가 좋아도 결국 기술은 필요하긴 하더라고요. 그래도 여러 번 하면서 요령도 붙고 해서 지금은 원하던 데로 가르마 뿌리와 함께 볼륨을 만들어 주고 있어요. 이 정도 볼륨을 만드는 건 그전에도 못했는데 가능해져서 기분이 좋네요.이번에 소개팅하는데 그때도 이 헤어브러시 도움 많이 받을 거 같아요. 감사합니다! 가격이 저렴한게 무엇보다도 중요해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청담스타일 헤어 볼륨 브러쉬",
+    "ReviewScore": "5",
+    "Syllable": "368",
+    "Word": "87",
+    "RDate": "20221111",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "브러시 형태라서 둥근 빗들고 드라이기로 하려니 미용실처럼 되지는 않아서 힘들었던 점을 보완해 주더라고요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그래도 여러 번 하면서 요령도 붙고 해서 지금은 원하던 데로 가르마 뿌리와 함께 볼륨을 만들어 주고 있어요. ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격이 저렴한게 무엇보다도 중요해요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114402",
+    "RawText": "제가 광고를 보고 기대를 너무 많이 했나 봐요. 기대만큼은 안 되네요. 뭐 나름... 고데기와 드라이기, 브러시가 결합한 느낌이 들긴 하는데... 우선 에어홀에서 나오는 바람으로는 머리를 감고 나와서 바로 머리를 말리는 데 한계가 있더라고요. 그런 상태의 머리를 말리기에는 바람이 약해요. 어느 정도 머리를 말리고 난 후에 이 브러시를 쓰는 건 괜찮더라고요. 온도 조절도 2단계로 가능하고요. 그런데 저는 아침 출근길에 필요했던 건데... 이러면 머리 말리고 다시 이 제품 들고 스타일링을 해야 하는 거예요. ㅠ.ㅠ 그런 점에서 시간 활용이 어렵네요. 그래서 안타까워요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청담스타일 헤어 볼륨 브러쉬",
+    "ReviewScore": "3",
+    "Syllable": "319",
+    "Word": "79",
+    "RDate": "20221111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 에어홀에서 나오는 바람으로는 머리를 감고 나와서 바로 머리를 말리는 데 한계가 있더라고요. 그런 상태의 머리를 말리기에는 바람이 약해요.",
+        "SentimentWord": "18",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "어느 정도 머리를 말리고 난 후에 이 브러시를 쓰는 건 괜찮더라고요. 온도 조절도 2단계로 가능하고요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114403",
+    "RawText": "딸아이가 아침마다 거울 앞에 서서 짜증은, 짜증은 있는 데로 다 내고 시간을 너무 많이 보내길래 한번 구입해 봤어요.사춘기 딸 짜증 덜 내고 지각하지 않는 아슬아슬한 시간으로 나가는 거 그만 보려고요.헤어브러시 형태로 되어 있고 구르퍼 역할도 해준다고 하던데 급하게 아침에 난리를 치고 머리를 만질 때 에어홀에서 바람이 나오니 훨씬 나은가 봐요.그래서 아침에 딸아이의 짜증이 줄고 기분이 좋아지면서 저도 저절로 아침을 편하고 기분 좋게 맞이할 수 있게 되었어요. 다행이죠?게다가 이 녀석이 급하게 튀어나갈 때 미처 전원을 못 끄고 나가도 30분 후에 자동으로 꺼져서 화재 걱정도 덜어서 안심이에요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청담스타일 헤어 볼륨 브러쉬",
+    "ReviewScore": "5",
+    "Syllable": "334",
+    "Word": "85",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "헤어브러시 형태로 되어 있고 구르퍼 역할도 해준다고 하던데 급하게 아침에 난리를 치고 머리를 만질 때 에어홀에서 바람이 나오니 훨씬 나은가 봐요.",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 미처 전원을 못 끄고 나가도 30분 후에 자동으로 꺼져서 화재 걱정도 덜어서 안심이에요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114404",
+    "RawText": "와~ 이 청소기 정체가 뭔가요.. 완전 가벼워요. 특이하게 본체 메고 하는 건네 흡입력이 정말 짱입니다.잘 돼요. 시원하게 잘 빨아들입니다. 처음에 좀 생소한 청소기라 반신반의하면서 구매했는데 사용해 보고 그 의심이 싹 사라졌습니다.흡입력 정말 좋아요. 메고 해야 하니까 어깨 아프지 않을까 싶은데 워낙 가벼워서 아프지 않습니다.통 비우기도 수월하고 물 세척 가능해서 바로바로 헹궈서 말려서 보관합니다.본체 끌고 다니며 청소하려면 힘들고 불편했는데 이 청소기로 해결됐네요.유선이라 기존 무선 청소기처럼 금방 배터리 달아서 꺼질 고민 없이 마음껏 청소합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청소기",
+    "ReviewScore": "5",
+    "Syllable": "311",
+    "Word": "72",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "와~ 이 청소기 정체가 뭔가요.. 완전 가벼워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 특이하게 본체 메고 하는 건네 흡입력이 정말 짱입니다.잘 돼요. 시원하게 잘 빨아들입니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "흡입력 정말 좋아요. ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "메고 해야 하니까 어깨 아프지 않을까 싶은데 워낙 가벼워서 아프지 않습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "통 비우기도 수월하고 물 세척 가능해서 바로바로 헹궈서 말려서 보관합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "본체 끌고 다니며 청소하려면 힘들고 불편했는데 이 청소기로 해결됐네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "유선이라 기존 무선 청소기처럼 금방 배터리 달아서 꺼질 고민 없이 마음껏 청소합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114405",
+    "RawText": "복층 전원주택에 살다 보니 1층에서 2층 계단 청소하기 참 힘들었는데 이 제품 구매해서 사용하니 편리해요.기존에 본체 끌고 다니는 건 계단 청소할 수가 없었거든요. 구성품이 진짜 다양하게 많이 와서 놀랬습니다.특히 개인적으로 스파이더 브러시 덕분에 계단 위 손 안 닿은 곳 거미줄 바로바로 제거 가능하고 먼지도 제거했네요. ㅎㅎ제가 청소를 잘 안 해서가 아니라 주위에 산에 둘러싸여 있어서 전원주택은 어쩔 수 없이 거미가 많아요..스파이더 브러시 덕을 톡톡히 봤네요. 기존 청소기 들고 천장까지 팔 뻗기가 쉽지 않은데 이 제품은 어깨에 메고 브러시 사용하니까 편하고 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청소기",
+    "ReviewScore": "5",
+    "Syllable": "321",
+    "Word": "81",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "복층 전원주택에 살다 보니 1층에서 2층 계단 청소하기 참 힘들었는데 이 제품 구매해서 사용하니 편리해요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 구성품이 진짜 다양하게 많이 와서 놀랬습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "특히 개인적으로 스파이더 브러시 덕분에 계단 위 손 안 닿은 곳 거미줄 바로바로 제거 가능하고 먼지도 제거했네요. ㅎㅎ",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "스파이더 브러시 덕을 톡톡히 봤네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "기존 청소기 들고 천장까지 팔 뻗기가 쉽지 않은데 이 제품은 어깨에 메고 브러시 사용하니까 편하고 좋아요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114406",
+    "RawText": "청소기의 다양한 변화는 정말 끝도 없는 거 같아요. 제품 이름부터도 너무 귀엽고 이름에 어울리게 모양도 귀염귀염 합니다.그렇지만 성능은 너무 좋네요. 사이즈가 많이 작아서 잘 될까 싶었는데 생각보다 성능은 정말 좋아요.흡입력도 괜찮고 무엇보다 청소기 사이즈가 들고 다니기 좋아서 좁은 공간 집중적으로 청소하기 정말 적당합니다.바닥청소도 바닥은 장관이 있어서 무리 없이 청소는 가능해요. 원룸이나 아이들 방 청소용으로 딱 좋은 거 같아요.가정집에서 메인 청소기로 사용하기는 무리가 있고 보조 청소기로 사용하기 좋아요.드레스룸 이런데 바닥이랑 선반 먼지 흡입하기 가벼워서 팔이랑 팔목에 무리가 안 가서 제격입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청소기",
+    "ReviewScore": "4",
+    "Syllable": "341",
+    "Word": "79",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이름에 어울리게 모양도 귀염귀염 합니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "그렇지만 성능은 너무 좋네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 사이즈가 많이 작아서 잘 될까 싶었는데 생각보다 성능은 정말 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "흡입력도 괜찮고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "무엇보다 청소기 사이즈가 들고 다니기 좋아서 좁은 공간 집중적으로 청소하기 정말 적당합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "드레스룸 이런데 바닥이랑 선반 먼지 흡입하기 가벼워서 팔이랑 팔목에 무리가 안 가서 제격입니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가정집에서 메인 청소기로 사용하기는 무리가 있고 보조 청소기로 사용하기 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114407",
+    "RawText": "딸이 독립해서 원룸에 살고 있는데 청소기 없이 지내길래 청소 좀 잘하고 지내라고 주문했어요.다음에 딸 집에 갈 때 선물로 들고 가려고요. 잘 되는지 한 번 시험 삼아 사용해 봤는데 생각보다 잘 되네요.작은 고추가 맵다고 크기는 작은데 잘 흡입력은 고가 청소기 못지않아요.딸 주지 말고 차량 내부 청소할 때 사용할까 살짝 고민하다 하나 더 추가 주문해서 저도 사용하려고요.사용시간은 길지 않아요. 참고하세요. 액세서리는 필요한 건 다 온 거 같아요 틈새 노즐에 호수까지 달 들어있어서간단하게 청소하기 활용도가 높아요. 배터리 사용시간이 좀 짧은 거 빼고 크게 불편사항은 없습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청소기",
+    "ReviewScore": "4",
+    "Syllable": "323",
+    "Word": "82",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘 되는지 한 번 시험 삼아 사용해 봤는데 생각보다 잘 되네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작은 고추가 맵다고 크기는 작은데 잘 흡입력은 고가 청소기 못지않아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘 흡입력은 고가 청소기 못지않아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "사용시간은 길지 않아요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "액세서리는 필요한 건 다 온 거 같아요 틈새 노즐에 호수까지 달 들어있어서간단하게 청소하기 활용도가 높아요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리 사용시간이 좀 짧은 거 빼고 크게 불편사항은 없습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114408",
+    "RawText": "부모님이 연세 드시니 청소하시기 힘들어하셔서 선물해 드렸어요.처음에는 별걸 다 산다고 하시면서 안 쓰신다고 하시더니 지금은 요놈 참 신기하다고 좋아하십니다.집이 별로 크지 않아서 물동량은 괜찮은 거 같아요. 중간에 굳이 재급수는 하지 않고 사용했어요.로봇이라는 명칭이 괜히 들어간 게 아니잖아요. ㅎㅎ 자동으로 인공지능이라고 하나요? 여하튼 집안 곳곳을 인지해서 알아서 돌아다니는 거 보면재미있다고 꼭 집안에 강아지가 돌아다니는 거 같다고 재미있으시데요. 오랜만에 효도 잘 해드린 거 같아서 뿌듯합니다.멀리 사는 자식보다 더 낫네요. 부모님 청소도 도와드리고 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "청소기",
+    "ReviewScore": "5",
+    "Syllable": "315",
+    "Word": "71",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "집이 별로 크지 않아서 물동량은 괜찮은 거 같아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "자동으로 인공지능이라고 하나요? 여하튼 집안 곳곳을 인지해서 알아서 돌아다니는 거 보면재미있다고 꼭 집안에 강아지가 돌아다니는 거 같다고 재미있으시데요. ",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114409",
+    "RawText": "요즘 제가 다이어트하려고 체중관리를 하다 보니 체중계가 꼭 필요해서 구매하게 되었어요.조작이 간단하고 체중 체크 잘 되네요. 앞으로 고장 없이 꾸준히 잘 사용할 거 같아요.기존에 사용하던 체중계는 좀 무거웠는데 이 체중계는 가벼워서 옮겨가며 수시로 체중 체크하게 됩니다.디자인은 이쁘진 않은 거 같아요.. ㅠㅠ 색감도 살짝 촌스럽고.. 요즘 이쁜 색감들도 많은데 너무 원색인듯합니다.작은 제품이긴 하지만 좀 더 세련되고 색감도 고급스럽게 하면 더 좋았을 거 같아요.그래도 체중 재는데 무슨 문제가 되는 건 아니니까 크게 상관은 없네요. 많이 파세요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "체중계",
+    "ReviewScore": "3",
+    "Syllable": "307",
+    "Word": "74",
+    "RDate": "20221107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작이 간단하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "체중 체크 잘 되네요",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 체중계는 가벼워서 옮겨가며 수시로 체중 체크하게 됩니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 이쁘진 않은 거 같아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색감도 살짝 촌스럽고.. 요즘 이쁜 색감들도 많은데 너무 원색인듯합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작은 제품이긴 하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "좀 더 세련되고 색감도 고급스럽게 하면 더 좋았을 거 같아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114410",
+    "RawText": "가정집에 새로 이사 오면서 평소에는 신경을 안 썼던 체중을 관리하기 위해 새로 사게 됐습니다.체중계 색상도 3가지나 돼서 집안의 인테리어와 잘 어울리게 돼서 좋아요.화장대 옆에 놔두고 두고두고 사용하고 있습니다. 가벼운 느낌과 세련되어 보이는 디자인으로 인해 심플하면서도 좋은 느낌을 줘서 좋았습니다.가격도 다른 체중계보다 싸고 사용하면서 딱히 불편한 점은 없었던 거 같습니다. 사진에서 보았던 것보다 조금 널찍해서 좋네요.여태까지 썼던 것 중에서는 가격도 괜찮고 디자인도 괜찮게 뽑힌 거 같습니다. 앞으로도 사용하면서 이상이 없거나 하면 다시 구매해 볼 생각입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "체중계",
+    "ReviewScore": "5",
+    "Syllable": "317",
+    "Word": "74",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "체중계 색상도 3가지나 돼서 집안의 인테리어와 잘 어울리게 돼서 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가벼운 느낌과 세련되어 보이는 디자인으로 인해 심플하면서도 좋은 느낌을 줘서 좋았습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 다른 체중계보다 싸고 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하면서 딱히 불편한 점은 없었던 거 같습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사진에서 보았던 것보다 조금 널찍해서 좋네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "여태까지 썼던 것 중에서는 가격도 괜찮고 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 괜찮게 뽑힌 거 같습니다.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114411",
+    "RawText": "전에 있었던 체중계가 고장 나는 바람에 인터넷으로 고민하다가 구매해 보게 되었습니다.딱히 무겁지도 않아서 쉽게 이동할 수도 있고, 자리도 크게 차지하지 않아서 좋은 거 같네요.내구성도 다른 체중계보다 안정적으로 지탱하는 거 같고 크게 불안할 만한 요소도 없어서 안정성도 좋은 거 같습니다.운동 갔다 와서 항상 체중계를 사용하는데 눈에 잘 띄어서 좋았습니다. 다만 조작이 미숙해서 인지 조금 애를 먹었던 거 같네요.사용하면서 크게 불편하고 했던 건 잘 없었던 거 같습니다. 가격도 딱 적당한 정도였던 거 같네요 좋아요.가정집이나 저같이 혼자 자취하시는 분들께 추천할만합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "체중계",
+    "ReviewScore": "5",
+    "Syllable": "320",
+    "Word": "77",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "딱히 무겁지도 않아서 쉽게 이동할 수도 있고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "자리도 크게 차지하지 않아서 좋은 거 같네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내구성도 다른 체중계보다 안정적으로 지탱하는 거 같고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "크게 불안할 만한 요소도 없어서 안정성도 좋은 거 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작이 미숙해서 인지 조금 애를 먹었던 거 같네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "사용하면서 크게 불편하고 했던 건 잘 없었던 거 같습니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격도 딱 적당한 정도였던 거 같네요 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114412",
+    "RawText": "베란다에 신랑이 화분을 잔뜩 키워서 정말 초파리나 벌레들 때문에 너무 스트레스 받아서 구매하게 되었어요.온갖 해충이 날아다니는데 화분을 없앨 수는 없으니 일단 이거라도 세워두면 좋겠다 생각이 들었어요~일단 화분 사이에 그냥 세워두면 상시 트랩 기능이 있어서 저절로 잡아주니 해충이 꽤 줄어드는 효과가 있는 것 같네요.일부러 잡으러 다니지 않아도 되니 그 점이 아주 편리합니다.성능도 꽤 좋아서 탁탁 소리가 쉬지 않고 나네요.벌레들에게는 조금 미안하긴 하지만 ㅠㅠ 그래도 어쩔 수 없이 사용하게 되니 이해해 주면 좋겠어요. 의도치 않게 너무 많이 죽여서 마음이 아프네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "충전식 전기모기채 IMK-4000T",
+    "ReviewScore": "5",
+    "Syllable": "318",
+    "Word": "78",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "화분 사이에 그냥 세워두면 상시 트랩 기능이 있어서 저절로 잡아주니 해충이 꽤 줄어드는 효과가 있는 것 같네요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "일부러 잡으러 다니지 않아도 되니 그 점이 아주 편리합니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 꽤 좋아서 탁탁 소리가 쉬지 않고 나네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114413",
+    "RawText": "모기채가 이렇게 예뻐도 되는 건가요~~물론 요즘 다들 예쁘게 나오다 보니 더 예쁜 것도 많겠지만 전 처음 봐서 깜짝 놀랐어요.기대도 안 했던 예쁜 상품이라 더 감동이에요.색상도 파스텔톤이라 예쁜데 디자인도 식당에서 보던 그런 무식한 모양이 아니라 가정집에서 두기에도 그렇게 보기 싫지 않아서 좋아요.특히 손잡이 부분이 잡았을 때 그립감도 좋고 손에 탁 감기는 게 아주 잘 만든 제품 같아서 흡족하게 사용하고 있어요.특히 세워둘 수 있게 디자인되어 있어서 여기저기 널브러뜨려 놓지 않고 보관하기 용이해서 마음에 듭니다.전체적으로 디자인이 제 마음에 쏙 들어요~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "충전식 전기모기채 IMK-4000T",
+    "ReviewScore": "4",
+    "Syllable": "313",
+    "Word": "77",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "모기채가 이렇게 예뻐도 되는 건가요~~",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 파스텔톤이라 예쁜데",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 식당에서 보던 그런 무식한 모양이 아니라 가정집에서 두기에도 그렇게 보기 싫지 않아서 좋아요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "특히 손잡이 부분이 잡았을 때 그립감도 좋고 손에 탁 감기는 게 아주 잘 만든 제품 같아서 흡족하게 사용하고 있어요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "특히 세워둘 수 있게 디자인되어 있어서 여기저기 널브러뜨려 놓지 않고 보관하기 용이해서 마음에 듭니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적으로 디자인이 제 마음에 쏙 들어요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114414",
+    "RawText": "주말마다 가족들이랑 캠핑하러 다니는데 이런 모기채 하나 있으면 좋겠다고 생각만 하다가 구매하게 되었네요.캠핑장 가서 쓰려고 구매했어요. 아무래도 점점 여름이 다가오면서 주말마다 캠핑 가면 온갖 날파리와 모기 때문에 너무 힘들더라고요. 이제 이거 가지고 가면 좀 낫지 않을까 기대하고 있어요.배송받아서 집에서 테스트 겸 작동 시켜봤는데 안전하게 전기 흐르는 곳에 삼중으로 보호되어 있어서 혹시라도 감전될까 걱정하지 않아도 될 것 같아서 마음에 듭니다.그런데 소리가 너무 커서 정말 깜짝깜짝 놀라게 되네요. 캠핑장에서 켜 놓으면 온갖 해충이 부딪혀서 소리가 너무 크지 않을까 걱정이 돼요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "충전식 전기모기채 IMK-4000T",
+    "ReviewScore": "3",
+    "Syllable": "327",
+    "Word": "78",
+    "RDate": "20221108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "집에서 테스트 겸 작동 시켜봤는데 안전하게 전기 흐르는 곳에 삼중으로 보호되어 있어서 혹시라도 감전될까 걱정하지 않아도 될 것 같아서 마음에 듭니다.",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 너무 커서 정말 깜짝깜짝 놀라게 되네요. 캠핑장에서 켜 놓으면 온갖 해충이 부딪혀서 소리가 너무 크지 않을까 걱정이 돼요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114415",
+    "RawText": "설마 제가 이런 걸 살 거라 상상도 못 했는데 아파트 1층으로 이사 오고 나니 베란다 창으로 들어오는 모기나 날파리들에 너무 신경 쓰여서 달아 놓으려고 구매했어요.아무래도 베란다 창가에 세워 놓으면 안 들어오고 꽤 잡히지 않을까 생각했네요.그런데 소리가 너무 커서 괜히 사서 쓰지도 못하고 애물단지가 되어 버릴 거 같네요. 벌레들이 잘 잡혀서 성능이 좋은 건 인정합니다. 그런데  벌레들이 닿을 때마다 나는 소리가 너무 커요.타닥타닥 소리가 나는데 수시로 나니 듣는 것도 힘들어요.집에 강아지들까지 놀라서 짖어대니 그냥 꺼서 한곳에 치워버렸네요.저희 집에 안 맞는 건지 필요할 때 꺼내서 쓰는 건 괜찮을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "충전식 전기모기채 IMK-4000T",
+    "ReviewScore": "2",
+    "Syllable": "344",
+    "Word": "88",
+    "RDate": "20221108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리가 너무 커서 괜히 사서 쓰지도 못하고 애물단지가 되어 버릴 거 같네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "벌레들이 잘 잡혀서 성능이 좋은 건 인정합니다. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114416",
+    "RawText": "칫솔걸이 따로 없이 머그컵에 칫솔 보관하고 사용하고 있었어요. 항상 뭔가 세균 이런 거 때문에 찝찝했어요.변기 물 내리고 그럴 때 미세하게 물이 사방으로 퍼진다고 하잖아요. 여하튼 칫솔살균기 장만했더니 좋네요 ㅎㅎ머그컵에 보관하는 것보다 외관상 보관하기도 깔끔하고 벽에 부착 히니 세련미까지 있어서 욕실이 정리 정돈돼 보여요.충전선 없이 무선이라 주위가 지저분하지 않아서 좋아요균이 눈에 보이는 게 아니라 잘은 모르겠지만 빛을 쏘아주니 뭔가 안심이 되는 기분입니다.칫솔은 입속에 바로 들어가는 거라 위생관리 더 철저히 잘 해줘했는데 이제야 구매했네요. 잘 사용해 볼게요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "칫솔살균기",
+    "ReviewScore": "5",
+    "Syllable": "318",
+    "Word": "75",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "머그컵에 보관하는 것보다 외관상 보관하기도 깔끔하고 벽에 부착 히니 세련미까지 있어서 욕실이 정리 정돈돼 보여요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "충전선 없이 무선이라 주위가 지저분하지 않아서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "빛을 쏘아주니 뭔가 안심이 되는 기분입니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114417",
+    "RawText": "칫솔에 물기 있으면 세균이 엄청 번식한다고 어디서 본 거 같은데, 그래서 칫솔살균 건조기 필요해서 구매했습니다.욕실 벽면에 붙여서 사용할 수 있어서 깔끔해서 좋아요. 색상도 옅은 그린 색 샀는데 괜찮네요. 은은하니 이뻐요. 안에 칫솔걸이도 넉넉하게 두 개 보내주셔서 번갈아 가면서 잘 사용할 거 같습니다. 버튼 누르면 5분 만에 살균돼서 신속하게 되니 좋아요. 집에 어린애들이 있어서 충전식 선이 있으면 콘센트에 꼿아 둬야 하니까 혹시 감전 같은 사고 우려되는데 본체 분리해서 따로 충전하고 걸어 쓰니가 참 좋은 거 같습니다.아이들도 양치하고 칫솔걸이에 넣고 버튼 누르라고 하니 재미있어해요. ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "칫솔살균기",
+    "ReviewScore": "5",
+    "Syllable": "334",
+    "Word": "83",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "욕실 벽면에 붙여서 사용할 수 있어서 깔끔해서 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 옅은 그린 색 샀는데 괜찮네요. 은은하니 이뻐요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "안에 칫솔걸이도 넉넉하게 두 개 보내주셔서 번갈아 가면서 잘 사용할 거 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "버튼 누르면 5분 만에 살균돼서 신속하게 되니 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "집에 어린애들이 있어서 충전식 선이 있으면 콘센트에 꼿아 둬야 하니까 혹시 감전 같은 사고 우려되는데 본체 분리해서 따로 충전하고 걸어 쓰니가 참 좋은 거 같습니다.",
+        "SentimentWord": "25",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114418",
+    "RawText": "칫솔살균기 필요해서 구매했습니다.디자인. 크기는 자리 많이 차지하지 않고 좋아요.벽에 부착해서 사용하는데 한번 떨어지더니 접착력이 안 좋은지 자꾸 떨어집니다.접착테이프가 불량이었을까요... 뒤판은 고정이고 본체 분리되는 거라 신랑이 강력접착테이프 사서 다시 붙여준다고 하네요.살균은 5분 정도 걸리는 거 같고 칫솔 건조 잘 돼서 나옵니다.양치하고 바로바로 물기 건조해서 사용하니 위생적인 거 같아 좋긴 하네요. 전에는 양치 후 그냥 탁탁 털어서 사용했는데 건조하니까 좋아요.전체적인 디자인 심플해서 미관상 이쁘고요. 앞에 살균 시간 표시되는 것도 편리해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "칫솔살균기",
+    "ReviewScore": "3",
+    "Syllable": "311",
+    "Word": "68",
+    "RDate": "20221109",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기는 자리 많이 차지하지 않고 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "접착력이 안 좋은지 자꾸 떨어집니다.접착테이프가 불량이었을까요... ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "살균은 5분 정도 걸리는 거 같고 칫솔 건조 잘 돼서 나옵니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "전체적인 디자인 심플해서 미관상 이쁘고요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "앞에 살균 시간 표시되는 것도 편리해요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114419",
+    "RawText": "마트에서 산 칫솔걸이 사용하고 있었는데 이번에 좋은 기회에 칫솔살균 건조기 득템한 거 같아요.택배 도착하자마자 뜯어서 사용해 봤는데  딱 필요한 기능만 간단하게 조작 할 수 있게 되어 있어서 저는 더 좋은거 같아요. 제가 전자제품 기능 이것저것 막 다양하게 사용하는 스타일이 아니라서 오히려 조작 간단한 제품들을 개인적으로 선호합니다. 건조도 잘 되어 나오는게 맘에 들어요. 세련되고 군더더기 없이 깔끔한 디자인은 전반적으로 만족합니다.예전에 있던 건 크기도 크고 디자인이 좀 그랬었어요ㅎㅎ욕실 복잡한 거 싫어하는데 저희 집이랑 잘 맞아요. 감사하게 잘 사용할게요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "칫솔살균기",
+    "ReviewScore": "5",
+    "Syllable": "316",
+    "Word": "76",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 사용해 봤는데  딱 필요한 기능만 간단하게 조작 할 수 있게 되어 있어서 저는 더 좋은거 같아요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 건조도 잘 되어 나오는게 맘에 들어요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세련되고 군더더기 없이 깔끔한 디자인은 전반적으로 만족합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114420",
+    "RawText": "말이 필요 없어요. 이렇게 예쁜 걸 어떻게 안 살수가 있겠어요.오기 전부터 전 이미 사용하고 있었어요.제품을 받자마자 완충하고 나서 바로 귀에 꽂고 페어링 하니 음향도 좋고 재생시간도 길고 아주 나무랄데가 없어요.그리고 정말 가벼워서 귀에 꽂혀 있는 걸 가끔 잊게 만들어요.귀에 꽂혀 있어도 전혀 귓구멍이 아프거나 불편하지 않아서 오래 끼고 있어도 편안합니다.그리고 귀에 꽂는 캡도 사이즈별로 3가지가 있어서 맞는걸로 바꿔서 끼면 되요.친구들도 다들 귀엽다고 가지고 가서 보고 하니 기분도 좋네요.하여튼 디자인은 갑이구요. 음질은 중간이지만 예쁘니까 좋게 들리는 효과가 있습니다.ㅋㅋㅋ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "카카오프렌즈 정품 완전무선이어셋 SWB-K1",
+    "ReviewScore": "4",
+    "Syllable": "327",
+    "Word": "77",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "완충하고 나서 바로 귀에 꽂고 페어링 하니 음향도 좋고 재생시간도 길고 아주 나무랄데가 없어요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": " 가벼워서 귀에 꽂혀 있는 걸 가끔 잊게 만들어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "귀에 꽂혀 있어도 전혀 귓구멍이 아프거나 불편하지 않아서 오래 끼고 있어도 편안합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "그리고 귀에 꽂는 캡도 사이즈별로 3가지가 있어서 맞는걸로 바꿔서 끼면 되요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "이렇게 예쁜 걸 어떻게 안 살수가 있겠어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114421",
+    "RawText": "청소를 별로 좋아하지도 않고 자주하지도 않아서 그 전에 쓰던 청소기도 정말 오래 사용했는데 이번에 무선으로 바꿔보려고 구매했습니다.일단 사용해보니 물걸레 청소가 되니 정말 신세계가 펼쳐지는 것 같네요.일단 먼지통을 따로 안 비워도 된다는 점이 정말 최고 장점이에요. 비싼 청소기 못지 않게 디자인도 화이트로 군더더기 없이 깔끔하고 세련된 것 같아서 거실 벽에 세워두어도 눈에 거슬리지 않고 좋아요.모터가 쎈지 흡입력도 좋아서 구석구석 깔끔하게 청소하는 기분을 느끼게 되네요. 핸들링도 청소하는 동안 손목에 무리가 간다고 느껴지지 않을 정도로 잘 되서 아주 잘 산거 같아요.청소하는데 스트레스 안 받고 하니 삶의 만족도가 올라가는 것 같네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "캐치웰 C10 PRO 진공+물걸레 무선 핸디청소기 단품",
+    "ReviewScore": "4",
+    "Syllable": "358",
+    "Word": "87",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "일단 사용해보니 물걸레 청소가 되니 정말 신세계가 펼쳐지는 것 같네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "일단 먼지통을 따로 안 비워도 된다는 점이 정말 최고 장점이에요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "비싼 청소기 못지 않게 디자인도 화이트로 군더더기 없이 깔끔하고 세련된 것 같아서 거실 벽에 세워두어도 눈에 거슬리지 않고 좋아요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "모터가 쎈지 흡입력도 좋아서 구석구석 깔끔하게 청소하는 기분을 느끼게 되네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "핸들링도 청소하는 동안 손목에 무리가 간다고 느껴지지 않을 정도로 잘 되서 아주 잘 산거 같아요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114422",
+    "RawText": "니트나 블라우스 옷 다리미 할 때 사용하려고 핸디형 다리미를 구입했어요. 아무래도 눕혀서 다리미 하는 것 보다 옷걸이에 걸어서 사용하는 것이 더 편해서요. 이 제품은 40초만에 예열 돼서 8분 정도 사용 가능하다고 하니 정말로 아침 출근 때 입을 옷을 위해서  적당히 사용하기 가성비 좋은 제품인 거 같아요. 바쁜 아침에 시간이 오래 걸리면 안 되잖아요. 그래서 그 점에서 만족도가 높아요. 그리고 생각보다 스팀이 강해요. 파워스팀이라도 하더니 스팀 분출구가 5개나 되더라고요. 주름펴기 위한 용도인데 주름이 안 펴지면 안 되잖아요. 아침에 바쁠 때 빠른 시간에 강력한 스팀으로 주름을 쫙쫙 펴서 입을 수 있어서 여러모로 편리한 제품이라 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "컴포트 스티머 핸디 스팀 다리미 KSI-2020BK",
+    "ReviewScore": "5",
+    "Syllable": "361",
+    "Word": "93",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "40초만에 예열 돼서 8분 정도 사용 가능하다고 하니 정말로 아침 출근 때 입을 옷을 위해서  적당히 사용하기 가성비 좋은 제품인 거 같아요.",
+        "SentimentWord": "22",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "생각보다 스팀이 강해요. 파워스팀이라도 하더니 스팀 분출구가 5개나 되더라고요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114423",
+    "RawText": "핸디형 다리미를 찾고 있었는데 가볍고 좋은 제품을 산 거 같아서 기뻐요. 크기가 작아서 가볍고 그립감도 좋아서 여자인 제가 들고 사용하기 편해요. 바쁜 아침에 다리미질 하면서 무거우면 손목만 아프고 빠른 시간에 하기 어렵잖아요. 그런 면에서 컴팩트한 사이즈로 가벼운 이 제품이 저에게는 딱 이네요. 사이즈가 워낙 아담하니 장거리 여행갈 때도 가방 한쪽에 넣어서 가기 좋더라구요. 일석이조인셈이죠! 그리고 케이블 길이도 1.9미터라서 블라우스나 니트 가디건 같은 옷 걸어 두고 다리미 들고 왔다 갔다 하며 사용할 때 줄 짧아서 불편할 일이 없는 점도 좋아요. 줄이 짧으면 바쁜데 편하게 움직일 수가 없잖아요. 그런 불편감이 없는 점도 이 제품의 장점인 거 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "컴포트 스티머 핸디 스팀 다리미 KSI-2020BK",
+    "ReviewScore": "5",
+    "Syllable": "370",
+    "Word": "95",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "컴팩트한 사이즈로 가벼운 이 제품이 저에게는 딱 이네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈가 워낙 아담하니 장거리 여행갈 때도 가방 한쪽에 넣어서 가기 좋더라구요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "케이블 길이도 1.9미터라서 블라우스나 니트 가디건 같은 옷 걸어 두고 다리미 들고 왔다 갔다 하며 사용할 때 줄 짧아서 불편할 일이 없는 점도 좋아요. ",
+        "SentimentWord": "24",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114424",
+    "RawText": "바쁜 아침에 사용하려고 핸디형 다리미를 찾다가 발견한 제품이에요. 생각보다 더 아담하고 가벼워서 그 점은 마음에 들었는데... 아담한만큼 물탱크도 작네요. 아침에 식구들 등교와 출근을 위해서 빠르게 다리미질 하려고 구입한 건데 2개 다리미질 하고 바로 물 보충 해야 했어요. 예열은 빨리 돼서 그나마 다행인데 그래도 물탱크양이 생각보다 작아서 불편하고 난감하네요. 바쁠 때 편하려고 구입한 제품인데 일을 더 만드는 것 같아서요. 그리고 드라마틱하게 주름이 잘 펴지지도 않아요. 제가 잘못 사용하고 있는건지 모르겠지만 옷가게에서 사용하는 것처럼 옷걸이에 걸어서 주름이 예쁘게 펴지는 걸 원했던 건데 그만큼 펴지지 않더라구요. 그래서 다소 실망하고 있어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "컴포트 스티머 핸디 스팀 다리미 KSI-2020BK",
+    "ReviewScore": "3",
+    "Syllable": "365",
+    "Word": "87",
+    "RDate": "20221107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "생각보다 더 아담하고 가벼워서 그 점은 마음에 들었는데... ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "물탱크양이 생각보다 작아서 불편하고 난감하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114425",
+    "RawText": "요즘에는 핸디형 다리미가 대세인 것 같아요. 저도 바쁜 직장인이기에 핸디형 다리미로 가볍고 평이 좋은 OOO 제품을 구매하게 됐어요. 디자인도 예뻐서 만족합니다. 탈부착되는 솔브러쉬가 제공되어서 모피나 털옷, 소파에서도 사용할 수 있어서 좋네요. 대부분 아침 출근 때 입을 옷 다림질 하는게 목적이지만 그래도 기왕이면 하나로 여러 가지에 사용할 수 있어서 가성비가 좋은 물건을 구입한 것 같아서 만족감이 드네요.아무래도 스팀 다리미라 전열기구인데 과열이 걱정되는데 이 제품은 스팀을 장시간 사용하거나 과열되면 저절로 꺼지는 전원 차단 장치가 되어 있고 전기 안전이나 전자파 안전 다 인증 받은 거라고 하니 신뢰가 가서 안심하고 사용할 수 있어서 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "컴포트 스티머 핸디 스팀 다리미 KSI-2020BK",
+    "ReviewScore": "4",
+    "Syllable": "365",
+    "Word": "90",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "저도 바쁜 직장인이기에 핸디형 다리미로 가볍고 평이 좋은 OOO 제품을 구매하게 됐어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 디자인도 예뻐서 만족합니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "탈부착되는 솔브러쉬가 제공되어서 모피나 털옷, 소파에서도 사용할 수 있어서 좋네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "기왕이면 하나로 여러 가지에 사용할 수 있어서 가성비가 좋은 물건을 구입한 것 같아서 만족감이 드네요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "스팀을 장시간 사용하거나 과열되면 저절로 꺼지는 전원 차단 장치가 되어 있고 전기 안전이나 전자파 안전 다 인증 받은 거라고 하니 신뢰가 가서 안심하고 사용할 수 있어서 좋아요.",
+        "SentimentWord": "27",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114426",
+    "RawText": "가정에서도 여행 갈 때도 겸사겸사 사용할 수 있어서 구매했어요~.가정에서는 미니 냉장고로 사용하고 여행 갈 때는 1-2박 정도는 거뜬하게 버틸 수 있다는 이야기에 냉큼 구매했네요.다만 아래 칸보다는 위쪽에 넣어둔 것이 잘 녹아서 아쉽네요. 지난번에 사둔 야채가 생각보다 시원하지 않더라고요. 한 여름 더위에는 조심하셔야 할 것 같아요. 식품별 적정온도를 적어주셔서 친절하게 잘 활용해서 쓰고 있습니다. 색상도 베이지와 브라운의 조화라서 단정하고 세련된 느낌을 주어 여행 갈 때 사용하면 기분 좋게 사용할 수 있습니다.원래 뭐 하려면 다 장비 빨이잖아요. 기존에 사두었던 캠핑 장비와 위화감 없이 섞이는 디자인은  어느 정도 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코베아] 무빙 냉동고 냉장고 서브냉장고 캠핑 아이스쿨러 29.5L KECY9DU-04",
+    "ReviewScore": "4",
+    "Syllable": "355",
+    "Word": "86",
+    "RDate": "20221107",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 아래 칸보다는 위쪽에 넣어둔 것이 잘 녹아서 아쉽네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 베이지와 브라운의 조화라서 단정하고 세련된 느낌을 주어 여행 갈 때 사용하면 기분 좋게 사용할 수 있습니다",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 기존에 사두었던 캠핑 장비와 위화감 없이 섞이는 디자인은  어느 정도 만족합니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114427",
+    "RawText": "샤워하고 수건으로 닦고 나와서 이 전신건조기에 한 번 말려주면 정말 온 몸에 쾌적함이 다르게 느껴집니다. 성능 죽이네요. 처음 보는 거라 효과가 얼마나 있을지 반신반의하고 구매했는데 완전 반했어요.특히 발가락 사이가 바싹 말라주니 습한 기운도 없어지고 발끝부터 뽀송함이 느껴져서 아주 기분이 상쾌하네요.간단하게 코드만 꽂고 올라가서 전원 버튼만 눌러주면 아래에서 부터 위로 수직형 바람이 쭉 올라와서 온 몸을 깔끔하게 말려줍니다.물기 남은 상태로 이제 옷 입지 말고 깔끔하게 말려서 상쾌한 기분으로 잠자리에 들고 있답니다.아주 만족스럽게 잘 사용하고 있어요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코슬리 바디드라이어 에어터치 화이트 / 블랙 전신건조기",
+    "ReviewScore": "4",
+    "Syllable": "312",
+    "Word": "74",
+    "RDate": "20221112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "샤워하고 수건으로 닦고 나와서 이 전신건조기에 한 번 말려주면 정말 온 몸에 쾌적함이 다르게 느껴집니다. 성능 죽이네요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "간단하게 코드만 꽂고 올라가서 전원 버튼만 눌러주면 아래에서 부터 위로 수직형 바람이 쭉 올라와서 온 몸을 깔끔하게 말려줍니다.",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114428",
+    "RawText": "아이들 씻기고 나서 번갈아서 구석구석 닦아줘도 혹시라도 부족할까해서 구매했습니다.이제 목욕시키고 타올로 1차 닦고 감싼채로 이 건조기에 올라가서 바람으로 말려주니 정말 피부에도 좋은 것 같고 아주 뽀송뽀송한 느낌이 드네요.발가락으로 살짝 전원버튼 눌러주면 바람이 올라와서 사용하기 너무 편하구요.바람쎄기도 조절이 가능해서 겨울에는 좀 약하게 틀면 춥지 않게 잘 말릴 수 있어요.디자인도 깔끔해서 그냥 욕실앞에 꽂아 두었는데 보기 흉하거나 걸리적 거리지도 않네요.처음에는 얼마나 사용할까 하는 마음이 들었는데매일매일 사용하고 있어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코슬리 바디드라이어 에어터치 화이트 / 블랙 전신건조기",
+    "ReviewScore": "5",
+    "Syllable": "297",
+    "Word": "65",
+    "RDate": "20221112",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람쎄기도 조절이 가능해서 겨울에는 좀 약하게 틀면 춥지 않게 잘 말릴 수 있어요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 깔끔해서 그냥 욕실앞에 꽂아 두었는데 보기 흉하거나 걸리적 거리지도 않네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114429",
+    "RawText": "얼굴 주름도 많아지고 푸석푸석한게 관리 좀 해야겠다고 생각해서 결심한 김에 구매했습니다. 매번 마스크 한장 달라 붙이고 관리도 안 했더니 이렇게 주름이 점점 많아지나봐요. 이 제품으로 마스크 붙이고 미세 전류로 케어하니 얼굴에 자극도 되고 탄력이 생기는 것 같아서 좋아요. 탄력이 점점 붙으면 주름도 많이 개선될거라 기대가 많이 되요. 기계로 주르륵 밀어주면 얼굴 전체가 자극 되는게 느껴집니다. 분명 효과가 있을거라고 굳게 믿고 있습니다. 꾸준히 하는게 제일 좋을거라 생각해요. 기계는 무선이라  선 없이 사용하기 꽤 편리하고 좋아요!!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코어 텐션 마스크14박스+코어 텐션 인헨서2개",
+    "ReviewScore": "3",
+    "Syllable": "301",
+    "Word": "74",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 마스크 붙이고 미세 전류로 케어하니 얼굴에 자극도 되고 탄력이 생기는 것 같아서 좋아요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "기계는 무선이라 선 없이 사용하기 꽤 편리하고 좋아요!!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114430",
+    "RawText": "부모님 안마의자가 너무 오래되서 사용해보니 등 두드림도 너무 아프고 해서 새로 구매했습니다.이왕 사는 거 좋은 걸로 사드리려고 많이 알아보고 하다보니 나중에는 고르기도 더 힘들더라구요. 부모님이 나이가 있으시니 리모콘으로 사용하는 것도 많이 불편하실거 같아 주요기능이 음성으로 작동 시킬 수 있는 점이 마음에 들어 구매하게 됐습니다. 전신안마나 온열기능 다리길이 조절 등의 기능은 요즘 많이 있는 기능들이라 크게 차이점은 못 느꼈어요. 만족합니다. 디자인이나 자리 차지하는 것들이 제 마음에 들어서 구매하게 되었어요, 설치해서 사용해보니 여러가지 모드를 사용해보고 지금은 만족하고 있습니다.부모님도 새 안마의자가 마음에 많이 들어하니 제 마음도 아주 보람차요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코지마 안마의자 세이지 CMC-A600S(G)",
+    "ReviewScore": "3",
+    "Syllable": "369",
+    "Word": "85",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "주요기능이 음성으로 작동 시킬 수 있는 점이 마음에 들어 구매하게 됐습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전신안마나 온열기능 다리길이 조절 등의 기능은 요즘 많이 있는 기능들이라 크게 차이점은 못 느꼈어요. 만족합니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이나 자리 차지하는 것들이 제 마음에 들어서 구매하게 되었어요,",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114431",
+    "RawText": "요즘 코털이 자꾸 밖으로 나와서 신경쓰여서 구매했습니다. 집에 있는 코털 정리 가위로 한 번씩 정리하긴 했는데 코털제거기 사용하면 더 깔끔하게 잘 정리될 거 같아서 고민하다 사봤어요. 코털 정리하는 날 재질이 스테인리스라 깔끔해 보이고 상처 나지 않게 잘 작동되네요.크기도 작아서 어디 여행 갈 때도 가방에 휴대하기 딱 좋아요. 코털 밖으로 보이면 정말 보기 싫잖아요. 관리한다고 관리해도 놓칠 때가 있었는데 코털 제거기 사용하고 스트레스가 하나 줄었습니다. ㅎㅎ 사용법도 간단하고 쉽게 사용할 수 있어서 수시로 잘 써먹을 거 같아요 좀 더 사용해 보고 친구들 생일 때 선물해도 좋아할 거 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코털제거기",
+    "ReviewScore": "5",
+    "Syllable": "335",
+    "Word": "87",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "코털 정리하는 날 재질이 스테인리스라 깔끔해 보이고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 작아서 어디 여행 갈 때도 가방에 휴대하기 딱 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "사용법도 간단하고 쉽게 사용할 수 있어서 수시로 잘 써먹을 거 같아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114432",
+    "RawText": "코털제거기 사용해 보니 좋네요. ㅎㅎ 한 손에 쏙 들어가서 사용하기 편하고 휴대하기에도 좋아요.잘 깎이는 성능이랑 그런 건 좋은데 세련되지 않고 투박한 디자인이 좀 안 예뻐요. 색상도 블랙에 빨간 버튼인데 이런 소형 제품은 좀 더 다양한 색감으로 제작해도 좋을 거 같아요 디자인도 이왕이면 좀 더 세련되었으면 좋겠어요. 사용하고 물로 바로 세척이 가능해서 위생적인 면은 괜찮네요. 가위로 자르려면 잘 안 보이고 힘들었는데 코털제거기 한 개쯤 집에 있음 편리하게 잘 사용할 거 같아요.하나 가지고 같이 쓰긴 좀 그래서 사용해 보고 아버지 것도 하나 사드려야겠어요. 디자인 빼고는 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코털제거기",
+    "ReviewScore": "4",
+    "Syllable": "329",
+    "Word": "84",
+    "RDate": "20221107",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 한 손에 쏙 들어가서 사용하기 편하고 휴대하기에도 좋아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "잘 깎이는 성능이랑 그런 건 좋은데 ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "세련되지 않고 투박한 디자인이 좀 안 예뻐요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 사용하고 물로 바로 세척이 가능해서 위생적인 면은 괜찮네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "가위로 자르려면 잘 안 보이고 힘들었는데 코털제거기 한 개쯤 집에 있음 편리하게 잘 사용할 거 같아요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114433",
+    "RawText": "남자친구 사줬는데 처음엔 칼날 돌아가는 소리가 무섭다고 못하겠다고 하더니 지금은 잘 사용합니다.칼날 돌아가는게 무서워 보이는데 아프거나 그렇진 않데요. 몇 번 사용하더니 지금은 괜찮다네요.크기도 아주 작지도 크지도 않아서 그립감도 좋고 성능도 좋아요.건전지 넣고 사용하는 거라 사용하기 편하고 무엇보다 코털 정리 잘 됩니다. 상처나지 않고.가끔 코털 삐져나와 있으면 정말 너무 보기 싫었는데 제대로 정리하니 단정해 보여서 너무 좋습니다.여자들보다 남자들은 코털이 긴편이라 코털제거기 알아두면 좋을거 같아요소리는 일반 면도기 정도인 거 같아요. 가위로 정리하는 것보다 확실히 깔끔합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "코털제거기",
+    "ReviewScore": "4",
+    "Syllable": "327",
+    "Word": "73",
+    "RDate": "20221107",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "크기도 아주 작지도 크지도 않아서 그립감도 좋고 ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리는 일반 면도기 정도인 거 같아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능도 좋아요.",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114434",
+    "RawText": "청소를 하다 보니 흡입식 청소기만으로는 청소가 제대로 되지 않더라구요. 결국 물걸레질이 필요한데 그 동안 청소포에 주로 의존해왔는데 그걸로는 깨끗해지지 않아서 이번엔 물걸레 청소기를 장만했어요. 집에서 강아지를 키우다 보니 아무래도 강아지가 배변을 완벽히 가리지 못하거든요. 기본적으로 제가 자유롭게 여기저기 움직이며 청소가 가능하기를 바래서 무선으로 샀는데 그 점이 만족스럽네요. 전기선 생각않고 이곳 저곳 청소할 수 있는 점이 큰 장점인 거 같아요. 듀얼이라고 해서 두 원판 걸레가 회전하다 보니 깨끗이 닦이는 거 같아요. 제품이 조금 내구성이 부족한 듯 한데 가성비 생각하면 이 정도 회전력과 힘이면 제가 사용하기에는 큰 무리가 없는 거 같아요. 그래서 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "쿠비녹스 무선 물걸레 청소기 CX-192WC",
+    "ReviewScore": "5",
+    "Syllable": "375",
+    "Word": "91",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 자유롭게 여기저기 움직이며 청소가 가능하기를 바래서 무선으로 샀는데 그 점이 만족스럽네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "듀얼이라고 해서 두 원판 걸레가 회전하다 보니 깨끗이 닦이는 거 같아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 가성비 생각하면 이 정도 회전력과 힘이면 제가 사용하기에는 큰 무리가 없는 거 같아요. 그래서 만족합니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114435",
+    "RawText": "물걸레질이 힘들어서 물걸레 청소기를 구매하려고 검색하다가 저렴해서 구매했어요. 회전도 두개 원판으로 된다고 해서 샀어요. 전용 충전기가 있어서 안 쓸 때는 충전해 놓고 쓸 때만 원하는 곳 가서 쓰면 되겠다 했는데 배터리 잔량이 표시되더라구요. 그래서 배터리 잔량 보고 충전이 필요할 때만 꽂아 놓으면 되니 굳이 매번 꽂아 놓을 필요가 없어서 전기료 절감에 좋을 거 같아요. 그리고 극세사 걸레라서 닦일 때 부드럽게 잘 닦이는 건 느낌 때문인지 모르겠지만 만족스럽네요. 다만 생각보다 원판 돌면서 닦는 게 원하는 만큼 닦이진 않아요. 아무래도 집은 네모진 부분이 많은데 원형이라서 잘 안 닦이는 부분이 생기긴 하더라구요. 그래도 그럭저럭 물걸레질 손으로 하는 것보다는 편한 거 같아요. 손목 아픈 것보다는 훨씬 나아서 이 정도에 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "쿠비녹스 무선 물걸레 청소기 CX-192WC",
+    "ReviewScore": "4",
+    "Syllable": "413",
+    "Word": "106",
+    "RDate": "20221106",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "물걸레질이 힘들어서 물걸레 청소기를 구매하려고 검색하다가 저렴해서 구매했어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 배터리 잔량이 표시되더라구요. 그래서 배터리 잔량 보고 충전이 필요할 때만 꽂아 놓으면 되니 굳이 매번 꽂아 놓을 필요가 없어서 전기료 절감에 좋을 거 같아요.",
+        "SentimentWord": "24",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "극세사 걸레라서 닦일 때 부드럽게 잘 닦이는 건 느낌 때문인지 모르겠지만 만족스럽네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "집은 네모진 부분이 많은데 원형이라서 잘 안 닦이는 부분이 생기긴 하더라구요. 그래도 그럭저럭 물걸레질 손으로 하는 것보다는 편한 거 같아요.",
+        "SentimentWord": "20",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다만 생각보다 원판 돌면서 닦는 게 원하는 만큼 닦이진 않아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114436",
+    "RawText": "집에 나이든 강아지를 기르다 보니 예전과 달리 배변을 마루 곳곳에 하는 경우가 생기고 요즘 설사도 자꾸 해서 바닥청소가 너무 힘들더라구요. 그래서 고민하다 물걸레 청소기를 구입하게 됐어요. 아무래도 여기저기 편하게 청소하려고 무선제품을 사게 됐는데... 무선이라서 그럴까요... 충분히 원하는 만큼 닦이진 않는 것 같아서 답답하네요. 결국 설사자국 지우려면 뜨거운 물을 떨어뜨리고 물걸레 청소기를 사용하게 되서 돈을 더 주고 스팀이 된다는 걸로 샀어야 했나 후회가 되더라구요. 분리도 간편하고 막대 길이도 조절하기 쉬운건 괜찮네요.아무래도 설사 등 지우기가 어려운 오염된 부분을 지우는게 목적이라 그런지 다소 실망스럽네요. 그 외에 무선이라서 움직임이 자유로운 부분은 편하게 쓰고 있어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "쿠비녹스 무선 물걸레 청소기 CX-192WC",
+    "ReviewScore": "3",
+    "Syllable": "385",
+    "Word": "90",
+    "RDate": "20221106",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "충분히 원하는 만큼 닦이진 않는 것 같아서 답답하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "분리도 간편하고 막대 길이도 조절하기 쉬운건 괜찮네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무선이라서 움직임이 자유로운 부분은 편하게 쓰고 있어요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114437",
+    "RawText": "저렴한 가격에 3개의 물건을 한 번에 살 수 있어서 주변 지인들에게 나누어 줄 수 있었습니다.바람도 3단계로 조절이 되어 상황에 맞게 사용을 할 수 있어서 성능면에서 매우 마음에 듭니다. 컬러도 귀여운 색상들로 핑크, 파랑, 노랑으로 구성이 되어있어 한 개씩 사보았어요.충전식이라 한 번 충전으로 하면 7시간까지 간다는 것이 매우 마음에 들었습니다.회사에 출근하는 길이나 지하철에서 사용하면 딱이에요.크기도 너무 크기 않아 가방에 넣고 수납 하기 편리합니다.그런데 가격은 다른 싸이트가 더 싸게 파는 것을 보아서 아쉬운 마음이 조금 남습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "쿨스틱 핸디팬 1+1+1 (BP180402S)",
+    "ReviewScore": "4",
+    "Syllable": "303",
+    "Word": "74",
+    "RDate": "20221106",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "바람도 3단계로 조절이 되어 상황에 맞게 사용을 할 수 있어서 성능면에서 매우 마음에 듭니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "컬러도 귀여운 색상들로 핑크, 파랑, 노랑으로 구성이 되어있어 한 개씩 사보았어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "충전식이라 한 번 충전으로 하면 7시간까지 간다는 것이 매우 마음에 들었습니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 너무 크기 않아 가방에 넣고 수납 하기 편리합니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가격은 다른 싸이트가 더 싸게 파는 것을 보아서 아쉬운 마음이 조금 남습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114438",
+    "RawText": "캠핑을 자주 다니다 보니 야외에서 벌레를 쫓을 포충기가 필요했어요. 그런데 이 제품이 제가 사용하기에 딱이더라고요.USB 충전에 휴대용 배터리로 충전하고 사용할 수도 있어서 언제 어디서든 야외에서 쓸 수 있어서 편리해요.실제로 캠핑 갔을 때 사용해 보니 벌레도 쫓아주고 은은한 조명도 되어줘서 캠핑 분위기를 더욱 무르익게 해줘서 만족합니다. 이 정도면 가성비에 가심비까지 제대로 저격한 상품이라는 생각이 드네요.게다가 야외에서 휴대용으로 사용할 건데 조작이 어려우면 안 되잖아요. 근데 이 제품은 조작 버튼도 간단해서 너무 좋아요. ^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "퀵맘 스마트 모기제로 포충기 더블구성",
+    "ReviewScore": "5",
+    "Syllable": "300",
+    "Word": "71",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "USB 충전에 휴대용 배터리로 충전하고 사용할 수도 있어서 언제 어디서든 야외에서 쓸 수 있어서 편리해요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "벌레도 쫓아주고 은은한 조명도 되어줘서 캠핑 분위기를 더욱 무르익게 해줘서 만족합니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비에 가심비까지 제대로 저격한 상품이라는 생각이 드네요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "게다가 야외에서 휴대용으로 사용할 건데 조작이 어려우면 안 되잖아요. 근데 이 제품은 조작 버튼도 간단해서 너무 좋아요. ^^",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114439",
+    "RawText": "여러 포충기를 사용하면서 포충기의 벌레를 치우고 청소하는 게 일이라는 걸 알게 됐어요. 벌레를 정말 싫어하고 모기도 잘 물려서 포충기는 이것저것 안 써본 제품이 거의 없네요.이 제품은 기본적으로 포집통 청소가 간편하고 쉬워요. 분리도 간단하게 쉽게 되고 시계방향으로 돌려서 분리한 포집 통을 탁탁 털어서 모아진 모기 시체를 치울 수 있답니다. 아무래도 벌레 시체 만지기 싫잖아요. 그래서 청소가 용이하다는 점에서 아주 만족하고 있어요.밤에 잘 때도 창밖에 나는 나뭇가지 흔들리는 정도의 소리는 원래도 들렸는데 그 소리와 비슷한 느낌이라서 크게 거슬리지 않더라고요. 포충기가 이 정도의 소음이면 정말 조용한 거 같아서 편안한 수면을 하고 있어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "퀵맘 스마트 모기제로 포충기 더블구성",
+    "ReviewScore": "5",
+    "Syllable": "360",
+    "Word": "89",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": ".이 제품은 기본적으로 포집통 청소가 간편하고 쉬워요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "분리도 간단하게 쉽게 되고 시계방향으로 돌려서 분리한 포집 통을 탁탁 털어서 모아진 모기 시체를 치울 수 있답니다. 아무래도 벌레 시체 만지기 싫잖아요",
+        "SentimentWord": "22",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "포충기가 이 정도의 소음이면 정말 조용한 거 같아서 편안한 수면을 하고 있어요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114440",
+    "RawText": "골프를 배우면서 친구가 사용하는 걸 보고 저도 구매하게 되었어요.옆에서 보니 저도 갖고 싶어서 큰 맘 먹고 구매했습니다. 초보라 기계에 의존하는 건 아닐까 고민도 했지만 제대로 방향이나 거리를 알려주니 더 실력이 느는 것 같아요일단 무게가 가벼워서 갖고 다니기 전혀 부담이 없어요. 주머니에 넣어도 걸리적 거리지 않아서 좋아요.렌즈가 배율이 높아서 측정 시간이 줄어드는 것 같아 그것도 마음에 부담을 덜어주는 것 같아요.음성으로 거리를 알려주니 그냥 주머니에 넣어두어도 되는 점이 좋아요.음성은 마음에 안듭니다. ㅋㅋ 조금 많이 웃겨요!!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "크로스엑스 스마트캐디 골프거리측정기 SC-1",
+    "ReviewScore": "4",
+    "Syllable": "301",
+    "Word": "73",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "일단 무게가 가벼워서 갖고 다니기 전혀 부담이 없어요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "주머니에 넣어도 걸리적 거리지 않아서 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "렌즈가 배율이 높아서 측정 시간이 줄어드는 것 같아 그것도 마음에 부담을 덜어주는 것 같아요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "음성은 마음에 안듭니다. ㅋㅋ 조금 많이 웃겨요!!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "음성으로 거리를 알려주니 그냥 주머니에 넣어두어도 되는 점이 좋아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114441",
+    "RawText": "제품 구매해서 배송 오자마자 코드 꼽고 바로 작동시켰어요.이상없이 작동 잘 되고 음식하면 바로 반응 하는거 보고서는 잘 되는 거 같아서 안심하고 사용하고 있습니다.아직 미세먼지는 심하지 않지만 미세먼지 심하다고 하는 날 창문 열어서 잘 동작하는지 확인해 보고 싶네요.모든 냄새를 다 잡아줄 수는 없겠지만 찌개 끓이고 돌아가는 걸 보니 그래도 탈취효과가 분명 있는 것 같아요.냄새가 청정기 없을 때보다는 빨리 줄어드는 것 같아요.소비전력도 1등급이라 부담없이 켜놓고 다녀도 될 거 같습니다.매일 매일 켜놓고 다니는데 있으니 그래도 없는 것보다 분명 공기는 더 좋을 거라 믿고 쓰고 있어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "클라윈드 18평형 공기청정기",
+    "ReviewScore": "3",
+    "Syllable": "328",
+    "Word": "82",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "모든 냄새를 다 잡아줄 수는 없겠지만 찌개 끓이고 돌아가는 걸 보니 그래도 탈취효과가 분명 있는 것 같아요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "소비전력도 1등급이라 부담없이 켜놓고 다녀도 될 거 같습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114442",
+    "RawText": "사진으로 보는 것과는 다르게 너무 커요. 부담스러워요ㅠㅠ거실 TV 옆에 두었는데 크기도 크고 소리도 커서 너무 신경에 거슬리네요.청정기 돌아가기라도 하면 TV 소리가 안 들려서 볼륨을 높이게 되요. 그래도 사용하기는 편리하게 리모콘도 구성되어 있어서 작동시키고 할 때는 편합니다.그리고 가장 마음에 드는 건 바퀴가 숨겨져 있어서 그게 제일 좋아요. 청소할 때 바퀴 살짝 꺼내서 밀면서 하면 청소하는데도 걸리적 거리지 않고 들어서 안 옮겨도 되네요. 시끄러운 것만 빼면 많은 면에서 좋은 제품이라고 생각해요.만족스럽게 잘 사용하고 있습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "클라윈드 18평형 공기청정기",
+    "ReviewScore": "4",
+    "Syllable": "301",
+    "Word": "72",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사진으로 보는 것과는 다르게 너무 커요. 부담스러워요ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소리도 커서 너무 신경에 거슬리네요.청정기 돌아가기라도 하면 TV 소리가 안 들려서 볼륨을 높이게 되요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "그래도 사용하기는 편리하게 리모콘도 구성되어 있어서 작동시키고 할 때는 편합니다.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "바퀴가 숨겨져 있어서 그게 제일 좋아요. 청소할 때 바퀴 살짝 꺼내서 밀면서 하면 청소하는데도 걸리적 거리지 않고 들어서 안 옮겨도 되네요. ",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114443",
+    "RawText": "어머니가 요즘 많이 피곤해 하시고 살이 많이 찌면서 건강도 안 좋은것 같아 편하게 사우나 느낌도 들면서 피곤도 풀었으면 하는 마음에 구매했어요.거실 한쪽에 두니 자리는 조금 차지하지만 편하게 집에서 즐길 수 있다고 너무 좋아하시네요.편백나무 향이 솔솔 나고 뜨끈뜨끈하게 사우나 느낌이 나니 피곤이 확실이 풀리고 몸도 한결 가벼워진다고 아주 좋아하세요.발 부분에 족욕기능도 있어서 전체적으로 다 좋은 점만 보입니다.땀 쭉 빼고 샤워하고 나면 몸이 정말 가뿐해진다고 얼굴 색도 많이 좋아져서 잘 샀구나 하고 제 마음이 아주 좋네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "킹스스파 편백 반신욕기 2022년형",
+    "ReviewScore": "5",
+    "Syllable": "295",
+    "Word": "74",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "거실 한쪽에 두니 자리는 조금 차지하지만 편하게 집에서 즐길 수 있다고 너무 좋아하시네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 편백나무 향이 솔솔 나고 뜨끈뜨끈하게 사우나 느낌이 나니 피곤이 확실이 풀리고 몸도 한결 가벼워진다고 아주 좋아하세요.발 부분에 족욕기능도 있어서 전체적으로 다 좋은 점만 보입니",
+        "SentimentWord": "24",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114444",
+    "RawText": "사용하고 있는 드라이기가 고장이 나서 새로 구매했어요.후기들도 좋고 제품 이미지가 좋아서 믿고 구매합니다.일단 드라이기 색상이 이게 전자제품인가 싶을 정도로 파스텔톤의 핑크 크림 톤이라 너무 감각적이고 세련되었어요. 드라이기 자체가 너무 예쁩니다.받자마자 그냥 코드 꼽고 잠깐 테스트해 보니 단계에 따라 확실하게 느껴지는 바람의 세기가 확연하게 틀려서 필요에 따라 활용도가 아주 좋을 것 같아요.바람의 차이가 별로 안 나는 드라이기를 사용했었던 건지 이 드라이기가 유난히 이렇게 확실한 차이를 보여주는 건지 모르겠지만 전 아주 마음에 들고 흡족해요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "터치온 소프트피치 드라이기",
+    "ReviewScore": "5",
+    "Syllable": "307",
+    "Word": "72",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "드라이기 색상이 이게 전자제품인가 싶을 정도로 파스텔톤의 핑크 크림 톤이라 너무 감각적이고 세련되었어요. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "단계에 따라 확실하게 느껴지는 바람의 세기가 확연하게 틀려서 필요에 따라 활용도가 아주 좋을 것 같아요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114445",
+    "RawText": "집에 드라이기가 있는데도 그냥 반해서 질렀어요.드라이를 사용할 때마다 좋은 새 드라이기 사고 싶었는데, 이 제품을 보니 정말 너무 사고 싶어서 못 참고 그냥 사 버렸네요.머리가 워낙 곱슬이라 아침마다 머리를 펴느라 드라이기랑 씨름을 하는데 껐다 켰다 하는 게 너무 번거로웠어요.이 드라이기의 손잡이 부분을 터치로 간편하게 바람을 멈출 수 있게 제어되는 기능이 있다고 해서 두 번 생각도 안 하고 산 거예요. 사용해 보니 아주 간편하고 편리합니다. 핸들을 잡으면 켜지고 손을 떼면 바람이 멈추니 스타일링 하는 동안 너무 편해요. 사이즈도 정말 작아서 사용하기 너무 좋아요. 무게도 300g 밖에 안돼서 드라이를 오래 해도 손목에 전혀 부담이 없네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "터치온 소프트피치 드라이기",
+    "ReviewScore": "4",
+    "Syllable": "362",
+    "Word": "93",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 드라이기의 손잡이 부분을 터치로 간편하게 바람을 멈출 수 있게 제어되는 기능이 있다고 해서 두 번 생각도 안 하고 산 거예요. 사용해 보니 아주 간편하고 편리합니다.",
+        "SentimentWord": "26",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "핸들을 잡으면 켜지고 손을 떼면 바람이 멈추니 스타일링 하는 동안 너무 편해요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈도 정말 작아서 사용하기 너무 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 300g 밖에 안돼서 드라이를 오래 해도 손목에 전혀 부담이 없네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114446",
+    "RawText": "드라이기 구매한지 얼마 되지도 않았는데 전선 부분이 너덜너덜해져서 정말 짜증 나서 아예 새 거로 구매했습니다.기존 드라이기 때문에 기분이 안 좋아서 이번엔 정말 예쁜 드라이기 사려고 마음먹고 이 제품으로 주문했어요.머릿결이 안 좋고 손상이 많이 돼서 냉풍으로 드라이하면 좋다는 이야기를 듣고 냉풍 기능이 좋다는 이야기를 듣고 구매하게 되었어요.다른 거 안 보고 일단 받자마자 냉풍으로 틀어보니까 성능 좋고 찬바람이 잘 나와서 만족스럽습니다.그거 말고는 그렇게 다른 제품보다 좋은 건 모르겠네요.소음은 오히려 다른 드라이기보다 더 심한 거 같아서 그런 부분은 사실 불만입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "터치온 소프트피치 드라이기",
+    "ReviewScore": "2",
+    "Syllable": "321",
+    "Word": "77",
+    "RDate": "20221108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "다른 거 안 보고 일단 받자마자 냉풍으로 틀어보니까 성능 좋고 찬바람이 잘 나와서 만족스럽습니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음은 오히려 다른 드라이기보다 더 심한 거 같아서 그런 부분은 사실 불만입니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114447",
+    "RawText": "친구가 산 거 보고 저도 구매했어요.친구가 좋은 거 사면 꼭 저한테도 사라고 뽐뿌 실을 해서 자꾸 충동구매하게 되네요.그래도 이건 배송 와서 꺼내서 사용해 보니 괜찮은 것 같네요.손잡이 부분을 잡고 떼는 걸로 바람을 ON / OFF 시켜주니 드라이하다가 빗질하다 할 때 자동으로 바람이 제어돼서 아주 편하게 드라이하고 있어요. 꽤 편리한 기능 같아요.최신 신상품이라 최신 기종답게 아주 세련되고 기능도 첨단이네요.무엇보다 10분 동안 사용하지 않으면 자동으로 꺼져서 너무 안심이 돼요.건망증 때문에 가끔 드라이기가 약하게 켜져 있는데도 그냥 올려두고 나온 경우들이 있어서 이런 기능은 저에게는 꽤 매력적입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "터치온 소프트피치 드라이기",
+    "ReviewScore": "3",
+    "Syllable": "341",
+    "Word": "83",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "손잡이 부분을 잡고 떼는 걸로 바람을 ON / OFF 시켜주니 드라이하다가 빗질하다 할 때 자동으로 바람이 제어돼서 아주 편하게 드라이하고 있어요. 꽤 편리한 기능 같아요.",
+        "SentimentWord": "25",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "최신 신상품이라 최신 기종답게 아주 세련되고 기능도 첨단이네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114448",
+    "RawText": "오~ 디자인 심플해서 맘에 들어요. 한 손에 잡기에도 그립감 좋고 텀블러 구매했는데 제 마음에 쏘옥 듭니다.원래 아침 잘 안 먹고 다니는데 언제부터인가 속도 쓰리고 힘들어서 아침밥 챙겨 먹으려니 그것도 일이네요.안 먹다 먹으려니 소화도 잘 안되는 거 같고, 그래서 미숫가루 원래 좋아해서 미숫가루나 선식 위주로 간단하면서 든든하게챙겨 먹어보려고 텀블러 하나 구입했어요. 가루 넣고 버튼 누르니 아주 잘 섞여서 좋아요 요즘 같은 바쁜 시대에 딱 맞는 제품인 거 같아요.방법도 어렵지 않고 건전지 사용이라 가루 넣어서 우선 출근해서 사무실에서 휘리릭 갈아서 먹으니 좋네요. ㅎㅎ 다들 부러워하네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "텀블러",
+    "ReviewScore": "5",
+    "Syllable": "332",
+    "Word": "83",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "오~ 디자인 심플해서 맘에 들어요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 한 손에 잡기에도 그립감 좋고 텀블러 구매했는데 제 마음에 쏘옥 듭니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 가루 넣고 버튼 누르니 아주 잘 섞여서 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "방법도 어렵지 않고 건전지 사용이라 가루 넣어서 우선 출근해서 사무실에서 휘리릭 갈아서 먹으니 좋네요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114449",
+    "RawText": "신랑이 등산 다니는 거 좋아해서 따뜻한 커피라도 타서 싸주고 싶어서 구매했어요.보온병 이런 거 보다 보기에도 세련미 넘치고 스테인리스 재질이라 안심하고 사용할 수 있어서 좋아요.집에 텀블러 많이 있는데 보냉이 되는 건 한 개도 없었는데 이 텀블러는 기존 제품 업그레이드돼서 보냉기능이 되니 좋아요.여름에 시원하게 마실 수 있고 겨울에도 따뜻하게 보온되니 참 좋네요.텀블러라서 들고 다니기에도 멋져 보이고요. ㅎㅎ 아직은 보온만 사용해 봤는데 따뜻하게 잘 유지되었네요.원래 뭐 잘 안들고 다니는 스타일인데 남편도 가지고 다니기 좋다고 잘 들고 다녀서 뿌듯하네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "텀블러",
+    "ReviewScore": "5",
+    "Syllable": "313",
+    "Word": "75",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": ".보온병 이런 거 보다 보기에도 세련미 넘치고 스테인리스 재질이라 안심하고 사용할 수 있어서 좋아요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "스테인리스 재질이라 안심하고 사용할 수 있어서 좋아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 텀블러는 기존 제품 업그레이드돼서 보냉기능이 되니 좋아요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114450",
+    "RawText": "운동 다니면서 사용하려고 텀블러 구매해 봤어요.지금까지 얼음 물 얼려서 들고 다녔는데 요새 아침. 저녁으로 쌀쌀해서 좀 춥네요. 운동하고 따뜻한 차 한 잔 마시려고 준비했어요. 들고 다니다가 제가 실수로 떨어뜨려서 물 샐 줄 알았는데 아주 튼튼하니 새지도 않고 좋네요.보기에도 튼튼한 재질 같아 보여 안심이에요. 가벼워서 휴대하기도 너무 좋아요. 내구성도 좋은 거 같아요. 텀블러 내부 공간도 넉넉하게 500ml 거뜬하게 들어갑니다. 넉넉한 용량으로 한번 들고나가면 하루 종일 먹을 수 있어서 좋아요.주위 친구들하고도 나눠 마셔도 될 만큼 넉넉합니다. 깔끔하게 생긴 원형의 디자인도 고급지고 손에 잡히는 느낌도 좋습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "텀블러",
+    "ReviewScore": "5",
+    "Syllable": "347",
+    "Word": "83",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제가 실수로 떨어뜨려서 물 샐 줄 알았는데 아주 튼튼하니 새지도 않고 좋네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "보기에도 튼튼한 재질 같아 보여 안심이에요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 휴대하기도 너무 좋아요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내구성도 좋은 거 같아요. ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "텀블러 내부 공간도 넉넉하게 500ml 거뜬하게 들어갑니다. 넉넉한 용량으로 한번 들고나가면 하루 종일 먹을 수 있어서 좋아요.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔하게 생긴 원형의 디자인도 고급지고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "손에 잡히는 느낌도 좋습니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114451",
+    "RawText": "요즘 환경문제 때문에 플라스틱이나 일회용 많이 안 쓰고 카페 가도 머그컵에 주시잖아요.근데 또 코로나 이런 거 때문에 머그컵은 가끔 좀 찝찝할 때가 있어요. 깨끗이 닦기야 하겠지만 매번 컵을 소독하는 건 아닐 테니까요.그래서 나도 텀블러를 들고 다녀야겠다는 생각이 들어서 구매했어요.우선 외형디자인은 참 고급 지고 좋아요. 안에 담기는 용량도 넉넉해서 맘에 들어요 뚜껑 부분 이중 잠김 장치로 물 샐 염려 없어 보여서 안심이 됐습니다.카페 가서 텀블러에 달라고 하니 저도 안심되고 또 카페 안에서 다 못 마셔도 테이크아웃 부탁 안 하고 들고 나오면 되니환경보호도 하고 저도 편하고 정말 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "텀블러",
+    "ReviewScore": "5",
+    "Syllable": "332",
+    "Word": "86",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "우선 외형디자인은 참 고급 지고 좋아요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": "안에 담기는 용량도 넉넉해서 맘에 들어요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": " 뚜껑 부분 이중 잠김 장치로 물 샐 염려 없어 보여서 안심이 됐습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "카페 가서 텀블러에 달라고 하니 저도 안심되고 또 카페 안에서 다 못 마셔도 테이크아웃 부탁 안 하고 들고 나오면 되니환경보호도 하고 저도 편하고 정말 좋아요.",
+        "SentimentWord": "25",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114452",
+    "RawText": "텀블러 구매했는데 다양한 기능이 있어서 정말 신세계입니다.간단히 미숫가루 아침 대용으로 타먹으려 합니다. 혹시나 믹서 기능이 있는 텀블러라 고장 나면 어디서 고쳐야 하나 생각해는데무상 A/S 기간이 6개월이나 되네요. ㅎㅎ 그동안 잘 사용하면 앞으로도 별문제 없겠지요. 보통 제품 고장은 초반에 많이 나는 거 같아요.그리고 무엇보다 뭐든지 위생적인 면이 중요한데 세척할 때 고무패드 몸통 뚜껑.. 다 따로 분리가 돼서 세척하기 편하고 좋아요,아래쪽에 전기부 있는 쪽은 아무래도 조심해서 청소해 줘야 할거 같아요. 특별히 불편사항은 현재는 없네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "텀블러",
+    "ReviewScore": "5",
+    "Syllable": "305",
+    "Word": "72",
+    "RDate": "20221110",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "텀블러 구매했는데 다양한 기능이 있어서 정말 신세계입니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "세척할 때 고무패드 몸통 뚜껑.. 다 따로 분리가 돼서 세척하기 편하고 좋아요,",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114453",
+    "RawText": "아무래도 가전제품하면 OOO이 유명하잖아요. 그래서 무선 청소기를 고를 때도 브랜드를 중요시했는데 역시 이번에도 실망시키지 않았어요.브랜드 평판도 좋고 한국소비자원에서 미세먼지 제거 1위라고 하는 청소기니 뭐가 달라도 다르지 않을까 해서 사용했는데 흡입력이 좋아요. 커피가루 떨어진 것도 아주 잘 빨아들여서 깨끗해졌어요. 은근히 생활 속에서 자잘한 거 많이 흘리게 되는데 이 청소기 때문에 그 부분에 대한 걱정은 덜었네요.게다가 핸디형이랑 스틱형이랑 결합이라서 핸디형만 쓰면 1.2KG 밖에 안 나간다고 하더니 정말 가벼워요. 그래서 여자인 제가 들고 청소해도 손목 안 아프고 편해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "테팔 무선청소기 엑스퍼트 3.60 TY-6938KO",
+    "ReviewScore": "5",
+    "Syllable": "327",
+    "Word": "75",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "아무래도 가전제품하면 OOO이 유명하잖아요. 그래서 무선 청소기를 고를 때도 브랜드를 중요시했는데 역시 이번에도 실망시키지 않았어요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "흡입력이 좋아요. 커피가루 떨어진 것도 아주 잘 빨아들여서 깨끗해졌어요. 은근히 생활 속에서 자잘한 거 많이 흘리게 되는데 이 청소기 때문에 그 부분에 대한 걱정은 덜었네요.",
+        "SentimentWord": "25",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "핸디형만 쓰면 1.2KG 밖에 안 나간다고 하더니 정말 가벼워요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "그래서 여자인 제가 들고 청소해도 손목 안 아프고 편해요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114454",
+    "RawText": "청소기를 마루에서도 쓰고 침실방에서도 편하게 쓰기 위해서 듀얼 형태를 찾아다니다 발견한 제품이에요.핸디형은 작은방이나 테이블, 소파, 침대 등 청소할 때 사용하고요, 마루 등 넓은 바닥을 청소할 때는 스틱으로 결합시켜서 쓰고 있어요. 듀얼이니까 제가 편한 방법으로 핸디형도 썼다 스틱으로도 썼다 하니까 하나를 샀는데 두 개의 물건을 쓰고 있는 것 같아서 가성비가 좋아서 너무 만족스러워요.그리고 리튬이온 배터리를 장착했다고 하더니 충전하면 45분간 사용할 수 있어서 무선이 이 정도 시간을 쓸 수 있는 거면 나쁘지 않은 거 같아요. 충분히 잘 사용할 수 있는 괜찮은 제품이네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "테팔 무선청소기 엑스퍼트 3.60 TY-6938KO",
+    "ReviewScore": "5",
+    "Syllable": "323",
+    "Word": "80",
+    "RDate": "20221109",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "핸디형도 썼다 스틱으로도 썼다 하니까 하나를 샀는데 두 개의 물건을 쓰고 있는 것 같아서 가성비가 좋아서 너무 만족스러워요.",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "리튬이온 배터리를 장착했다고 하더니 충전하면 45분간 사용할 수 있어서 무선이 이 정도 시간을 쓸 수 있는 거면 나쁘지 않은 거 같아요. ",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114455",
+    "RawText": "이제 가지고 다니는 제품이 전자제품이 많아지면서 휴대용 배터리 하나 정도는 꼭 가지고 다녀야 갑작스러운 일에 낭패가 없더라고요.휴대하기 좋은 배터리를 찾다가 깔끔한 외관에 반해서 이 제품을 구매하게 됐어요.요즘에 배터리 팩이나 스마트폰이 폭발했다는 기사를 가끔 보게 되잖아요. 그런데 이 제품은 출력과 전류 보호장치나 출력과 전압 보호장치가 있어서 안전 문제에 있어서 걱정하지 않아도 될 거 같아서 안심하고 구매했어요.다만 요즘에는 8핀이나 C 타입 충전선 쓰는 제품이 많은데 5핀 잭을 같이 넣어주니 그런 부분은 요즘 시류에 안 맞고 실망스럽네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "템플러 보조 배터리 4종+사은품",
+    "ReviewScore": "3",
+    "Syllable": "307",
+    "Word": "74",
+    "RDate": "20221108",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "깔끔한 외관에 반해서 이 제품을 구매하게 됐어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "이 제품은 출력과 전류 보호장치나 출력과 전압 보호장치가 있어서 안전 문제에 있어서 걱정하지 않아도 될 거 같아서 안심하고 구매했어요",
+        "SentimentWord": "19",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "요즘에는 8핀이나 C 타입 충전선 쓰는 제품이 많은데 5핀 잭을 같이 넣어주니 그런 부분은 요즘 시류에 안 맞고 실망스럽네요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114456",
+    "RawText": "패드에 스마트폰에 가지고 다니는 전자제품도 많고 손목에 무리 가게 무거운 제품 가지고 다니고 싶지 않아서 적당히 괜찮은 휴대용 배터리팩을 찾다가 구입했어요.대용량 배터리팩은 고사양 스마트폰 충전할 때 편하긴 하지만 그만큼 무겁거든요. 5200 보조 배터리라면 웬만한 스마트폰 밤새 충전해서 쓰고 있기 때문에 진짜 위급할 때 말고는 집까지 돌아올 때까지 적당히 충전도 가능하고 무선 이어 잭 충전할 때도 이용 가능하고 저에게 적절한 배터리팩인 거 같아서 만족하고 사용하고 있어요.내구성도 좋고 급할 때 충전 포트가 두 군데라서 두 개 동시에 충전도 할 수 있어서 실용적이에요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "템플러 보조 배터리 4종+사은품",
+    "ReviewScore": "4",
+    "Syllable": "321",
+    "Word": "80",
+    "RDate": "20221108",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "배터리",
+        "SentimentText": "집까지 돌아올 때까지 적당히 충전도 가능하고 무선 이어 잭 충전할 때도 이용 가능하고 저에게 적절한 배터리팩인 거 같아서 만족하고 사용하고 있어요.",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "급할 때 충전 포트가 두 군데라서 두 개 동시에 충전도 할 수 있어서 실용적이에요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114457",
+    "RawText": "드럼세탁기 사용하다가 통돌이 세탁기 하나 더 구매했어요.아무래도 이불 빨래 대형으로 하기에는 통돌이 만한게 없는 것 같아요.설치도 금방 잘 해주시고 시운전도 해 보니 아주 마음에 쏙 듭니다. 설명서도 따로 읽지 않아도 작동법이 다른 세탁기들과 크게 다르지 않아 그냥 사용하기 쉽네요. 통돌이 세탁기를 사용하니 버블감이 아주 풍부한게 세탁하는 느낌이 그냥 마음에 훅 와 닿네요. 통돌이 세탁도 세탁코스가 꽤 디테일하게 설정되어 있어 드럼 세탁기와 크게 다른걸 못 느끼겠어요.일단 아주 만족스럽게 사용하고 새 전자제품이 오니 기분도 상쾌한게 밀린 빨래 하고 싶은 마음이 절로 드네요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "통버블 세탁기",
+    "ReviewScore": "4",
+    "Syllable": "324",
+    "Word": "80",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "작동법이 다른 세탁기들과 크게 다르지 않아 그냥 사용하기 쉽네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "통돌이 세탁도 세탁코스가 꽤 디테일하게 설정되어 있어 드럼 세탁기와 크게 다른걸 못 느끼겠어요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114458",
+    "RawText": "대용량 세탁기를 구매했더니 집에 있는 빨래는 다 빨 수 있을 것 같은 자신감이 막 생기네요. ㅋㅋ지금 갖고 있는 드럼 세탁기처럼 앞에서 뚜껑을 안 열고 위로 여니 컨트롤러가 뒤쪽에 있어서 약간 생소하긴 하네요.통돌이 세탁기가 찌든 때는 강력하게 잘 세탁한다고 해서 꽤 기대가 됩니다. 특히 드럼 세탁기 사용할 때는 전용 세탁조 사서 한달에 한번씩 통세척하는 것도 다 돈이였는데, 이거는 전용세제 넣지 않고 무세제통세척이 된다고 해서 아주 마음에 들어요.한달에 한번씩은 세탁기도 청소를 해줘야 깔끔하게 오래 쓴다고 하네요.그리고 4중 진동 저감 장치가 있다고 해서 밤에도 세탁할 수 있다고 하니 꼭 한번 밤에도 돌려봐야겠어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "통버블 세탁기",
+    "ReviewScore": "4",
+    "Syllable": "349",
+    "Word": "89",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "용량",
+        "SentimentText": "대용량 세탁기를 구매했더니 집에 있는 빨래는 다 빨 수 있을 것 같은 자신감이 막 생기네요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전용세제 넣지 않고 무세제통세척이 된다고 해서 아주 마음에 들어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114459",
+    "RawText": "집에 쓰던 세탁기가 오래되서 엄마가 세탁기 사고 싶어하셔서 이번에 구매하게 되었네요.매장에도 가보고 인터넷 검색도 많이 하다가 이 제품으로 사게 됐는데 나름 평이 좋아서 마음에 안심이 됩니다.통 전체가 다 스텐으로 되어 있다고 해서 깨끗하게 사용할 수 있을 것 같다는 생각이 들었어요.일시정지하고 세탁물을 중간에 더 집어 넣을 수 있다고 하니 그 점도 마음에 듭니다.아무래도 엄마가 사용하다보면 그런 일이 종종 생길거 같더라구요. 조작도 간편하니 세탁기 쓰면서 공부할 필요도 없을 거 같아요. 용량이 대형 이불은 안 될것 같은데 요즘 그렇게 큰 이불은 없으니 그렇게 문제가 되지는 않을 것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "생활/미용/욕실가전",
+    "ProductName": "통버블 세탁기",
+    "ReviewScore": "3",
+    "Syllable": "334",
+    "Word": "85",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": ".통 전체가 다 스텐으로 되어 있다고 해서 깨끗하게 사용할 수 있을 것 같다는 생각이 들었어요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "일시정지하고 세탁물을 중간에 더 집어 넣을 수 있다고 하니 그 점도 마음에 듭니다",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 조작도 간편하니 세탁기 쓰면서 공부할 필요도 없을 거 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "용량",
+        "SentimentText": " 용량이 대형 이불은 안 될것 같은데 요즘 그렇게 큰 이불은 없으니 그렇게 문제가 되지는 않을 것 같아요.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "0"
+      }
+    ]
+  }
+]

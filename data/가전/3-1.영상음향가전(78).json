@@ -1,0 +1,3532 @@
+[
+  {
+    "Index": "114772",
+    "RawText": "이틀간 써본 결과 OOO는 그저 그렇습니다. 기능 켜고 있다가 끄면 별 차이 없고, 끄고 있다가 켜면 느껴집니다.아무래도 큰 소리는 못잡아내고 작은 소리만 잡아내니 그럴 수밖에 없다고 생각합니다.배터리는 금방 다는 것 같아요. 하루 세 번정도 뺐다 꼈다 하면 본체 기기도 배터리 거의 다 되네요.하루 한 번 꼴로 충전해준다고 생각하면 될 것 같아요.OOO과 OOO 사이에 전환도 편하고 빠릅니다. 쓰고자 하는 기기에서 OOO 어플을 켜면 바로 연결해줍니다.기존에는 OOO 썼는데 OOO에 연결했다가 가방에 넣고 스마트폰에 연결하고 싶으면 가방에서 OOO 도로 꺼내서 블투 꺼줘야 했어요아쉬운 점은 OOO는 이어폰 자체에도 종료버튼이 있어서 배터리 관리가 더 효율적으로 되는 것 같은데, OOO는 본체에 넣어야만 꺼지네요. 이게 왜 중요하냐면 가끔씩 10분 정도만 써야하는 순간에는 100프로에서 90프로 사이로 쓰고 다시 본체에서 충전하게 될 텐데 이러면 충전효율이 굉장히 나빠서 본체의 배터리도 금방 방전됩니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성 갤럭시 버즈 프로 SM-R190N [ANC 블루투스 이어폰/블랙]",
+    "ReviewScore": "2",
+    "Syllable": "511",
+    "Word": "122",
+    "RDate": "20221119",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "이틀간 써본 결과 OOO는 그저 그렇습니다. 기능 켜고 있다가 끄면 별 차이 없고, 끄고 있다가 켜면 느껴집니다",
+        "SentimentWord": "17",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리는 금방 다는 것 같아요. 하루 세 번정도 뺐다 꼈다 하면 본체 기기도 배터리 거의 다 되네요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "OOO과 OOO 사이에 전환도 편하고 빠릅니다. 쓰고자 하는 기기에서 OOO 어플을 켜면 바로 연결해줍니다",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "충전효율이 굉장히 나빠서 본체의 배터리도 금방 방전됩니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114773",
+    "RawText": "디자인 자체는 완전 마음에 들어요... 완두콩 같은 느낌이라 좋네요. 귀에 꽂아놓으면 귓구멍에 쏙 들어가서 별로 불편하지도 않고 착용감이 넘 좋네요..! 다른 블루투스 이어폰 쓸 때는 마스크 끼고 벗을 때 걸리적거려서 불편했었는데 이거는 귓구멍 밖으로 거의 튀어나오지 않으니까 걸리적거리는 게 없어서 마음에 들어요. 근데 그 귓구멍 끼는 곳 소재가 플라스틱이라 오래 끼고 있으면 귀가 아파요... 조금 더 말랑 말랑한 재질이었으면 좋았을 텐데 아쉬운 부분이에요... 제가 귓구멍이 작은 편이라 더 쏙 들어가지 않아서 연골?이 아픈 거 같아요!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성 갤럭시 버즈 플러스 SM-R175N [커널형/화이트]",
+    "ReviewScore": "2",
+    "Syllable": "303",
+    "Word": "75",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 자체는 완전 마음에 들어요... 완두콩 같은 느낌이라 좋네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "귀에 꽂아놓으면 귓구멍에 쏙 들어가서 별로 불편하지도 않고 착용감이 넘 좋네요..!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이거는 귓구멍 밖으로 거의 튀어나오지 않으니까 걸리적거리는 게 없어서 마음에 들어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "소재가 플라스틱이라 오래 끼고 있으면 귀가 아파요... 조금 더 말랑 말랑한 재질이었으면 좋았을 텐데 아쉬운 부분이에요",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114774",
+    "RawText": "OOO 버전 쓰다가 신상 나와서 갈아탔어요~~ 그래서 기능적인 부분에서 엄청 난 업그레이드를 기대했는데... 음 그렇게 큰 변화는 없어서 살짝 돈이 아깝네용.... 소음 차단으로 음악에 집중할 수 있다는 특징이 가장 매력적이었는데 사실 그렇게 노이즈 캔슬링이 큰 장점으로 느껴지지 않아서 아쉬워요.. 통화 중에 소음 제거도 된다고 했는데, 뭔가 잡음이 제거된다기보다 그냥 목소리만 선명해지는 느낌? 기능적인 부분에서 1보다 좋아진 점이 없는 것 같아서 매우 아쉽네요... 착용감 자체는 가볍고 편안해서 마음에 들어요! 하지만 1버전 쓰고 계신 분들은 3까지 기다리는 것을 추천드립니다..",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성 갤럭시 버즈2 블루투스 이어폰 SM-R177N [라벤더]",
+    "ReviewScore": "2",
+    "Syllable": "328",
+    "Word": "77",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "OOO 버전 쓰다가 신상 나와서 갈아탔어요~~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "기능적인 부분에서 엄청 난 업그레이드를 기대했는데... 음 그렇게 큰 변화는 없어서 살짝 돈이 아깝네용....",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "노이즈 캔슬링이 큰 장점으로 느껴지지 않아서 아쉬워요.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "뭔가 잡음이 제거된다기보다 그냥 목소리만 선명해지는 느낌? 기능적인 부분에서 1보다 좋아진 점이 없는 것 같아서 매우 아쉽네요...",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "착용감 자체는 가볍고 편안해서 마음에 들어요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114775",
+    "RawText": "처음 택배로 받고 설치하고 테스트를 하는데 소리가 서라운드로 들린다는 느낌이 없어서 제품을 잘못 샀나 후회하고 있었는데 이런~~ 제품 설치시 왼쪽 오른쪽을 구별해서 설치해야 하는 걸 모랐네요. ^^ 설치라고 할 것도 없이 왼쪽 오른쪽 구별해서 자리 잡아주고 전원 코드 연결하고 집에 있던 서라운드 스피커에 연결하면 끝~~ 설치는 정말 쉬웠어요.  그런데 이런~~ 설치까지 겨우 잘 마루리 지었는데 소리를 키우면 쇠소리가 나는게 음질에 문제가 있네요. as에 문의하시 그렇게 소음이 생기는건 제품 하자라고 해서 교환 요청한 상태입니다. 처음부터 이런 불량품이라니 많이 속상하네요. ㅜㅜ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성 무선 리어스피커 SWA-9500S/KR",
+    "ReviewScore": "2",
+    "Syllable": "326",
+    "Word": "79",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "설치라고 할 것도 없이 왼쪽 오른쪽 구별해서 자리 잡아주고 전원 코드 연결하고 집에 있던 서라운드 스피커에 연결하면 끝~~ 설치는 정말 쉬웠어요",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "소음이 생기는건 제품 하자라고 해서 교환 요청한 상태입니다. 처음부터 이런 불량품이라니 많이 속상하네요. ㅜㅜ",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114776",
+    "RawText": "10년만에 이사를 하게 되면서 가전제품을 전체 바꾸게 되었습니다. 그중 하나인 티비가 얼마전에 이삿짐보다도 먼저 도착했네요. 전 벽걸이를 좋아하지 않아 그냥 스탠드형으로 구매했구요. 그런데 이 제품은 받침 다리가 얇아서 좀 약해보이는게 단점입니다. 티비가 큰거에 반해 다리가 너무 가늘고 약해보여서 한대 잘못치면 꼭 부러질것 처럼 생겼네요. 그리고 137cm 55형이면 화면 사이즈가 클거라고 생각했는데 아직 짐이 없는 집에 티비만 있어서 그런지 화면이 작아보이네요. 더 큰걸 구매할걸 그랬나봐요. 이제와서 후회해도 소용없지만 속상하네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성전자 QLED TV 138cm KQ55QA60AFXKR 스탠드형",
+    "ReviewScore": "2",
+    "Syllable": "301",
+    "Word": "68",
+    "RDate": "20221117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "받침 다리가 얇아서 좀 약해보이는게 단점입니다. 티비가 큰거에 반해 다리가 너무 가늘고 약해보여서 한대 잘못치면 꼭 부러질것 처럼 생겼네요",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "137cm 55형이면 화면 사이즈가 클거라고 생각했는데 아직 짐이 없는 집에 티비만 있어서 그런지 화면이 작아보이네요. 더 큰걸 구매할걸 그랬나봐요. 이제와서 후회해도 소용없지만 ",
+        "SentimentWord": "22",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114777",
+    "RawText": "귀가 예민한 편이라 사운드를 중요하게 생각하는데 이 제품은 너무 실망스럽네요. Q-Symphony 기능이 있고, 사운드출력이 20W라고 해서 어느 정도 기대를 하고 있었는데 막상 소리를 들어보니 사운드가 너무 빈약합니다. TV를 보다가 소리 때문에 이마가 찌푸려지네요. 화면 속 동작에 따라 움직이는 무빙사운드라더니 생동감은 전혀 느껴볼 수가 없네요. 블루투스 스피커나 사운드바를 추가로 구매해서 설치해야 제대로 TV를 볼 수 있을 것 같아요. 사이즈도 얇고 슬림해서 어느 공간에 놔둬도 잘 어울리고, 화질도 생생해서 TV 볼 맛이 나는 제품인데 너무 아쉬워요. 교환이나 반품 요청을 하기엔 귀찮기도 하고 전반적인 QLED 성능은 괜찮아서 빨리 스피커나 성능 좋은 녀석으로 구매해야겠네요. 처음 살 때 신중하게 구매할 걸 후회됩니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성전자 QLED TV 138cm KQ55QA60AFXKR 스탠드형",
+    "ReviewScore": "2",
+    "Syllable": "410",
+    "Word": "97",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "귀가 예민한 편이라 사운드를 중요하게 생각하는데 이 제품은 너무 실망스럽네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "Q-Symphony 기능이 있고, 사운드출력이 20W라고 해서 어느 정도 기대를 하고 있었는데",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "막상 소리를 들어보니 사운드가 너무 빈약합니다. TV를 보다가 소리 때문에 이마가 찌푸려지네요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "화면 속 동작에 따라 움직이는 무빙사운드라더니 생동감은 전혀 느껴볼 수가 없네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 얇고 슬림해서 어느 공간에 놔둬도 잘 어울리고,",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질도 생생해서 TV 볼 맛이 나는 제품인데",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "전반적인 QLED 성능은 괜찮아서",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114778",
+    "RawText": "나만의 라이프 스타일에 딱 맞는 TV로 사용하려고 구매했는데 무선 연결이 잘 안되다보니 멀티뷰로 화면을 분할해서 동시에 보는 것은 물론  다양하게 TV를 활용할 수 없고 네트워킹이 안돼서 업무도 볼 수가 없네요ㅠㅠ 화질도 흐릿해서 색감표현이 약한 부분이 있어서 짜증나네요. 사운드도 뭉개지는 소리가 나와서 정말 실망스럽네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성전자 QLED TV 138cm KQ55QA60AFXKR 스탠드형",
+    "ReviewScore": "2",
+    "Syllable": "181",
+    "Word": "43",
+    "RDate": "20221119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "무선 연결이 잘 안되다보니 멀티뷰로 화면을 분할해서 동시에 보는 것은 물론  다양하게 TV를 활용할 수 없고 네트워킹이 안돼서 업무도 볼 수가 없네요ㅠㅠ",
+        "SentimentWord": "22",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질도 흐릿해서 색감표현이 약한 부분이 있어서 짜증나네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "사운드도 뭉개지는 소리가 나와서 정말 실망스럽네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114779",
+    "RawText": "선배네 집에 있는 서브 TV를 보고 내 원룸에도 있으면 잘 어울리겠다고 생각해서 장만했습니다. 감각적인 디자인과 뛰어난 공간 활용성은 맞는 거 같습니다. 그래서 시선을 붙잡을 정도의 멋진! 디자인적으로 우수한 TV 입니다. 하지만 원룸에 메인 TV로 공간에 어울리는 적당한 크기를 찾던 저에게 이 TV의 기능성은 굳이 이러지 말고 태블릿 하나 가지고 있는게 낫지 않을까? 이 가격에 이걸 구입한 건 너무 사치스러운 물건을 들여다 놓은 게 아닐까... 후회가 되더라고요. 나중에 큰 집으로 이사 갈 때 제대로 된 큰 LED TV를 장만할 걸 그랬다는 후회와 함께 실망스러웠어요. 소리나 화질이 태블릿보다 좋은 건 맞지만 큰 TV와는 비교할 수 없을 것 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성전자 더 세로 KQ43LSB05BFXKR (스탠드)",
+    "ReviewScore": "2",
+    "Syllable": "369",
+    "Word": "96",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "감각적인 디자인과 뛰어난 공간 활용성은 맞는 거 같습니다. 그래서 시선을 붙잡을 정도의 멋진! 디자인적으로 우수한 TV 입니다",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "이 가격에 이걸 구입한 건 너무 사치스러운 물건을 들여다 놓은 게 아닐까... 후회가 되더라고요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리나 화질이 태블릿보다 좋은 건 맞지만 큰 TV와는 비교할 수 없을 것 같습니다. ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질이 태블릿보다 좋은 건 맞지만 큰 TV와는 비교할 수 없을 것 같습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114780",
+    "RawText": "거실 벽에 얇게 부착할 수 있는 TV라고 해서 구매했습니다.학원 벽에 붙이려고 구매했는데, 정말 얇고 액자처럼 TV 티가 안 날 정도네요~보기는 좋아요.그런데 사용해보니 액자 프레임이 선호도에 따라 디자인이나 공간에 어울리는 정도는 꽤 틀리다는 걸 느끼게 되요.심플한 프레임이라고 해도 프레임 자체에 색상이 있다보니 꽤 호불호가 생기는 것 같아요.보다 보니 조금 질리는 느낌도 있고, 그래도 집이 아닌 학원에 건 거라 크게 후회는 안 되지만 굳이 이 제품을 살 이유는 크게 없는 것 같습니다.얇고 벽에 딱 붙인다는 것 외에 큰 장점을 못 느끼겠어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "삼성전자 더 프레임 KQ55LSB03AFXKR",
+    "ReviewScore": "2",
+    "Syllable": "307",
+    "Word": "79",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "정말 얇고 액자처럼 TV 티가 안 날 정도네요~보기는 좋아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "프레임 자체에 색상이 있다보니 꽤 호불호가 생기는 것 같아요.보다 보니 조금 질리는 느낌도 있고",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114781",
+    "RawText": "집에서 영화보고 음악 들을때 사용하면 적당하겠다고 생각해서 구매한 제품이예요.. 그런데 스피커 전면이 패브릭 소재로 되어 있네요 ㅜㅜ 아이가 더러운 손으로 만져서 얼룩이 졌는데 얼룩이 지워지지 않아요 ㅠㅠ 방수기능이 있다고 해서 물로 닦았는데도 지워지지 않아 얼룩이 보기 싫네요.. 다른 소재로 만들어줬으면 좋았을텐데...그리고 NFC센서가 탑재되어 있어 스마트폰들은 간편하게 페어링 할 수 있어서 좋아요. 저는 다른 OS폰이 아니라 설정하는게 보통 어려운게 아니네요ㅠㅠ  섬세하게 확인하지 못한 제 실수라고 해야겠죠 ㅜㅜ 이 두가지를 빼면 모두 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "소니 SRS-XB31 무선 블루투스 스피커",
+    "ReviewScore": "2",
+    "Syllable": "312",
+    "Word": "71",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소재",
+        "SentimentText": "스피커 전면이 패브릭 소재로 되어 있네요 ㅜㅜ 아이가 더러운 손으로 만져서 얼룩이 졌는데 얼룩이 지워지지 않아요 ㅠㅠ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "방수기능이 있다고 해서 물로 닦았는데도 지워지지 않아 얼룩이 보기 싫네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "NFC센서가 탑재되어 있어 스마트폰들은 간편하게 페어링 할 수 있어서 좋아요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "저는 다른 OS폰이 아니라 설정하는게 보통 어려운게 아니네요ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114782",
+    "RawText": "배터리가 오래 가서 좋아요... 한번 충전하면 일주일은 거뜬하게 사용할 수 있어서 좋아요. 하루 평균 세 시간 넘게 사용한다고 해도 꽤 오래 가는 편이네요...! 습관적으로 충전하다보니까 방전 걱정할 필요는 없는 거 같습니다! 무엇보다 블루투스 연결이 잘 돼서 좋아요.., 연결 방법도 엄청 간편해서 좋구요. 블루투스 이어폰 쓰다가 귓구멍이 너무 아파서 헤드폰으로 갈아탄 건데 귀에 부담이 가지 않아서 좋은 거 같아요... 이어폰이랑 다르게 기계음이나 소음이 들리지 않아서 좋습니다... 스타일도 약간 간지나요... 조금 더 둥그런 모양이었으면 좋았을 텐데 싶은 아쉬움은 조금 남습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "소니 WH-XB900N 노이즈캔슬링 블루투스 무선 헤드폰",
+    "ReviewScore": "2",
+    "Syllable": "328",
+    "Word": "78",
+    "RDate": "20221114",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리가 오래 가서 좋아요... 한번 충전하면 일주일은 거뜬하게 사용할 수 있어서 좋아요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "블루투스 연결이 잘 돼서 좋아요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "연결 방법도 엄청 간편해서 좋구요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "귀에 부담이 가지 않아서 좋은 거 같아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "이어폰이랑 다르게 기계음이나 소음이 들리지 않아서 좋습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일도 약간 간지나요... 조금 더 둥그런 모양이었으면 좋았을 텐데 싶은 아쉬움은 조금 남습니다.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114783",
+    "RawText": "요즘 저희집 스피커 상태가 많이 좋지 않았어요 ㅠㅠ조만간 운명하실 듯하여빠르게 교체를 준비해야겠다 싶었습니다.저렴하면서도 이왕이면 아주 좋았으면 좋겠지만!역시 그런건 없나봐요 ㅠㅠ성능이 딱 저렴한 그만큼이더라구요...... ㅠㅠ풍부하고 실감나는 사운드까지는 아니더라구요 ㅋㅋ그냥 일반 스피커보다 초큼? 더 좋은 정도!블루투스 5.0 지원으로 스마트폰이나 태블릿, 노트북에서도이용할 수 있구요.모니터 밑에 두면 적당하니 괜찮아요.음질은 머..... 그냥저냥... 그럭저럭......생각했던만큼은 아니지만 크게 나쁘지는 않아요주변에 추천할거같지는 않아요 ㅎㅎㅎㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "스마텍 BT5.0 블루투스 사운드바 USB 유선 스피커 ST-BAR2000",
+    "ReviewScore": "2",
+    "Syllable": "312",
+    "Word": "55",
+    "RDate": "20221107",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "풍부하고 실감나는 사운드까지는 아니더라구요 ㅋㅋ그냥 일반 스피커보다 초큼? 더 좋은 정도",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "성능이 딱 저렴한 그만큼이더라구요...... ㅠㅠ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114784",
+    "RawText": "디자인이 너무 예뻐서 홀린 듯 구매했는데 생각했던 것보다 저렴한 느낌이 나서 아쉽네요... 특히 색상이 파스텔톤인 줄 알고 기대했는데 거의 원색에 가까울 정도로 어둑한 노랑색이라 어이없어 웃음까지 나오네요. 사진에 속지 마세요... 노이즈가 살짝 섞여나오는 게 너무 아쉬워요.... 음질도 깨끗하게 들리지 않아서 아쉽고 에코 기능이 있어서 그런지 살짝 울리면서 퍼지는 느낌이이라 나름 괜찮은 편이에요. 뭐 아무튼 볼룸 조절은 어렵지 않고 편해서 조절할 수 있고, 조작법도 어렵지 않아 설명서만 보면 바로 따라할 수 있어요! 블루투스도 버벅이지 않고 잘 잡혀서 바로 연결할 수 있어서 좋았답니당",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "스마텍 STMC-3000 블루투스 무선 마이크 파우치포함",
+    "ReviewScore": "2",
+    "Syllable": "331",
+    "Word": "81",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예뻐서 홀린 듯 구매했는데 생각했던 것보다 저렴한 느낌이 나서 아쉽네요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 파스텔톤인 줄 알고 기대했는데 거의 원색에 가까울 정도로 어둑한 노랑색이라 어이없어 웃음까지 나오네요. 사진에 속지 마세요",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "노이즈가 살짝 섞여나오는 게 너무 아쉬워요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 깨끗하게 들리지 않아서 아쉽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "에코 기능이 있어서 그런지 살짝 울리면서 퍼지는 느낌이이라 나름 괜찮은 편이에요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "볼룸 조절은 어렵지 않고 편해서 조절할 수 있고, 조작법도 어렵지 않아 설명서만 보면 바로 따라할 수 있어요!",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "블루투스도 버벅이지 않고 잘 잡혀서 바로 연결할 수 있어서 좋았답니당",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114785",
+    "RawText": "안녕하세요~ 블로그 포스팅 시작하겠습니다!이웃님들께서 제 후기를 참고하셔서 현명한 구매하시길 바랍니다~일단 구매하면 사은품으로 선반거치대가 오는데...음...개봉할 때부터 뭔가 쎄하더라구요... 혹시나했는데 역시나네요. 너무나도 내구성이 떨어지네요..차라리 이럴거면 안주시는 편이 좋을 것 같습니다.스트레오 스피커를 장착했다고는 하는데 음질이 좋은지 잘 모르겠습니다.. 별로 와닿지 않아요.그나마 디자인은 무난하니 괜찮습니다. 하지만 그렇다고 특별히 좋지도 않아요. 어차피 디자인은 타사도 다 거기서 거기니까요.조금 더 알아보셔서 더 좋은 제품 구매하시길....",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "스마트TV",
+    "ReviewScore": "2",
+    "Syllable": "314",
+    "Word": "58",
+    "RDate": "20221111",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": ".스트레오 스피커를 장착했다고는 하는데 음질이 좋은지 잘 모르겠습니다.. 별로 와닿지 않아요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 무난하니 괜찮습니다. 하지만 그렇다고 특별히 좋지도 않아요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114786",
+    "RawText": "최근에 휴대용 라디오 구입했어요!라디오를 즐겨 들으시는 부모님을 위해서 장만한 아이에요!일단 무게가 가벼워서 정말 휴대하고 다니기에 좋은 것 같아요~ 무거우면 아무래도 안들고 다니게 되자나요... 그냥 가방이나 겉옷 주머니에 넣고 다니면서 라디오 듣고 계시다고 해요!엄마가 말씀하시기를 건전지가 금방 닳는 느낌이라 아쉽다고 하시네요ㅠㅠㅠㅠ 건전지 매번 사서 끼워야 되는데 귀찮기는 한 것 같아요..디자인은 올드한 느낌이... 조금 더 예쁜 디자인이었으면 더 좋았을텐데 그 부분이 아쉬운 것 같아요. 약간 투박한 느낌이랄까요.....ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "시그널 휴대 라디오",
+    "ReviewScore": "2",
+    "Syllable": "299",
+    "Word": "65",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "일단 무게가 가벼워서 정말 휴대하고 다니기에 좋은 것 같아요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "건전지가 금방 닳는 느낌이라 아쉽다고 하시네요ㅠㅠㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "건전지 매번 사서 끼워야 되는데 귀찮기는 한 것 같아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 올드한 느낌이... 조금 더 예쁜 디자인이었으면 더 좋았을텐데 그 부분이 아쉬운 것 같아요. 약간 투박한 느낌이랄까요.....ㅠㅠ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114787",
+    "RawText": "디자인은 투박하고 뚱뚱해서 별로 마음에는 안 드네요. 모양이 마음에 안 들어서 엄마 쓰라고 드렸지만 CD 플레이어 뿐만 아니라 라디오도 들을 수 있어서 정말 좋아요. 오디오라고 하기에는 재질도 둔탁한 플라스틱이라 보기에 예쁘고 그렇지는 않아요. 그래도 왠만한 기본적인 기능들은 거의 갖춰져 있어 괜찮고 버튼도 전면에 다 노출되어 있어서 엄마는 사용하기는 편하다고 하시네요. 리모컨으로 작동하면 되니까 사용하기는 편한데 건전지 모드에서는 리모컨으로 전원이 안 켜지네요. 전원 분리하면 또 되고 품질이 하자가 있는거 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "아이리버 IA55",
+    "ReviewScore": "2",
+    "Syllable": "291",
+    "Word": "69",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 투박하고 뚱뚱해서 별로 마음에는 안 드네요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "CD 플레이어 뿐만 아니라 라디오도 들을 수 있어서 정말 좋아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "재질도 둔탁한 플라스틱이라 보기에 예쁘고 그렇지는 않아요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "왠만한 기본적인 기능들은 거의 갖춰져 있어 괜찮고",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "버튼도 전면에 다 노출되어 있어서 엄마는 사용하기는 편하다고 하시네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리모컨으로 작동하면 되니까 사용하기는 편한데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "건전지 모드에서는 리모컨으로 전원이 안 켜지네요. 전원 분리하면 또 되고 품질이 하자가 있는거 같아요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114788",
+    "RawText": "집에서 게임할 때 집에 있는 스피커가 최대치로 출력해도  잘 안들리더라구요..  아무래도 상태가 좋지 않은듯하여  새 스피커를 구매할까했지만.  이왕이면 사운드바가 낫지 않을까 싶어서 구매하게되었습니다.  부담스럽지 않으면서 자리는 많이 차지않으면서...  그런 측면에서 가성비는 나쁘지 않습니다.  저렴하기도 하고. 작아서 자리를 많이 차지하지도 않아요^^  그런데 딱 그만큼이더라구요 ㅋㅋㅋㅋㅋ  일단 많이 가볍습니다.  어차피 들고다닐건 아니라 이건 중요하지 않은거같구요.  소리는 스피커랑 뭐가 다른지 잘 모르겠어요 ㅋㅋㅋㅋㅋㅋ  그래도 사운드바라면 뭔가 영화관같은 그런 느낌일줄 알았는데  그 정도는 아니더라구요 ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "아이리버 IBS-300 USB 스테레오 사운드바",
+    "ReviewScore": "2",
+    "Syllable": "350",
+    "Word": "71",
+    "RDate": "20221106",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴하기도 하고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "작아서 자리를 많이 차지하지도 않아요 ^^",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리는 스피커랑 뭐가 다른지 잘 모르겠어요 ㅋㅋㅋㅋㅋㅋ  그래도 사운드바라면 뭔가 영화관같은 그런 느낌일줄 알았는데  그 정도는 아니더라구요 ㅎㅎ",
+        "SentimentWord": "18",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비는 나쁘지 않습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114789",
+    "RawText": "요즘 블루투스 무선 이어폰이 대세라 저도 그 대세 따라 무선 좀 쓰려고 해요  거리에 남녀노소 할 것 없이 사람들이 다들 무선 이어폰 끼었는데 엄청 멋있어 보이더라고요.  나의 첫 무선 이어폰~  깨끗하고 깔끔한 화이트라 착용했을 때 귀찌 낀 것처럼 너무 예뻐요. 디자인이 타원형으로 동글 동글한 게 정말 귀엽게 생겼는데 특히 여심을 저격하네요~  초경량이라 귀에 착용 시 불편한 점은 전혀 없지만 처음 페어링 할 때 연결이 잘 안돼서 몇 번을 시도했는지 모르겠네요. 간혹 노래 듣다가 블루투스가 자주 끊기는 현상도 있어서 하루에도 몇 번씩 다시 연결을 해요. 자주 이런 현상을 겪다보니 괜히 이 업체꺼 샀나 후회하기도 하고 이젠 잘 안듣게 되네요.  음질도 그리 좋은 편은 아니에요. 그냥 무난하게 들을 수 있을 정도예요.  뭐.. 사람들이 고해상도니 저음이니 뭐니 그런 건 솔직히 잘 모르겠고 확실히 음량은 높은거 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "아이리버 TWS 무선 스테레오 이어폰 마스터피스 IBE-H7",
+    "ReviewScore": "2",
+    "Syllable": "462",
+    "Word": "123",
+    "RDate": "20221111",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "깨끗하고 깔끔한 화이트라 착용했을 때 귀찌 낀 것처럼 너무 예뻐요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 타원형으로 동글 동글한 게 정말 귀엽게 생겼는데 특히 여심을 저격하네요~ ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "초경량이라 귀에 착용 시 불편한 점은 전혀 없지만",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "간혹 노래 듣다가 블루투스가 자주 끊기는 현상도 있어서 하루에도 몇 번씩 다시 연결을 해요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 그리 좋은 편은 아니에요. 그냥 무난하게 들을 수 있을 정도예요.  ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114790",
+    "RawText": "두께가 두껍고 사이즈가 큰 편이다보니 여기저기 옮기면서 쓸 엄두는 사실 잘 안 나요.. 그냥 한자리에 두고 리모컨 조정하면서 사용하고 있습니다.... 캠핑 갈 때 들고 가려고 산 건데 무거워서 절대 못 들고 다녀요. 휴대성이나 편의성 보고 사려고 하신 분들은 비추합니다.. 사이즈 확인을 제대로 못한 제 잘못이죠 뭐... 길이는 짧똥하니 귀엽습니다. 제품 하단에 삼각대랑 연결할 수 있는 결합 홈이 있어서 좋아요... 기능적으로 엄청 뛰어난 건 아니지만 이런 세세한 구성이 마음에 드네요.. 테이블이 없을 경우에 삼각대에 올려놓고 보면 되니까 공간 제약이 없어서 편해요!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "애니게이트 애니빔 빔프로젝터 FAD-450 [홈시네마/가정용 미니빔]",
+    "ReviewScore": "2",
+    "Syllable": "319",
+    "Word": "80",
+    "RDate": "20221111",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무거워서 절대 못 들고 다녀요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "길이는 짧똥하니 귀엽습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "제품 하단에 삼각대랑 연결할 수 있는 결합 홈이 있어서 좋아요...",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "휴대성이나 편의성 보고 사려고 하신 분들은 비추합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "기능적으로 엄청 뛰어난 건 아니지만",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "테이블이 없을 경우에 삼각대에 올려놓고 보면 되니까 공간 제약이 없어서 편해요!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "두께가 두껍고 사이즈가 큰 편이다보니 여기저기 옮기면서 쓸 엄두는 사실 잘 안 나요..",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114791",
+    "RawText": "이번에 이사를 하면서 서브 티비로 사용하기 위해 구매했습니다.스마트 티비를 이용하기 위해서 다른 브랜드에서 구매하려고 하면 가격의 2배는 더 줘야 하더라구요.그래서 중소기업 제품을 알아보다가 구매했습니다.아무래도 기존 TV 보다 화질은 확실히 낫습니다.인터넷 동영상 등 바로 이용가능한 것도 편합니다.다만, 자동 켜짐, 자동 꺼짐 기능이 없습니다. 아침에 자연스레 깨기 위해 사용했던 기능인데 없어서 당황했고 상당히 불편하네요.10년된 TV에도 있었고, 취침예약이나 스마트TV 기능 생각하면 넣기 어려운 기능은 아닐듯 한데 아주 아쉽습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "앤트웍스 AT-U4300SM (스탠드)",
+    "ReviewScore": "2",
+    "Syllable": "301",
+    "Word": "65",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "기존 TV 보다 화질은 확실히 낫습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "인터넷 동영상 등 바로 이용가능한 것도 편합니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "자동 켜짐, 자동 꺼짐 기능이 없습니다. 아침에 자연스레 깨기 위해 사용했던 기능인데 없어서 당황했고 상당히 불편하네요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114792",
+    "RawText": "대기업 제품도 3-4년 지나면 고장나더라구요. 고장나서 수리하려고 하면 수리비가 더 나오니 그냥 바꾸라는 소리를 듣고 중소기업 제품으로 구매했습니다.잘 받았어요. 택배 기사님이 친절하셨고 배송 잘 해놓으셨습니다.일단 스마트티비라 인터넷 동영상, OTT서비스 되서 좋구요 티비도 커서 좋네요.다만 셋탑박스가 UHD지원이아니라서 한계는있지만 셋탑문제니까 어쩔수 없는 부분이라 생각합니다.화면 반응속도는 빠르긴 하지만 변경하는 중간 사이가 매끄럽지못한 부분은 아쉽네요. 여기서 구매한 벽걸이브라켓 불량 양쪽 구멍위치 틀리니 벽걸이로 쓰실분은 구매를 비추합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "앤트웍스 AT-U4300SM (스탠드)",
+    "ReviewScore": "2",
+    "Syllable": "310",
+    "Word": "62",
+    "RDate": "20221119",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "스마트티비라 인터넷 동영상, OTT서비스 되서 좋구요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "티비도 커서 좋네요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "반응속도는 빠르긴 하지만 변경하는 중간 사이가 매끄럽지못한 부분은 아쉽네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114793",
+    "RawText": "이럴 줄 알았으면 돈을 조금 더 주고 괜찮은 걸 주문했을 거예요. 다양한 기능이 있다는 건 정말 장점이지만, 이 기능을 수용할 수 없는 내구성이라면 말이 다르지요.스탠드 형이라 디자인도 예쁘고 당연히 마감 처리도 잘 되어서 올 줄 알았는데 스탠드 수평이 안 맞네요. 도대체 어떻게 쓰라는 건지 모르겠어요. 수평이 안 맞아서 tv 볼 때마다 불편함을 느낍니다.친구들이 놀리기도 해요. 왜 화면이 삐뚤어졌냐고.. 혹시 화가 나서 tv를 치기라도 했냐고 말이에요. 웬만하면 계속 써보려고 했는데 이젠 한계네요. 당장 다른 걸로 바꾸려고요. 환불이 가능하면 좋겠네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "앤트웍스 AT-U4300SM (스탠드)",
+    "ReviewScore": "2",
+    "Syllable": "313",
+    "Word": "78",
+    "RDate": "20221121",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스탠드 형이라 디자인도 예쁘고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "당연히 마감 처리도 잘 되어서 올 줄 알았는데 스탠드 수평이 안 맞네요. 도대체 어떻게 쓰라는 건지 모르겠어요. ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114794",
+    "RawText": "모든 부분이 마음에 들긴 하는데요... 정말 디자인 때문에 사용하기가 싫습니다 ㅜㅜ친구한테 추천받아서 사용하고 있는 스피커입니다.. 친구 집 놀러 갔는데 음질이 너무 좋길래 어디 거냐고 물어봤었거든요.. 친구도 책상 아래쪽에 숨기고 사용하길래 왜인지 궁금했는데 역시나 디자인 때문이었던 것 같습니다...이거 상품평을 어떻게 써야 할지도 사실 잘 모르겠어요.. 음질은 정말 좋지만 디자인 때문에 점수가 다 깎인다고 할까요....?정말 애매합니다.. 그래도 저는 디자인을 많이 보는 사람이기 때문에 시간을 되돌린다면 구입을 하진 않을 것 같아요 ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "앱코 SP400",
+    "ReviewScore": "2",
+    "Syllable": "305",
+    "Word": "69",
+    "RDate": "20221121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "정말 디자인 때문에 사용하기가 싫습니다 ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질은 정말 좋지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질이 너무 좋길래 어디 거냐고 물어봤었거든요..",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 때문에 점수가 다 깎인다고 할까요....? 정말 애매합니다.. 그래도 저는 디자인을 많이 보는 사람이기 때문에 시간을 되돌린다면 구입을 하진 않을 것 같아요 ㅠㅠ",
+        "SentimentWord": "23",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114795",
+    "RawText": "사용해 보니 스피커는 음질이 전부가 아니라는 생각이 드네요.스피커 자체의 크기가 커서 시선을 끄는 게 있어요.. 근데 두께가 너무 두꺼워서 답답한 느낌을 줍니다.. 두꺼운 만큼 무게도 나가는 편이고요ㅜㅜ 원래 거실에다가 뒀었는데 지금은 방에 숨겨두고 사용을 해요.. 마감이 별로여서 그런지 스피커에 각이 있어서 다칠까 봐 걱정도 되고요...뭔가 애물단지가 하나 더 생긴 느낌이네요.. 음질은 좋지만 뭔가 애매해요...차라리 단조로운 디자인에 조금 더 얇은 스피커를 샀으면 이런 고민은 없었을 것 같은데.. 이미 구입한 이상 사용은 하겠습니다...ㅎㅎ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "앱코 SP400",
+    "ReviewScore": "2",
+    "Syllable": "307",
+    "Word": "71",
+    "RDate": "20221121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "근데 두께가 너무 두꺼워서 답답한 느낌을 줍니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "두꺼운 만큼 무게도 나가는 편이고요 ㅜㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감이 별로여서 그런지 스피커에 각이 있어서 다칠까 봐 걱정도 되고요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질은 좋지만",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114796",
+    "RawText": "역시 무선 충전이라 그런지 활용도가 높고 편리하네요.. 근데 무선 충전기랑 고속 충전기 특성상 발열이 엄청 심한 편인데, 이것도 가끔 그럴 때가 있어요... 처음에 폰이 너무 뜨거워져서 이거 그대로 꽂아놔도 되는 건가 싶을 때가 있었네요... 충전 안 돼도 괜찮으니 거치대만 사용할 수 있게 온 오프가 조절되었으면 좋겠어요... 물론 충전기 선을 빼면 되긴 하지만 그것도 그거 나름대로 되게 귀찮고 불편한 일 아니겠어요...? 꽂았다 뺐다 하는 게 여간 신경쓰이는 일이 아니다 보니 ㅠㅠ.... 그래도 제대로 작동이 잘 되고 단단하게 고정되어있어서 마음이 편해요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "얼티밋 반자동 그래비티 차량용 고속무선충전 거치대",
+    "ReviewScore": "2",
+    "Syllable": "314",
+    "Word": "79",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "역시 무선 충전이라 그런지 활용도가 높고 편리하네요..",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "무선 충전기랑 고속 충전기 특성상 발열이 엄청 심한 편인데, 이것도 가끔 그럴 때가 있어요... 처음에 폰이 너무 뜨거워져서 이거 그대로 꽂아놔도 되는 건가 싶을 때가 있었네요.",
+        "SentimentWord": "26",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "그래도 제대로 작동이 잘 되고 단단하게 고정되어있어서 마음이 편해요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114797",
+    "RawText": "코로나로 재택근무가 많아져서 블루투스 스피커겸 무선충전기를 알아보던중에 디자인도 심플하고 귀여운데다 시계 성능도 있어서 바로 마음에 들어서 구매했는데.. 물건을 받았는데 내구성이 많이 떨어진다ㅠㅠ시간도 잘 맞지 않고 휴대폰을 지탱하는 상단도 힘이 없고 대충 얹어 놓은것 같고 부실하다.어무래도 잘못 산듯해서 슬프다.. 신랑도 장난감 같다고 별로라고 하고.. 제품상세로 보았을땐 그런 단점은 안보이고엄청 예쁘고 귀엽기만 했는데.. 아무래도 사이트에서 사진을 엄청 잘 찍은것 같은데 사실 소비자 입장에서는예쁜 사진보다는 실사에 가까운게 제품 선택에 유용한데.. 다들 사진에 속지 마시길 바란다...이건 딸 방에 넣어주고 금액을 좀 더 주더라도 튼튼한 걸로 다시 사야겠다. 제 후기가 도움이 되길 바라며.. 이만 총총..",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "엑스트라 WCP-180 고속무선충전 겸용 탁상시계 스피커",
+    "ReviewScore": "2",
+    "Syllable": "400",
+    "Word": "90",
+    "RDate": "20221106",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내구성이 많이 떨어진다ㅠㅠ시간도 잘 맞지 않고 휴대폰을 지탱하는 상단도 힘이 없고 대충 얹어 놓은것 같고 부실하다.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "시간도 잘 맞지 않고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 심플하고 귀여운데다",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114798",
+    "RawText": "가격 하나만 보고 구입했는데 정말 초저가로 구입했어요. 치킨 한 마리 값도 안되는 가격입니다.사이즈는 찻잔 정도의 크기라 정말 작고 귀여우며, 무선이라 이동에 자유로워 편의성 또한 좋습니다. 제가 기계치라 복잡한 거 싫어하는데 설치와 설정 그런 거 전혀 할 필요도 없어요.스마트폰과 블루투스로 연결해서 바로 듣기만 하면 됩니다.바닥 부분에 전원과 재생, 볼륨 버튼이 있는데 눌렀을 때 터치감이 정말 좋아요.그런데 문제는... 스피커라면 음질이 좋아야 하는 거 아닌가요? 이 제품은 정말 들어주기 힘들 정도로 음질 상태가 최악입니다. 음량은 큰데 찢어지는 소리가 나서 굉장히 불편하고 노래 중단 시에도 이상한 잡음이 계속 들립니다. 확실히 저가 블루투스 스피커의 한계를 보여준 제품이네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "엠피지오 BT-MON /블루투스 스피커/핸즈프리/휴대용/미니무선/초소형/고출력/고음질",
+    "ReviewScore": "2",
+    "Syllable": "384",
+    "Word": "92",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈는 찻잔 정도의 크기라 정말 작고 귀여우며,",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무선이라 이동에 자유로워 편의성 또한 좋습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "바닥 부분에 전원과 재생, 볼륨 버튼이 있는데 눌렀을 때 터치감이 정말 좋아요.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "들어주기 힘들 정도로 음질 상태가 최악입니다",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114799",
+    "RawText": "엠프도 내장되어 있어 소리도 좋을 것 같아서 구매했어요.계속 고르다가 절대 선택 못 할 것 같아 상품평 많고 리뷰도 괜찮아서 주문하고 나니 속이 시원하네요.제품 받고 나서 개봉해서 설명서 보면서 조립하는데 설치도 간단해서 잘 사용 중입니다.소리는 괜찮은 것 같은데 진동 받침대가 앞에 보이는 면은 보기 좋은데 뒷쪽은 좀 부실해 보여요.톤암 거치대 부분에 톤암을 잡을 수 있는 장치가 없는 점도 조금 아쉬워요.그리고 바늘을 돌리다가 올리거나 내릴 때 시간이 조금 걸린다고 생각했는데, 이건 느끼는 정도의 차이인것 같네요.요즘은 워낙 보급형이 많아서 예전처럼 고급 턴테이블의 느낌은 아닌것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "오디오테크니카 AT-LP60X",
+    "ReviewScore": "2",
+    "Syllable": "332",
+    "Word": "82",
+    "RDate": "20221119",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "설명서 보면서 조립하는데 설치도 간단해서 잘 사용 중입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리는 괜찮은 것 같은데 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "톤암 거치대 부분에 톤암을 잡을 수 있는 장치가 없는 점도 조금 아쉬워요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114800",
+    "RawText": "얼마전부터 블루투스 스피커를 구매하려고 알아볼때 인터넷에 핫한 상품인거 같아서 구입결정했던 상품입니다.색상은 딥우드와 골든우드 두가지 예요, 화면으로 볼때 딥우드가 모던하고 빈티지 느낌이 나서 구입했는데 막상 받아보니 색상이 생각만큼 예쁘지 않네요. 그냥 밝은 골든 우드로 구입할걸 하는 후회가 되었어요.그외로 충전 케이블이 5핀이네요.. 요즘은 거의 C타입 충전기가 대세인데 호환이 안되다 보니 충전할때 좀 번거롭고 불현하네요. 이제는 C타입이 대세는 앞으로 만들때는 충전 케이블 타입을 바꿔 주면 좋을거 같아요.구매하시는 분들 참고하시라고 올려드려요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "오아 아이브릭 휴대용 블루투스 미니 스피커",
+    "ReviewScore": "2",
+    "Syllable": "309",
+    "Word": "67",
+    "RDate": "20221110",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "화면으로 볼때 딥우드가 모던하고 빈티지 느낌이 나서 구입했는데 막상 받아보니 색상이 생각만큼 예쁘지 않네요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "요즘은 거의 C타입 충전기가 대세인데 호환이 안되다 보니 충전할때 좀 번거롭고 불현하네요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114801",
+    "RawText": "무결점 TV라고 해서 믿고 구매했는데 아무래도 무결정이 아닌 것 같네요. 사용하는데 불편을 느낄 정도는 아니지만 자세히 보면 결점이 여러 군데 눈에 띕니다. 처음 구매했을 때는 괜찮았는데 사용하다가 결점이 생길 수도 있는 거지, 제가 미처 발견을 못 한 건지 모르겠지만 기분 나쁘네요. 게다가 이젤형 거치대라고 해서 별도로 구매했는데 아무래도 튼튼함이 없어보이네요. 잘못 해서 건드리면 엎어질 것 같아서 마음이 불안 불안합니다. 보기엔 인테리어 감각이 있어보이고 예쁜데, 조금만 더 신경써서 만들어주셨으면 좋았을 것 같아요. 괜찮은 제품인데 많이 아쉽네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "유맥스 109cm 스마트 UHD TV / Ai43 [스탠드 자가설치]",
+    "ReviewScore": "2",
+    "Syllable": "311",
+    "Word": "75",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "내구성",
+        "SentimentText": " 이젤형 거치대라고 해서 별도로 구매했는데 아무래도 튼튼함이 없어보이네요. 잘못 해서 건드리면 엎어질 것 같아서 마음이 불안 불안합니다",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "보기엔 인테리어 감각이 있어보이고 예쁜데",
+        "SentimentWord": "5",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114802",
+    "RawText": "유명 블로거가 추천하는 제품이라 믿고 구매했습니다. 박스를 개봉하고 실물을 보니 화면으로 본 것 보다 더 멋져 보이네요. 그런데 제가 기계치라 그런지 전 세팅하는 게 너무 어려웠네요.  TV 전원을 연결한 후 화면에 표시되는 여러 메뉴?를 보니 겁부터 덜컥 나더라고요. 설명서가 있지만 꼼꼼하지 않아서 어떻게 해야할지 머리가 하얗게 변하는 것 같았어요. 스마트 TV가 기능이 많지만 다양한 기능을 사용하지 않는다면 굳이 스마트 TV를 구매할 필요가 없는 것 같습니다. 그냥 전 TV 기능만 충실하면 됐는데 여러 복잡한 기능이 있으니 사용하기만 불편하고 조작이 안 될 때마다 짜증이 나네요. 속상합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "유맥스 109cm 스마트 UHD TV / Ai43 [스탠드 자가설치]",
+    "ReviewScore": "2",
+    "Syllable": "336",
+    "Word": "84",
+    "RDate": "20221119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 실물을 보니 화면으로 본 것 보다 더 멋져 보이네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "제가 기계치라 그런지 전 세팅하는 게 너무 어려웠네요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "설명서가 있지만 꼼꼼하지 않아서 어떻게 해야할지 머리가 하얗게 변하는 것 같았어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "여러 복잡한 기능이 있으니 사용하기만 불편하고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114803",
+    "RawText": "OTT 서비스 때문에 어쩔 수 없이 스마트 TV를 구매하게 되었어요. 전 어차피 지상파 방송만 봐도 상관없는데 ㅋㅋㅋ 남편이 너무 졸라서 구매했습니다. 써 보니 좋긴 한데. 이게 여러 서비스를 종료도 안 하고 사용하다보니 느려지는건 아닌가 걱정도 되네요. ○○○ 휴대폰 느낌이 들어요. 아마 아직 오래 안 써 봐서 괜한 걱정을 하나 봅니다. 현재까지는 사용하는데 큰 이산 없고 화면도 65인치라 아주 큰 건 아니지만 적당하게 커서 예전보다 시원한 화면을 보니 나름 괜찮은거 같아요. 화질이 그렇게 좋은지는 모르겠지만 고화질로 제작된 프로그램 볼 때는 꽤 차이를 느낄 정도로 좋아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "이스트라 쿠카 UC65QLED SMART THE META",
+    "ReviewScore": "2",
+    "Syllable": "325",
+    "Word": "84",
+    "RDate": "20221116",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면도 65인치라 아주 큰 건 아니지만 적당하게 커서 예전보다 시원한 화면을 보니 나름 괜찮은거 같아요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질이 그렇게 좋은지는 모르겠지만 고화질로 제작된 프로그램 볼 때는 꽤 차이를 느낄 정도로 좋아요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114804",
+    "RawText": "친구와 함께 차박 휴가를 가면서 구매하게 되었습니다.배송 받고 구성품이 깔끔하니 휴대하기 좋게 짜여 있어서 아주 기분이 좋았어요.그런데 차박가서 설치했더니 일단 자석으로 된 후크를 설치하기에는 한계가 좀 있구요.차 트렁크의 높이를 고려해야 하니 그 부분이 사실 스크린의 길이와 맞지 않는 제 차의경우는 (좌우개폐) 아주 난감했습니다.다음으로 시약각이 좋다는 부분이 있었는데, 실제로 사용해보니 스크린의 뒤틀림이나 흔들림이 있어서 영화를 보면서 바람이 불거나 하면 너무 많이 흔들립니다.차 밖이 아닌 차 안에서만 사용해야 할 것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "조이코스 차박 스크린 60인치 JB-S60W + 보관가방",
+    "ReviewScore": "2",
+    "Syllable": "299",
+    "Word": "69",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "제품구성",
+        "SentimentText": " 구성품이 깔끔하니 휴대하기 좋게 짜여 있어서 아주 기분이 좋았어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "차 트렁크의 높이를 고려해야 하니 그 부분이 사실 스크린의 길이와 맞지 않는 제 차의경우는 (좌우개폐) 아주 난감했습니다",
+        "SentimentWord": "17",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114805",
+    "RawText": "블루투스가 되는 스피커라고 해서 구입했는데 조작법이 너무 어렵습니다.제가 나이가 좀 있어서 안 그래도 기계 사용하는 데 어려움을 많이 겪는데 스피커 하나 조작 못할 줄은 몰랐어요.그래도 이전에 사용하는 스피커는 버튼 하나 누르면 바로 블루투스 연결이 되었는데 이건 뭔가 복잡하네요..아들이 오기 전까지 사용을 못 한다는 게 정말.. 짜증이 나네요....... 제가 음악 듣는 걸 얼마나 좋아하는데요..그래도 디자인이 예뻐서 마음에 듭니다.. 보기만 해도 기분이 좋아지네요. 기대하라는 뜻으로 알고 조금 더 기다리겠습니다.. 감사합니다..",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "캔스톤 S9BT",
+    "ReviewScore": "2",
+    "Syllable": "300",
+    "Word": "68",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작법이 너무 어렵습니다.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "이전에 사용하는 스피커는 버튼 하나 누르면 바로 블루투스 연결이 되었는데 이건 뭔가 복잡하네요..",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "그래도 디자인이 예뻐서 마음에 듭니다..",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114806",
+    "RawText": "게임할 때 마이크가 필요해서 구매했는데 엄청 마음에 들어요... 음성 채팅할 때 선명하게 전달되는 거 같아서 마음에 드네요... 전에 친구랑 같이 게임하는데 왜 이렇게 크게 말하냐고 난리였어요.. 그냥 평소 내는 소리 크기만큼 냈는데 제가 말하는 크기보다 더 크게 전달이 되는 것 같더라고요! 그런 기능적인 부분에서는 굉장히 만족스러워요.. 다만 색상이 너무 별로예요.레드가 이렇게까지 쨍하고 빨간 색상일 줄은 몰랐네요. 이 컬러감만 아니었다면 백점짜리 제품이었을 텐데... 하지만 색깔은 게임에 큰 영향을 미치지 않으니 꽤 만족하면서 사용하고 있습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "클리프 게이밍 헤드셋(레드)/음성채팅 마이크헤드셋",
+    "ReviewScore": "2",
+    "Syllable": "310",
+    "Word": "73",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 음성 채팅할 때 선명하게 전달되는 거 같아서 마음에 드네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상이 너무 별로예요.레드가 이렇게까지 쨍하고 빨간 색상일 줄은 몰랐네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114807",
+    "RawText": "기계음이 같이 전달되는 게 아쉽네요... 퀄리티가 엄청 높은 제품은 아닌 거 같아요.... 스타일을 따지기에는 디자인이 너무 별로예요... 하지만 그냥 기능적인 부분에서 듣고 말하고 하는 기본적인 기능은 다 갖추고 있으니 나름 만족스럽게 사용하고 있습니다.... 방전을 걱정할 필요가 없는 선 헤드셋이긴 한데, 블루투스에 익숙해져있어서 선으로 연결된 게 좀 불편하게 느껴질 때가 있네요... 그렇지만 블루투스는 블루투스 나름대로 불편했을 테니 어쩔 수 없는 일이라고 생각합니다~~ 휴대하기나 착용하기는 편하지만 활용도가 높은 편은 아니예요... 선을 연결할 구멍이 많지 않아가지고! 그 부분을 감안해야 합니다~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "클리프 게이밍 헤드셋(블루)/pc 게임용 마이크헤드셋",
+    "ReviewScore": "2",
+    "Syllable": "342",
+    "Word": "77",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소음",
+        "SentimentText": "기계음이 같이 전달되는 게 아쉽네요...",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "퀄리티가 엄청 높은 제품은 아닌 거 같아요....",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스타일을 따지기에는 디자인이 너무 별로예요... ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "하지만 그냥 기능적인 부분에서 듣고 말하고 하는 기본적인 기능은 다 갖추고 있으니 나름 만족스럽게 사용하고 있습니다....",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "방전을 걱정할 필요가 없는 선 헤드셋이긴 한데, 블루투스에 익숙해져있어서 선으로 연결된 게 좀 불편하게 느껴질 때가 있네요...",
+        "SentimentWord": "17",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "휴대하기나 착용하기는 편하지만",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "활용도가 높은 편은 아니예요... 선을 연결할 구멍이 많지 않아가지고! 그 부분을 감안해야 합니다~~",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114808",
+    "RawText": "제가 태어나서 구입한 것 중에 가장 후회가 되는 스피커입니다..원래 스피커에 욕심이 없었는데.. 이번에 한 번 좋은 거 사볼까 해서 구입했다가 이렇게 후회를 하게 되네요.원래부터 스피커에 관심이 없는 분은 굳이 이거 사지 말고 다른 저렴한 거 구입하세요.저는 스피커가 좋은지 안 좋은지 구별이 잘 안가네요. 음질도 다른 스피커랑 뭐가 다른지 모르겠어요 ㅋㅋ그냥 그래요ㅠㅠ..디자인은 예쁜데 좁은 집에 세워놓으니 집이랑 안 어울리는 것 같기도 하고...저한테 과분한 물건을 샀다는 생각이 드네요.. 많이 사용하지도 않을 것 같아서 고민이 됩니다.. 정말 음악 좋아하시는 분만 사세요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "클립쉬 레퍼런스 프리미어 RP-8000F (정품)",
+    "ReviewScore": "2",
+    "Syllable": "324",
+    "Word": "78",
+    "RDate": "20221121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 다른 스피커랑 뭐가 다른지 모르겠어요 ㅋㅋ그냥 그래요ㅠㅠ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인은 예쁜데",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114809",
+    "RawText": "유명 브랜드 스피커라고 추천받아서 구입했는데 실망이네요.설치하는 방법이 까다로워서 반나절을 스피커 연결하는데 써서 마음에 안들어요 연결 방법이 이렇게까지 까다로와 여러 사람 힘들겠는데요. 주말을 날려먹은 것 같아 기분이 좋지 않습니다..색상도 저희 집이랑은 안 어울려요. 그냥 어두운색이면 무난하게 잘 어울리겠지 했는데 플로어 스탠드 스피커 색만 동동 뜨는 느낌이랄까요..?아직 음악을 들어보지는 않았지만 연결 방법이랑 색상 때문에 만족스럽지는 않네요. 조금 더 써봐야지 장점을 발견할 수 있을 것 같아요.. 지금으로써는 별 두 개만 드리겠습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "클립쉬 레퍼런스 프리미어 RP-8000F (정품)",
+    "ReviewScore": "2",
+    "Syllable": "306",
+    "Word": "68",
+    "RDate": "20221121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "설치하는 방법이 까다로워서 반나절을 스피커 연결하는데 써서 마음에 안들어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색상도 저희 집이랑은 안 어울려요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114810",
+    "RawText": "안녕하세요~ 블로그 이웃님들! 반가워요~프로젝터 리뷰 포스팅으로 돌아왔습니다!원래 3년 정도 쓰던 프로젝터가 있었는데 더 좋은 화질로 즐겨보고 싶어서 구매하게 됐어요!FHD 해상도로 화질이 정말 끝내줍니다!! 왜 더 빨리 바꾸지 않았을까 후회더라고요...ㅠㅠ 너무 좋습니다~아이들도 프로젝터로 애니메이션 보여주면 정말 좋아해요~ 육아템으로도 강추합니다!가격대비 성능이 아주 좋습니다..!! 부담스럽지 않아요~무게는 조금 있는 편입니다. 완전 깃털만큼 가볍지는 않지만 그래도 너무 무거운 건 아니라서 그렇게 불편하지는 않습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "프로젝터",
+    "ReviewScore": "2",
+    "Syllable": "294",
+    "Word": "58",
+    "RDate": "20221118",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "FHD 해상도로 화질이 정말 끝내줍니다!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "가격대비 성능이 아주 좋습니다..!! ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "완전 깃털만큼 가볍지는 않지만 그래도 너무 무거운 건 아니라서 그렇게 불편하지는 않습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114811",
+    "RawText": "안녕하세요~ 블로그 이웃님들! 프로젝터 리뷰 포스팅으로 돌아왔습니다!원래 기존에 쓰던 프로젝터가 있었는데 고장나는 바람에 이번에 구입하게 되었습니다! 몇 번 써보고 느꼈던 점을 중심으로 써볼게요~가격대비 화질좋고 핸드폰 무선 미러링 지원되는 기능 있어서 편리해요! 소음이 있는 점이 아쉽네요...그래서 거슬릴 수 있는 점 미리 말씀드릴게요..ㅠㅠ그리고 가장 실망스러웠던 점이 포장을 풀었는데 외관에 스크래치가 나있어 속상했어요ㅠㅠ 중고도 아니고 새 제품을 샀는데 너무 속상하더라구요...반품하기 귀찮아서 그냥 쓰려구요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "프로젝터",
+    "ReviewScore": "2",
+    "Syllable": "289",
+    "Word": "60",
+    "RDate": "20221118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "가격대비 화질좋고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "핸드폰 무선 미러링 지원되는 기능 있어서 편리해요!",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "소음이 있는 점이 아쉽네요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "외관에 스크래치가 나있어 속상했어요 ㅠㅠ ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114812",
+    "RawText": "어떤 제품이든 마감이나 품질이 좋아야 한다고 생각해요.근데 이 티비는  마감이 썩 좋지 않아 아쉬워요 겉 모서리 부분 마감이 매끄럽지 않아서 셀프 설치하려고 옮기다가 손에 생채기가 날뻔 했네요ㅠㅠ그리고 그래서 그런지 내구성도 좀 떨어지는 느낌이라  불만족스러워요.생채기가 난 것 같아 놀라서 티비를 쥐고 있던 손을 놓쳤는데 정말 한 8센치정도 위 정도에서 놓친건데 눈에 확 보이게 금이 확 간 거 있죠...?ㅜ 화면쪽을 떨어뜨린것도 아니고 그냥 티비 뒷편을 떨어뜨린건데 화면에는 왜 금이 간건지...원래 티비가 기본적으로 다 내구성이 좋지 않은 건가요? 일단 불만족스러워서 별점 낮게 답니다...",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "프리즘 140cm UHD 스마트 TV / PTI55UL",
+    "ReviewScore": "2",
+    "Syllable": "333",
+    "Word": "80",
+    "RDate": "20221119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 마감이 썩 좋지 않아 아쉬워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "내구성도 좀 떨어지는 느낌이라  불만족스러워요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114813",
+    "RawText": "휴대용 헤드폰 사용해보고 만족스러워서 이어폰도 구매했는데, 블루투스 스피커만큼 만족스럽다는 생각은 들지 않는 거 같네여... 무엇보다 블루투스 이어폰은 배터리가 생명인데 배터리가 너무 빨리 닳아서 귀찮아요. 충전이 자주 필요하니까 신경 쓸 곳이 많아지네요... 얼마 안 됐는데도 이렇게 불편한데 더 쓰면 뭐할까 싶어서 손이 안 가네요ㅠㅠㅠ... 휴대가 용이하다는 건 좋지만 사용 시간이 짧으니 만족도가 반으로 뚝 떨어지는건 어쩔 수가 없어요ㅠ 요즘 이동할 때는 이어폰 사용이 필수인데 갑자기 노래가 뚝 끊어져 버리면 엄청 난감하지 않겠냐고요...",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "플레오맥스 PBE-01 무선 블루투스 이어셋 5.0 초경량 이어폰 스테레오 고음질 사운드",
+    "ReviewScore": "2",
+    "Syllable": "305",
+    "Word": "71",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "배터리",
+        "SentimentText": " 블루투스 이어폰은 배터리가 생명인데 배터리가 너무 빨리 닳아서 귀찮아요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "휴대가 용이하다는 건 좋지만 ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "사용 시간이 짧으니 만족도가 반으로 뚝 떨어지는건 어쩔 수가 없어요ㅠ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114814",
+    "RawText": "디자인이 너무 아쉬워요... 색상 문제인가 싶기도 하네요... 뭔가 원단 자체가 단단하지 않고 물렁이는 스타일이라 금방 헤질 듯한 느낌도 들고그러네요... 색상도 선택지가 조금 더 다양했으면 좋았을 텐데 단일색상인게 좀 아쉬웠어요.. 더 아쉬운 건 노이즈가 들린다는 거예요~~~ 끼고 있으면 잡음이 자꾸 섞여 들리네요... 노이즈 캔슬링을 기대한 건 아니지만 그렇다고 노이즈를 기대한 것도 아니다 보니 사용하는데 불편한 느낌이 울컥울컥 드네요. 그래도 전체적으로 봤을 때 완전 사용하기 구린 정도는 아니예요... 일반적인 헤드셋 정도는 되니까 그냥 그렇저럭 쓴다 정도? 살짝 붊만족이 섞인 ㅎ;",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "플레오맥스 PBH-500 블루투스헤드셋 5.0 유무선 AUX T플래시메모리 접이식 휴대용",
+    "ReviewScore": "2",
+    "Syllable": "332",
+    "Word": "78",
+    "RDate": "20221121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 아쉬워요... ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": " 색상도 선택지가 조금 더 다양했으면 좋았을 텐데 단일색상인게 좀 아쉬웠어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "더 아쉬운 건 노이즈가 들린다는 거예요~~~ 끼고 있으면 잡음이 자꾸 섞여 들리네요...",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114815",
+    "RawText": "이번에 구매한 제품은 블루투스 스피커입니다. 구매해서 사용한지는 약 두달정도 되어 가네요. 우선 보기에도 디자인이 독특하죠..  처음 보자 마자 디자인이 너무 이뻐서 다른 건 제대로 비교도 안하고 구매한 제품이네요. 집안 어디에 놔도 우리집 인테리어를 한단계 상승시켜 주는 것 같아요.  그런데 내구성이 좀 약하긴 해요. 7살 우리 아들이 장난감을 갖고 놀다 던진게 스피커에 맞았는데 찢어져 버렸어요 ㅜㅜ 심하지 않아서 살짝 안보이게 돌려서 사용중인 상태이네요. 그리고 무선으로 지원하는데 설명서에는 8시간 까지 배터리가 간다고 하는데 그정도까지 오래 가지는 못하는거 같아요. 한번 완충하고 아침에 음악 연결해서 틀어놓으면 오후쯤 벌써 방전이 되서 아쉬워요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "하만카돈 ONYX STUDIO 5 블루투스 스피커",
+    "ReviewScore": "2",
+    "Syllable": "367",
+    "Word": "87",
+    "RDate": "20221117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 이뻐서 다른 건 제대로 비교도 안하고 구매한 제품이네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "그런데 내구성이 좀 약하긴 해요. ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "한번 완충하고 아침에 음악 연결해서 틀어놓으면 오후쯤 벌써 방전이 되서 아쉬워요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114816",
+    "RawText": "마이크 가동 범위가 적어서 아쉬워요... 움직이면서 조절하기는 좋은데 뭔가 움직이는 범위가 좁으니 세밀하게 조정하기가 어렵게 느껴진다고 할까요? 유연한 길이 조절이 가능하긴 한데... 편하게 움직이는 건 아닙니다... 크기가 큰 편은 아닌데 이어커프가 두꺼워서 그런지 무게가 좀 나가는 편이에요.. 들고 있으면 일단 묵직한 느낌이 제일 먼저 들고요... 귀에 끼고 있으면 처음에는 딱히 못 느끼지만... 시간이 지날수록 조금 불편하다는 느낌이 들 정도의 무게? 그렇다고 돌덩이를 얹은 듯한 느낌까지는 아닌데 지금까지 써오던 헤드셋에 비해서는 좀 무거운 편인 거 같아요... 정확한 중량은 잘 모르겠습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "하이메이드 7.1채널 게이밍 헤드셋 HIMGHP-S002 [유선]",
+    "ReviewScore": "2",
+    "Syllable": "338",
+    "Word": "79",
+    "RDate": "20221114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "마이크 가동 범위가 적어서 아쉬워요... ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "크기가 큰 편은 아닌데 이어커프가 두꺼워서 그런지 무게가 좀 나가는 편이에요.. 들고 있으면 일단 묵직한 느낌이 제일 먼저 들고요",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114817",
+    "RawText": "요번에 친구들과 펜션으로 여행 가기로 해서 그때 사용하려고 구입했어요.. 이 마이크는 스마트폰, 태블릿, 노트북, tv에도 블루투스로 연결할 수 있어 실용적이예요 AUX 연결로 차 스피커로도 연결이 되네요. 너 정말 친화력 갑이구나. 연결 안하는 친구들이 없네 ㅋㅋ 그래서 어느 곳에서나 사용할 수 있어서 좋아요.그런데 전원 키고 앱이랑 연결해서 원하는 반주가 나오기까지 좀 시간이 걸려요. 제품에 약간 버퍼링이 있다고 할까.. 한 20-30초 정도.. 좀 더 빨리 연결되면 좋겠어요. 그게 건의하고 싶은 사항이네요.나머지는 무난하게 사용할수 있는 제품입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(1+1세트) TJ 태진 블루투스 마이크 / 무선 노래방 마이크",
+    "ReviewScore": "3",
+    "Syllable": "313",
+    "Word": "73",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": " 이 마이크는 스마트폰, 태블릿, 노트북, tv에도 블루투스로 연결할 수 있어 실용적이예요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "앱이랑 연결해서 원하는 반주가 나오기까지 좀 시간이 걸려요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114818",
+    "RawText": "화면크기를 좀 더 클 걸 샀다고 생가갛고 후회를 조금 했어요..물론 지금 온 티비도 화면 크기가 많이 작은 것은 아닌데 제가 계산했던 사이즈에서 조금 미스가 있어서 인테리어를 마음에 쏙 들게 할 수가 없어서 아쉬웠네요ㅠㅠ근데 이건 제 잘못이라서 어쩔수 없는 것 같아요ㅋㅋㅋㅜㅜ그리고 조작법이 조금 어려워서 적응하는 데에 좀 오래 걸렸네요..힘들었어요 ㅠ .스마트 티비를 처음 사용해봐서 그런지 리모컨 버튼들도 새로운 버튼들이 있고 자꾸 제가 원하던 거랑 다른 걸 누르게 되어서 정신이 없었네요.근데 지금은 적응이 된 것 같아서 나름 잘 쓸 수 있을 것 같기도 해요..! 무난무난하네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(1등급)삼성 QLED 4K TV 138cm(55형) KQ55QT67AFXKR+삼성사운드바",
+    "ReviewScore": "3",
+    "Syllable": "327",
+    "Word": "83",
+    "RDate": "20221119",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "지금 온 티비도 화면 크기가 많이 작은 것은 아닌데 제가 계산했던 사이즈에서 조금 미스가 있어서 인테리어를 마음에 쏙 들게 할 수가 없어서 아쉬웠네요ㅠㅠ",
+        "SentimentWord": "23",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "조작법이 조금 어려워서 적응하는 데에 좀 오래 걸렸네요..힘들었어요 ㅠ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114819",
+    "RawText": "기존에 사용하던 티비가 액정이 나가버렸어요. 웬만하면 액정만 수리해서 다시 사용해 보려고 했는데 수리비가 너무 많이 들어서 그 돈이면 그냥 새로 사자하는 마음으로 구입하게 된 티비입니다. 실물로 보지 않고 인터넷으로 구입하다 보니 그냥 65형이라고 해서 기존보다 더 큰거라 더 크겠거니 생각했는데 막상 집에 설치하고 보니 배젤이 얇아져서 그런제 별로 커보이지 않네요. 이럴줄 알았으면 더 큰 사이즈로 구매할걸 후회가 됐어요. 티비의 생명은 화질인데 화질은 진짜 좋아요. 색상도 선명하고 깨끗해서 티비를 보고 있으면 과장 조금 붙여서 제가 티비안으로 간 느낌이네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(1등급)삼성 QLED 4K TV 163cm(65형) KQ65QT67AFXKR",
+    "ReviewScore": "3",
+    "Syllable": "315",
+    "Word": "77",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "배젤이 얇아져서 그런제 별로 커보이지 않네요. 이럴줄 알았으면 더 큰 사이즈로 구매할걸 후회가 됐어요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "티비의 생명은 화질인데 화질은 진짜 좋아요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114820",
+    "RawText": "부모님댁 티비가 진짜 옛날옛적에 사용하던 배불뚝이 브라운 티비였어요. 티비 바꿔드린다고 해도 아직 고장도 안나고 사용할만 하다고 극구 사양하시더니 이번에 드디어 고장이 났다는 연락을 하시네요. 그날 바로 구매해서 시골로 보내드린 티비예요. 부모님은 시골분들이라 티비 크기를 보더니 전기세 많이 나올까봐 엄청 걱정하셔서 1등급이라 전기세 걱정없을거라고 말씀드렸더니 엄청 좋아하시네요. ^^ 그런데 리모컨이 예전에 숫자 누르던 리모컨이 아니라 부모님이 리모컨 사용법이 힘들어 하셨어요. 다행이 IPTV리모컨이 같이 사용이 되어서 사용하고 계시다고 하면서 티비 리모컨은 서랍속에 넣어놓았다고 하시네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(1등급)삼성 QLED 4K TV 163cm(65형) KQ65QT67AFXKR",
+    "ReviewScore": "3",
+    "Syllable": "333",
+    "Word": "72",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": " 1등급이라 전기세 걱정없을거라고 말씀드렸더니 엄청 좋아하시네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "리모컨이 예전에 숫자 누르던 리모컨이 아니라 부모님이 리모컨 사용법이 힘들어 하셨어요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114821",
+    "RawText": "부모님 댁에서 독립해서 집을 얻으면서 이것 저것 살림살이를 나름 새로 장만하기 시작했어요. 그중 제1호로 구매한 살림살이가 이 티비입니다. 제 취미가 여유시간에 영화보거나 예능보는 걸 주로 하는 편이거든요. 작은 아파트라 65형으로 샀는데도 거실을 가득 채우는 크기라서 너무 마음에 들어요. 영화 볼때 특히 좋을거 같아서 만족합니다. 그런데 거실이 작아서 그런지 티비를 밤 늦게까지 보고 있으면 티비에서 열기가 느껴지네요 ㅜㅜ 이제까지 이렇게 가까이에서 티비를 볼일이 없어서 잘 몰랐는지 우리집 티비가 유독 그런건지 발열감이 심한거 같아 걱정이네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(1등급)삼성 QLED 4K TV 163cm(65형) KQ65QT67AFXKR",
+    "ReviewScore": "3",
+    "Syllable": "307",
+    "Word": "73",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "65형으로 샀는데도 거실을 가득 채우는 크기라서 너무 마음에 들어요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "우리집 티비가 유독 그런건지 발열감이 심한거 같아 걱정이네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114822",
+    "RawText": "요즘 최신식 티비는 가격이 너무 비싸서 연식있어도 티비 시청에는 별 문제 없겠다는 생각으로 이 상품을 구입했는데 이런~ 제조도 2020년에 제조한 상품이네요 이정도면 재고품 처리로 기분이 나쁘네요. 그리고 1등급 QLED 라면 압도적인 화질에 전기세 부담을 낮췄다고 하던데 이 티비로 바꾸고 나서 전기세가 더 많이 나오고 있네요.. 1등급 제품인지 의심이 가고 있어요. 그래도 화질은 정말 좋아요. 예전에 사용하던 티비는 화면에 노이즈도 있었는데 이건 화면이 깨끗하고 선명하게 나와서 화질만 보면 완전 만족입니다.  구매하시는 분들 참고하시라고 남겨요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(1등급)삼성 QLED 4K TV 163cm(65형) KQ65QT67AFXKR",
+    "ReviewScore": "3",
+    "Syllable": "308",
+    "Word": "73",
+    "RDate": "20221116",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": " 제조도 2020년에 제조한 상품이네요 이정도면 재고품 처리로 기분이 나쁘네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": " 티비로 바꾸고 나서 전기세가 더 많이 나오고 있네요.. 1등급 제품인지 의심이 가고 있어요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화면이 깨끗하고 선명하게 나와서 화질만 보면 완전 만족입니다",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114823",
+    "RawText": "티브이를 새로 사게 되어 이렇게 후기 남깁니다.광시야각 패널을 사용한다고 해서 TV를 어디에서 보든 색 변화없이 잘 보인다는 점이 마음에 들었습니다.집이 대가족이라서 벽 쪽에 앉은 사람들은 잘 보이지 않을까 걱정했는데 어디서나 잘 보이는 것 같아서 한 시름 놓았습니다.그리고 낮은 해상도의 영상이 재생될 경우 자동으로 고해상도로 변환해주는 기능이 있다고 해서 굉장히 기대를 했는데 기대했던 만큼은 아닌 것 같습니다.여전히 화질이 깨지는 영상이 종종 나오는 것 같아서 조금 아쉽네요.그래도 보는 데에는 큰 이상이 없어서 그냥저냥 만족하는 바입니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(55형)이노스 UHD 넷플릭스 5.1 스마트 TV(S5502KU)+TV선반 거치대",
+    "ReviewScore": "3",
+    "Syllable": "305",
+    "Word": "73",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "광시야각 패널을 사용한다고 해서 TV를 어디에서 보든 색 변화없이 잘 보인다는 점이 마음에 들었습니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "어디서나 잘 보이는 것 같아서 한 시름 놓았습니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "낮은 해상도의 영상이 재생될 경우 자동으로 고해상도로 변환해주는 기능이 있다고 해서 굉장히 기대를 했는데 기대했던 만큼은 아닌 것 같습니다.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "여전히 화질이 깨지는 영상이 종종 나오는 것 같아서 조금 아쉽네요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114824",
+    "RawText": "색상이 두 가지라 선택하는데 고민을 좀 많이 했습니다... 하지만 역시 화이트가 진리라고 생각해서 화이트를 구매했는데 완전 만족스럽습니다!!! 크기는 큰 편이라 옮겨다니면서 쓰기에는 말도 안 되고요...ㅋㅋㅋ 무게감이 있다 보니까 혼자 인테리어 하는데 좀 애를 먹었습니다~~ 그래도 스타일이 좋으니 방 한편이 밝아지는 느낌이 들어요... 음질도 나쁘지 않고 작동도 잘 되는 편이에요... 다만 아쉬운 건 볼륨 조절이 세밀하게 되지 않는다는 점이었네요... 볼륨을 한칸만 줄이려고 했는데 두칸 커지는 느낌이고... 두칸 줄이려고 하는데 세칸 줄여진 느낌이고... 조금 더 세밀하게 줄일 수 있었으면 좋았겠다 싶어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "(방송중 3만원할인_5/7~) 사운드룩 올인원 턴테이블 SLT-5080PRO (블랙/화이트",
+    "ReviewScore": "3",
+    "Syllable": "343",
+    "Word": "79",
+    "RDate": "20221114",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "색상",
+        "SentimentText": "역시 화이트가 진리라고 생각해서 화이트를 구매했는데 완전 만족스럽습니다!!! ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기는 큰 편이라 옮겨다니면서 쓰기에는 말도 안 되고요...ㅋㅋㅋ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감이 있다 보니까 혼자 인테리어 하는데 좀 애를 먹었습니다~~ ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 나쁘지 않고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "다만 아쉬운 건 볼륨 조절이 세밀하게 되지 않는다는 점이었네요...",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114825",
+    "RawText": "일단 보기보다 무거워서 당황했어요!상자형으로 되어 있길래 오히려 들기 편하지 않을까 해서 샀는데 무게 자체가 무거우니까 상자형이어도 드는 데에 크게 도움은 안되더라구요ㅠㅠ여자들이 들고 다니면서 이동하기에는 조금 손목에 무리가 갈 것 같은 제품입니다..이 점이 정말 아쉬웠어요ㅠㅠ그리고 상자형이라서 그런지 두께 자체도 조금 두꺼운 편이라서 미용상으로는 그리 좋지 않았던 것 같아요.물론 턴테이블이 노래만 잘 나오면 된다고 생각할 수도 있지만 생긴 것도 중요하다고 생각해서 아쉬움이 많이 남네요.그래도 다른 기능적인 면에 있어서는 문제되는 부분은 전혀 없었습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "[GPO] 버뮤다 파스텔 빈티지 턴테이블(RED, BLUE)",
+    "ReviewScore": "3",
+    "Syllable": "313",
+    "Word": "70",
+    "RDate": "20221121",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "여자들이 들고 다니면서 이동하기에는 조금 손목에 무리가 갈 것 같은 제품입니다.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "상자형이라서 그런지 두께 자체도 조금 두꺼운 편이라서 미용상으로는 그리 좋지 않았던 것 같아요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114826",
+    "RawText": "어머니 생신 선물로 턴테이블을 구매했는데 사용법이 간단해서 좋았어요!아무래도 나이가 있으시다 보니까 사용법이 복잡하면 많이 힘들어하시는데 이 턴테이블은 아주 딱 간단하고 명료하게 사용법이 나와있다 보니까 작동하는 데에 굉장히 편해하시더라구요!근데 색이 생각보다 더 요란해서 조금 당황했어요ㅜ파스텔톤이라고 했는데 저와 저희 어머니가 느끼시기에는 조금 더 원색과 같은 느낌이 들어가있어서 좀 촌스러워 보이는 느낌이 들기도 했습니다.그래도 이런 색 좋아하시는 분들도 있을 테니까 그냥 개인의 취향에 따른 거라고 생각해야겠어요! 저희는 조금 아쉬웠습니다 ㅜㅜ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "[GPO] 버뮤다 파스텔 빈티지 턴테이블(RED, BLUE)",
+    "ReviewScore": "3",
+    "Syllable": "308",
+    "Word": "67",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "어머니 생신 선물로 턴테이블을 구매했는데 사용법이 간단해서 좋았어요!",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "이 턴테이블은 아주 딱 간단하고 명료하게 사용법이 나와있다 보니까 작동하는 데에 굉장히 편해하시더라구요!",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "색이 생각보다 더 요란해서 조금 당황했어요ㅜ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "조금 더 원색과 같은 느낌이 들어가있어서 좀 촌스러워 보이는 느낌이 들기도 했습니다",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "이런 색 좋아하시는 분들도 있을 테니까 그냥 개인의 취향에 따른 거라고 생각해야겠어요! 저희는 조금 아쉬웠습니다 ㅜㅜ",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114827",
+    "RawText": "디자인이 너무 예뻐서 구매하게 된 턴테이블이에요!엘피판 모으는 걸 좋아해서 언젠가는 꼭 턴테이블을 사야지 생각하고 있었는데 이렇게 예쁜 턴테이블을 사니까 인테리어용도 되는 것 같고 마음이 풍족해지는 것 같더라구요!근데 다른 턴테이블들에 비해서는 기능적인 면이 좀 부족한 것 같아서 아쉬웠어요ㅜ다른 부가적인 기능들이 많은 제품들이 요즘 출시되고 있던데 이건 정말 딱 엘피판 재생만의 역할만 수행하는 것 같더라구요..그래도 원래부터 엄청난 기능을 바라고 산 턴테이블은 아니었어서 이정도면 괜찮나 하는 생각도 들어요! 첫 턴테이블 치고는 나름 잘 사용할 수 있는 평범한 제품인 듯 합니다~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "[GPO] 잼 레트로 엔틱 영국 LP턴테이블",
+    "ReviewScore": "3",
+    "Syllable": "326",
+    "Word": "77",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 너무 예뻐서 구매하게 된 턴테이블이에요!",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "다른 턴테이블들에 비해서는 기능적인 면이 좀 부족한 것 같아서 아쉬웠어요ㅜ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114828",
+    "RawText": "리모컨을 사은품으로 주신다고 했는데 고장난 리모컨을 주신 것 같아서 조금 황당했어요.티비가 고장났으면 또 바로 연락해서 교환이라도 할 텐데 사은품이 고장이 나니까 어떻게 바로 뭐라고 하기에도 좀 그렇고…애매했네요.일단은 그냥 원래 집에 있던 리모컨으로도 사용이 가능하길래 이걸로 그냥 사용하려구요. 근데 검수를 제대로 안 해주셔서 이렇게 고장난 사은품이 온 것 같아서 그 점은 좀 실망스럽습니다…그래도 화질은 4k 화질을 써서 그런지 눈이 맑아지는 그런 느낌을 받으며 감상할 수 있어서 그 점은 만족했어요. 선명한 고화질을 원하시는 분이라면 이 티비를 사시면 되지 않을까 생각합니다!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "[카레나] 124cm UHD TV KF49NCUHDT(J)",
+    "ReviewScore": "3",
+    "Syllable": "326",
+    "Word": "78",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "리모컨을 사은품으로 주신다고 했는데 고장난 리모컨을 주신 것 같아서 조금 황당했어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질은 4k 화질을 써서 그런지 눈이 맑아지는 그런 느낌을 받으며 감상할 수 있어서 그 점은 만족했어요",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "검수를 제대로 안 해주셔서 이렇게 고장난 사은품이 온 것 같아서 그 점은 좀 실망스럽습니다…",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "선명한 고화질을 원하시는 분이라면 이 티비를 사시면 되지 않을까 생각합니다!",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114829",
+    "RawText": "부팅속도가 빠른 편인 것 같아서 나름 괜찮은 것 같아요..!사실 엄청 빠른 건 아닌데 제가 뭐 티비로 중용한 작업을 하는 것도 아니고 그냥 해봤자 아침 뉴스 볼 때만 켜는 편이라서 이 정도면 보통이라고 생각합니다.사실 제가 음향과 관련된 직업군에 있다 보니까 음질이 조금만 떨어져도 상당히 예민하게 받아들여지는데 완전 깨끗하고 군더더기 없는 사운드를 지원하고 있지는 않더라구요…!   음향 부분이 조금 아쉽지만 그냥 여가생활을 할 때 쓰는 거니까 이 정도면 괜찮네요. 가격 대비 무난한 제품이라고 생각해요!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "[카레나] 124cm UHD TV KF49NCUHDT(J)",
+    "ReviewScore": "3",
+    "Syllable": "283",
+    "Word": "71",
+    "RDate": "20221121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "부팅속도가 빠른 편인 것 같아서 나름 괜찮은 것 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음향 부분이 조금 아쉽지만 그냥 여가생활을 할 때 쓰는 거니까 이 정도면 괜찮네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114830",
+    "RawText": "재택 근무하면서 노트북과 모니터 연결하려고 구매했습니다.모니터나 노트북 바뀔 때마다 연결하느라 고생했는데, 이제 이거 하나 샀으니 아주 편하게 연결할 수 있겠어요.설명서를 좀 읽어보기는 해야 하구요.컴퓨터를 하나도 모르면 설명서 읽으면서 하더라도 설정하는데 시간이 조금 걸릴 듯 합니다..좀 어렵네요ㅠ.그래도 한 번 설정하고 나면 그 다음에는 쉬우니 너무 어렵게 생각안하고 한 번 써 볼 만합니다.아주 편리하거든요.저는 지금 업무적으로만 쓰고 있지만, 콘솔게임기나 DVD 플레이어 등 다양한 출력 장치들을 모두 연결해서 더 편하게 사용할 것 같아요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "4K HDMI 2.0 양방향 선택기",
+    "ReviewScore": "3",
+    "Syllable": "307",
+    "Word": "70",
+    "RDate": "20221113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "조작성",
+        "SentimentText": "컴퓨터를 하나도 모르면 설명서 읽으면서 하더라도 설정하는데 시간이 조금 걸릴 듯 합니다..좀 어렵네요ㅠ.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": ".그래도 한 번 설정하고 나면 그 다음에는 쉬우니 너무 어렵게 생각안하고 한 번 써 볼 만합니다.아주 편리하거든요.",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114831",
+    "RawText": "동작 속도가 빨라서 좋아요...  연결이 쉽고 잘 되는 편이라 마음에 들어요 부팅이 아주 잘 되네요...! 조작하기에도 어렵지 않고, 대표 기기만 있다면 사용하는데 불편함은 없을 듯 싶네요... 음질도 생각보다 깨끗하고 맑은 편이에요.... 기계음이 살짝 섞여 들리는 경우도 있었는데.... 이건 아주 조금 뿐이고 실제로는 소음이나 소리 없이 녹음이 되니까 편리하고 실용적인 거 같네요.. 무게감도 전혀 느껴지지 않고 옷에 매달고 있어도 부담이 가지 않아서 좋아요. 다만 핀이 약해서 옷에 걸어두면 짜꾸 아래로 밀려내려가는 게 아쉽네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "ASMR 방송용 녹음용 유튜버 핀마이크 삼성/LG스마트폰 C타입 스마트폰 M31-C",
+    "ReviewScore": "3",
+    "Syllable": "300",
+    "Word": "72",
+    "RDate": "20221121",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "동작 속도가 빨라서 좋아요...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 연결이 쉽고 잘 되는 편이라 마음에 들어요 부팅이 아주 잘 되네요...! 조작하기에도 어렵지 않고, 대표 기기만 있다면 사용하는데 불편함은 없을 듯 싶네요...",
+        "SentimentWord": "22",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질도 생각보다 깨끗하고 맑은 편이에요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "소음이나 소리 없이 녹음이 되니까 편리하고 실용적인 거 같네요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게감도 전혀 느껴지지 않고 옷에 매달고 있어도 부담이 가지 않아서 좋아요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "핀이 약해서 옷에 걸어두면 짜꾸 아래로 밀려내려가는 게 아쉽네요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114832",
+    "RawText": "여러 상품을 비교하고 다양한 리뷰들을 참고해서 구매했는데마감상태가 약간 실망스럽네요 ㅠㅠ 뒤에 틈이 살짝 벌어진 상태에서 왔어요. 생각보다 사이즈도 커서 모니터 옆에 두고 사용하려고 하니 조금 부담스럽습니다.다른 분들은 사이즈를 잘 체크하고 구매하시면 좋을 것 같아요.음질은 너무 괜찮습니다. 영화 볼 때 묵직한 소리로 심장을 때리는 것 같다는 느낌이 들 때가 있네요 ㅋㅋ다른분들도 마감상태가 엉망이라는 리뷰가 종종 있더라구요.구매하실 분들은 감안하시고 리뷰들 참고하셔서 구매하시면 좋을 것 같아요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "BonoBoss BOS-H1",
+    "ReviewScore": "3",
+    "Syllable": "279",
+    "Word": "63",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "마감상태가 약간 실망스럽네요 ㅠㅠ 뒤에 틈이 살짝 벌어진 상태에서 왔어요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 커서 모니터 옆에 두고 사용하려고 하니 조금 부담스럽습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질은 너무 괜찮습니다. 영화 볼 때 묵직한 소리로 심장을 때리는 것 같다는 느낌이 들 때가 있네요 ㅋㅋ",
+        "SentimentWord": "17",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114833",
+    "RawText": "전에 사용하던거는 같은 브랜드였어요. 그 브랜드를 오래 써서 믿고, 후기보고 구매했는데 개인차가 큰거 같아요.소리가 그렇게 크지도않고 볼륨을 높임 째지는 소린 어쩔수 없어요..음질 안좋아요...하지만 가성비 생각함 그냥 일반적으로 사용하기엔 나쁘지않아요.영화나 음악감상용으롱 비추네요.검은색일줄 알고 구매했는데 화이트가 와서 당황스러웠지만 깔끔하고 세련된 느낌이 있어서 괜찮네요.자주 보니 적응이 되서그런지 나쁘지 않은 것 같습니다.오프라인보다는 합리적인 가격이지만 저는 아쉬움이 남는 소비인 것 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "Britz 브리츠인터내셔널 BA-R9 (블랙)",
+    "ReviewScore": "3",
+    "Syllable": "283",
+    "Word": "56",
+    "RDate": "20221120",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": ".소리가 그렇게 크지도않고 볼륨을 높임 째지는 소린 어쩔수 없어요..음질 안좋아요...",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "검은색일줄 알고 구매했는데 화이트가 와서 당황스러웠지만 깔끔하고 세련된 느낌이 있어서 괜찮네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "오프라인보다는 합리적인 가격이지만 저는 아쉬움이 남는 소비인 것 같습니다.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114834",
+    "RawText": "기본적으로 신뢰하는 브랜드의 스피커라 오래된 스피커 치우고 새로 장만해야 할 때 그래도 이 회사 제품이지... 하고 구매했어요. USB포트를 사용하는 충전방식은 어디서나 편하게 충전할 수 있다는 점에서 장점이더라고요. 야외에서도 보조 배터리와 함께 사용할 수 있고 언제 어디서든 충전하기 좋아서 집에서는 컴퓨터와 함께 사용하나 야외 나갈 때 챙겨 가서 캠핑할 때 사용하기에도 안성맞춤인 그런 제품입니다. 다만 처음 쓸 땐 안 그랬는데 요 근래에 스피커에서 지지직 소리가 자꾸 나네요. 원인은 잘 모르겠지만 제가 아직 3개월을 채 안 썼는데 벌써 이런 잡음이 난다는 것은 너무 실망스럽습니다. 스피커의 생명은 음질이잖아요. 그런데 벌써 이렇게 음질 문제가 생기다니요! 처음 답변 주신 것처럼 위치 변경 등 해보았지만 해소가 되지 않네요. 처음 물건 받아서 사용했을 때의 마음에서 많이 실망스러운 마음으로 후기 남깁니다. 이상으로 내돈내산 찐후기 였습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "Britz 브리츠인터내셔널 BZ-SL10",
+    "ReviewScore": "3",
+    "Syllable": "477",
+    "Word": "117",
+    "RDate": "20221113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "배터리",
+        "SentimentText": "USB포트를 사용하는 충전방식은 어디서나 편하게 충전할 수 있다는 점에서 장점이더라고요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "근래에 스피커에서 지지직 소리가 자꾸 나네요. 원인은 잘 모르겠지만 제가 아직 3개월을 채 안 썼는데 벌써 이런 잡음이 난다는 것은 너무 실망스럽습니다.",
+        "SentimentWord": "22",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114835",
+    "RawText": "블루투스 턴테이블 CD USB 라디오 모두 잘 작동하는지 확인하고 부속품도 꼼꼼이 잘 살펴봤는데 다 잘되고 좋은 제품 잘 받은 것 같아요.소리 볼륨은 꽤 크게 나오고 음량도 풍부한거 같은데 음질은 그닥 좋다는 느낌은 안드네요.스테레오가 아닌 것 같은 그런 소리가 납니다. 그냥 간단하게 집에서 음악 틀어놓는 용도로는 괜찮을 거 같지만 좋은 음질을 중요시하거나 음악에 조애가 깊은 분들은 만족하지 못 할 것 같아요.그래도 별도로 엠프나 패시브 스피커 연결하면 극복할 수 있을 것 같긴 합니다.저는 집에 보유하고 들은 지 오래되는 CD들 들으려고 한거라 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "Britz 브리츠인터내셔널 BZ-TP070 SNT",
+    "ReviewScore": "3",
+    "Syllable": "314",
+    "Word": "80",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "모두 잘 작동하는지 확인하고 부속품도 꼼꼼이 잘 살펴봤는데 다 잘되고 좋은 제품 잘 받은 것 같아요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리 볼륨은 꽤 크게 나오고 음량도 풍부한거 같은데 음질은 그닥 좋다는 느낌은 안드네요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114836",
+    "RawText": "손이 잘 안가요. 정말 예쁜 스피커인데 왜 손이 잘 안 갈까요?디자인도 예쁘고 음질도 좋습니다! 손이 잘 안 가는 이유는 매번 블루투스 연결을 하기가 힘들어서 그런 것 같아요. 처음 조작법은 쉬웠는데 연결을 할 때마다 또 조작을 해야 하니 불편합니다.스피커를 키면 바로 연결이 되는 그런 기능이 있으면 참 좋을 것 같아요. 바로바로 사용하기 어렵고 조금 마음을 먹고 사용해야 한다는 점이 불편하게 느껴지네요.그래도 제품 자체는 나쁘지 않습니다. 스피커 좋아하는 분이라면 한 번쯤 구입해서 사용하셔도 무관할 것 같아요. 무난하게 사용하기 좋습니다",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "Britz 브리츠인터내셔널 Z2200 Cheek",
+    "ReviewScore": "3",
+    "Syllable": "304",
+    "Word": "77",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인도 예쁘고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 음질도 좋습니다!",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "손이 잘 안 가는 이유는 매번 블루투스 연결을 하기가 힘들어서 그런 것 같아요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "처음 조작법은 쉬웠는데 연결을 할 때마다 또 조작을 해야 하니 불편합니다",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114837",
+    "RawText": "안녕하세요! 이웃님들~ 이번 포스팅은 이어폰 리뷰입니다!한 달 정도 사용해보고 나서 전체적인 사용 후기에 대해서 말씀드릴게요~ --장점--1. 무게가 가벼워서 휴대용으로 좋아요~2. 서큘레이터랑 핸디선풍기까지 챙겨주셔서 아주 잘 사용하고 있습니다! 아주 실용적이에요~3. 가성비가 좋아요!--단점--1. 블루투스 인식이 가끔 잘 안될때가 있어서 답답하네요...ㅠㅠ2. 다른 컬러를 선택하고 싶었는데 컬러가 한정적이어서 아쉬워요....한 달 사용후기였고 조금 더 사용해보고 더 구체적인 정보 공유할 수 있도록 할게요~!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "EER FREE 블루투스 이어폰",
+    "ReviewScore": "3",
+    "Syllable": "289",
+    "Word": "57",
+    "RDate": "20221110",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 가벼워서 휴대용으로 좋아요~",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "서큘레이터랑 핸디선풍기까지 챙겨주셔서 아주 잘 사용하고 있습니다! 아주 실용적이에요~",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비가 좋아요!--",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "블루투스 인식이 가끔 잘 안될때가 있어서 답답하네요...ㅠㅠ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "색상",
+        "SentimentText": "다른 컬러를 선택하고 싶었는데 컬러가 한정적이어서 아쉬워요...",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114838",
+    "RawText": "CD플레이어 전용으로 사용할 제품 찾다가 구매했어요. 사이즈 작아 좋고 프레임 하단이 우드로 되어 있어 좋고 부드러운 느낌이 들어서 디자인이 제일 마음에 듭니다.스피커 연결하려고 블루투스로 작동시켰는데, 페어링 하는데 시간이 다소 걸리는 점이 아쉽네요.플레이어를 이동하는 동안도 CD가 튀는 소리도 안 나고 작동하는 동안 CD 돌아가는 소리도 안 커서 조용하니 아주 좋네요.어답터가 따로 없어서ㅠ이 CD 플레이어에 맞는 어답터는 따로 준비해야 할 것 같네요.전 다행히도 맞는 어답터가 있어서 쓰지만 함께 제공되면 더 좋을 것 같아요~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "ENZER EN-CD1BT",
+    "ReviewScore": "3",
+    "Syllable": "298",
+    "Word": "71",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈 작아 좋고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소재",
+        "SentimentText": "프레임 하단이 우드로 되어 있어 좋고",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "부드러운 느낌이 들어서 디자인이 제일 마음에 듭니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "스피커 연결하려고 블루투스로 작동시켰는데, 페어링 하는데 시간이 다소 걸리는 점이 아쉽네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "플레이어를 이동하는 동안도 CD가 튀는 소리도 안 나고 작동하는 동안 CD 돌아가는 소리도 안 커서 조용하니 아주 좋네요",
+        "SentimentWord": "18",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114839",
+    "RawText": "여러분 안녕하세요~ 그간 평안히 잘 지내셨나요?벌써 날씨가 추워졌네요ㅠㅠ이번 포스팅이 이웃님들께 조금이나마 도움이 되었으면 좋겠네요!구매한지 2주가 지났네요!\u003c이건 진짜 좋아요!\u003e우선 화질 무엇?! 정말 신세계입니다...그동안 제가 본 건 TV가 아니었나봅니다..;;하하정말 선명하고 사운드도 빵빵해서 TV 볼때마다 만족스럽네요! 지인들한테도 정말 화질은 넘사벽이라고 얘기하고 다녀요~\u003c너무너무 아쉬운 점\u003e에너지효율 등급이 4등급이라...ㅠㅠ 그게 많이 아쉬워요ㅠㅠ 그냥 다음에는 돈 더 주고 1등급으로 구매할 것 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "HD TV",
+    "ReviewScore": "3",
+    "Syllable": "293",
+    "Word": "55",
+    "RDate": "20221117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질 무엇?! 정말 신세계입니다...",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "사운드도 빵빵해서 TV 볼때마다 만족스럽네요! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "에너지효율 등급이 4등급이라...ㅠㅠ 그게 많이 아쉬워요ㅠㅠ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114840",
+    "RawText": "어제 멀티빔 사운드바를 배송받고 설치하고 테스트를 해보니 확실히 이 제품이 가성비 있고 사운드가 좋긴 좋구나 하는 생각이 드네요.입체감도 생각보다 꽤 느껴지는 것이 자동으로 공간감을 형성해주니 확실히 좋습니다.무엇보다 음의 해상력이 좋아서 영화 시청을 할 때 원래 자막을 틀어둬야 멀리서도 헷갈리지 않고 들을 수 있었는데 멀리서도 대사가 또렷하게 잘들립니다. 그리고 ○○○로 음악을 들어봤는데 마치 느낌이 헤드폰을 끼고 듣는 느낌이 들었어요.그런데 단점도 있습니다. 우선 전원케이블이 쓸데없이 많이 들어있는데 그 중 220V단자 모양 케이블이 3개나 있으니 다 비슷비슷하게 느껴져요. 메뉴얼엔 아주 기본적인 설치방법만 적혀있고 다양한 기능과 조절 방법에 대해서는 알려주지 않습니다.결국 온라인으로 풀메뉴얼을 다운 받아야 하는데 이걸 받으로 공식 홈페이지에 가도 어디에 있는지 찾는게 어려워 블로그를 뒤져 다른 분의 글을 보며 따라하게 되었네요. 이 점이 개선되면 더 좋을 것 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "JBL BAR 5.0 MULTIBEAM (정품)",
+    "ReviewScore": "3",
+    "Syllable": "495",
+    "Word": "116",
+    "RDate": "20221120",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": " 가성비 있고 ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "사운드가 좋긴 좋구나 하는 생각이 드네요",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "입체감도 생각보다 꽤 느껴지는 것이 자동으로 공간감을 형성해주니 확실히 좋습니다",
+        "SentimentWord": "10",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 음의 해상력이 좋아서 영화 시청을 할 때 원래 자막을 틀어둬야 멀리서도 헷갈리지 않고 들을 수 있었는데 멀리서도 대사가 또렷하게 잘들립니다",
+        "SentimentWord": "20",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "전원케이블이 쓸데없이 많이 들어있는데 그 중 220V단자 모양 케이블이 3개나 있으니 다 비슷비슷하게 느껴져요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 메뉴얼엔 아주 기본적인 설치방법만 적혀있고 다양한 기능과 조절 방법에 대해서는 알려주지 않습니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114841",
+    "RawText": "제품에 하자가 있어서 교환했습니다. 아마도 마감 문제인듯합니다.너무나도 유명한 스피커고 음향 기기를 좋아하는 사람이라면 다 가지고 싶어 하길래 저도 기대하면서 구입했는데 첫인상부터 좋지는 않네요. 이 가격에 이 정도 퀄리티라뇨 .. ㅜㅜ그래도 곧바로 수리를 해준다고 하여 일단은 기다리는 중입니다. 잠깐 본 바로는 디자인이 참 예쁘더라고요. 스탠드 부분도 튼튼하고요.얼른 교환이 되었으면 좋겠네요. 유명 브랜드의 스피커를 가지고 싶었는데.. 드디어 살 여력이 되어서 구입한 거였거든요!아무쪼록 빠른 교환 부탁드립니다. 기다리고 있겠습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "JBL L100 Classic",
+    "ReviewScore": "3",
+    "Syllable": "301",
+    "Word": "65",
+    "RDate": "20221121",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "제품에 하자가 있어서 교환했습니다. 아마도 마감 문제인듯합니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "품질",
+        "SentimentText": "이 가격에 이 정도 퀄리티라뇨 .. ㅜㅜ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인이 참 예쁘더라고요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "스탠드 부분도 튼튼하고요",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "유명 브랜드의 스피커를 가지고 싶었는데.. 드디어 살 여력이 되어서 구입한 거였거든요!",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114842",
+    "RawText": "집과 사무실 장소에 관계없이 스마트폰으로 노래를 자주 듣는데요 출력이 20W으로 높은데 반면에 음량이 작게 들리고 음향도 먹먹한 소리가 나와 많은 아쉬움이 남네요.요즘 트렌드에 맞게 미니멀한 사이즈로 휴대성을 높여서 훌륭합니다. 메탈릭하고 세련된 디자인은 특히 사무실과 잘 어울렸어요.본체 후면에 AUX 단자가 있어서 블루투스가 지원되지 않는 기기와 연결해서 사용할 수 있고, 초반 페어링 한 번만 하면 자동 블루투스로 연결되니 정말 편리해요. 배터리는 완충까지 4시간 정도 소요되고 최대 10시간 정도 장시간 사용이 가능해요.디자인이나 휴대성만 고려하신다면 이 스피커를 추천하고 싶어요. 이상 짧은 리뷰였습니다^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "K 오아 B2BT 휴대용 고음질 블루투스 스피커 블랙",
+    "ReviewScore": "3",
+    "Syllable": "344",
+    "Word": "78",
+    "RDate": "20221111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": " 출력이 20W으로 높은데 반면에 음량이 작게 들리고 음향도 먹먹한 소리가 나와 많은 아쉬움이 남네요",
+        "SentimentWord": "14",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "요즘 트렌드에 맞게 미니멀한 사이즈로 휴대성을 높여서 훌륭합니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "메탈릭하고 세련된 디자인은 특히 사무실과 잘 어울렸어요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "본체 후면에 AUX 단자가 있어서 블루투스가 지원되지 않는 기기와 연결해서 사용할 수 있고, 초반 페어링 한 번만 하면 자동 블루투스로 연결되니 정말 편리해요.",
+        "SentimentWord": "23",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리는 완충까지 4시간 정도 소요되고 최대 10시간 정도 장시간 사용이 가능해요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114843",
+    "RawText": "000을 받았는데 너무 맘에 듭니다! 특히 가벼워가지고 착용감이 정말 좋네요~ 000보단 음질은 좀 떨어지는 느낌이 들고.. 000 들었을땐 우와... 웅장하다 라는 느낌인데 000음질 괜찮네~ 요정도? 노캔은 그냥저냥 적당한거 같고 통화시 주변음 듣기 기능은 정말 맘에 드네요 평소 무선이어폰 쓰면 통화할때 먹먹해서 불편했는데 참 맘에 드는 기능입니다 주변에서 말할때 자동 전환 기능이 없는건 너무 아쉽네요.. 업데이트로 해결해줬음 좋겠어요! 가장 만족스러운건 케이스네요!! ㅎㅎ 너무 이뻐요!! 감촉도 종이 재질 느낌이 나서 계속 만지게 되고.. 사이즈도 촉감도 디자인도 대만족 입니다!! 000프로정도 음질 기대하시는 분들은 프로로 가야 하는게 맞는거 같고 저렴한 가격에 가성비가 좋고 가볍고 착용감 좋은 제품 원하시는 분들은 000도 좋은 선택인거 같습니다. 000는 면봉이 귀에 스윽 들어오는 느낌이라면 000는 귀에 콩을 끼운 느낌이 드네요!! 또 한가지 아쉬운건 000앱 깔고 연동해서 보면 유닛별로 배터리가 각각 나오는게 아니라 걍 하나로 퉁쳐서 배터리 퍼센트가 나오는게 아쉽긴 하네요~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "k_삼성전자 갤럭시 버즈2 (라벤더, 올리브, 블랙, 화이트) SM-R177N",
+    "ReviewScore": "3",
+    "Syllable": "561",
+    "Word": "131",
+    "RDate": "20221117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워가지고 착용감이 정말 좋네요~ ",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "000음질 괜찮네~ 요정도",
+        "SentimentWord": "3",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "노캔은 그냥저냥 적당한거 같고 통화시 주변음 듣기 기능은 정말 맘에 드네요 평소 무선이어폰 쓰면 통화할때 먹먹해서 불편했는데 참 맘에 드는 기능입니다 ",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가장 만족스러운건 케이스네요!!ㅎㅎ 너무 이뻐요!! 감촉도 종이 재질 느낌이 나서 계속 만지게 되고 ",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 촉감도 디자인도 대만족 입니다!! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "저렴한 가격에 가성비가 좋고",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "착용감 좋은 제품 원하시는 분들은 000도 좋은 선택인거 같습니다. 000는 면봉이 귀에 스윽 들어오는 느낌이라면 000는 귀에 콩을 끼운 느낌이 드네요!! ",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "000앱 깔고 연동해서 보면 유닛별로 배터리가 각각 나오는게 아니라 걍 하나로 퉁쳐서 배터리 퍼센트가 나오는게 아쉽긴 하네요~~",
+        "SentimentWord": "17",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114844",
+    "RawText": "해외배송 제품인데 모양이 너무 귀여워서 좀 걱정되긴 해도 구매했습니다.손바닥보다 조금 큰 사이즈가 귀엽고 무게도 가벼워 좋고 스탠딩 디자인이라 아주 특이하고 새롭네요^^ 이 조그만 제품에 리모콘도 딸려 있고 그리고 벽에 붙일 수 있게 거치대도 구성되어 있어요.구성품이 정말 알차서 깜짝 놀랬어요.재생 기능도 한 곡 혹은 전체 재생 기능이 있어서 그것도 꽤 편합니다.음질은 사실 그냥 그래요~~  음질에 민감하신 분이라면 실망할 거 같아요~~전 가볍게 쓸 용도라 만족스럽습니다~~",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "KECAG CD DVD플레이어",
+    "ReviewScore": "3",
+    "Syllable": "267",
+    "Word": "63",
+    "RDate": "20221115",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "손바닥보다 조금 큰 사이즈가 귀엽고",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게도 가벼워 좋고 ",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "스탠딩 디자인이라 아주 특이하고 새롭네요^^",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "리모콘도 딸려 있고 그리고 벽에 붙일 수 있게 거치대도 구성되어 있어요.구성품이 정말 알차서 깜짝 놀랬어요.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "재생 기능도 한 곡 혹은 전체 재생 기능이 있어서 그것도 꽤 편합니다.",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "음질은 사실 그냥 그래요~~  음질에 민감하신 분이라면 실망할 거 같아요~~",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114845",
+    "RawText": "제가 사실 벽걸이형 티비를 사고 싶어서 주문을 했는데 알고보니 스탠드형이더라구요… 배송이 오고 나서 알게 되었네요ㅠㅠ벽걸이형으로 생각하고 사서 크기를 큰 걸로 주문했는데 스탠드형으로 막상 오고 보니까 생각보다 화면 크기가 너무 큰 것 같아서 조금 당황했어요!그래도 쓰다 보면 적응이 되지 않을까 생각합니다…!근데 스탠드여서 그런지 기사님이 오시지 않고 저희가 설치를 하게 되었는데 티비 무게가 생각보다 너무 무겁더라구요…! 물론 이것도 설치할 때만 조금 단점이고 평소에는 티비를 옮길 일이 없으니까 상관이 없긴 한데 그래도 너무 무거워서 조금 놀랐어요!앞으로 적응을 좀 해봐야할 것 같습니다.. 아직은 낯서네요??",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 138cm SUHD 55NANO87KNB(스탠드형) [에너지1등급/3세대 알파7/인공",
+    "ReviewScore": "3",
+    "Syllable": "343",
+    "Word": "80",
+    "RDate": "20221117",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "생각보다 화면 크기가 너무 큰 것 같아서 조금 당황했어요!",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "티비 무게가 생각보다 너무 무겁더라구요…!",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "너무 무거워서 조금 놀랐어요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114846",
+    "RawText": "예전에는 티비에서 다른 앱으로 들어가거나 ott서비스를 이용하는 버튼을 눌렀을 때 처리속도가 너무 느려서 답답했었거든요. 근데 이 티비로 바꾸고 나서는 버튼을 누르자마자 로딩없이 바로 넘어가니까 아주 좋습니다.빠른 걸 선호하는 한국인에게 아주 딱인 것 같아요 ㅎㅎ그런데 리모컨이 누락되어서 왔어요ㅠㅠ 구성품에 필수로 들어있어야할 것이 리모콘인데 빠져서 좀 당황했습니다ㅠㅠ일단은 집에 있던 옛날 리모콘도 연동이 되어서 그걸 쓰고 있기는 한데 새로운 리모콘을 어서 배송해주셨으면 좋겠네요..리모콘도 어서 새 걸로 사용하고 싶어요ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 138cm SUHD 55NANO87KNB(스탠드형) [에너지1등급/3세대 알파7/인공",
+    "ReviewScore": "3",
+    "Syllable": "295",
+    "Word": "65",
+    "RDate": "20221117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": " 버튼을 누르자마자 로딩없이 바로 넘어가니까 아주 좋습니다.",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "그런데 리모컨이 누락되어서 왔어요ㅠㅠ 구성품에 필수로 들어있어야할 것이 리모콘인데 빠져서 좀 당황했습니다ㅠㅠ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114847",
+    "RawText": "매장에서 판매중인 브랜드 제품이랑 비교 하면 화질 개선 알파7엔진, 돌비 에트 모스 기능 유무, 전력 1등급의 차이가 제품가 30만원 차이 구요. TV 기본 기능에 충실한 걸 원하고 위의 부가 기능이 필요없는 일반 형 모델을 찾으신다면 바로 이 제품 사시면 됩니다. 이만한 가격대에선 타사 대비 가장 좋습니다. 조금 더 높은 레벨로 가면 그땐 좀 다를 수 있습니다.요즘 가전 사는데 주안점이 디자인인데 해당 가격대에선 모두 디자인은 포기해야 한다고 보시면 됩니다.그 중에 가장 적당한 디자인이라 만족스러워요. 배송은 20시에 온다고 문자 왔는데, 배송 기사분이 17시 쯤 온다해서 기다리고 있었는데 문자대로 오셨었습니다 ^^;;; 이 부분은 조금 애매했네요.그래도 와서는 설치부터 수거 까지 잘 진행이 되어서 만족스럽습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 138cm 나노셀 TV 55NANO83KNB/전국물류설치",
+    "ReviewScore": "3",
+    "Syllable": "405",
+    "Word": "100",
+    "RDate": "20221117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": "이만한 가격대에선 타사 대비 가장 좋습니다. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "가장 적당한 디자인이라 만족스러워요.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114848",
+    "RawText": "와우~~ 티비가 이렇게 이쁜건 반칙아닌가요. 티비가 아니라 갤러리에 걸려있는 액자를 하나 집에 들여놓은 기분이예요. 티비를 사용하지 않을때 원하는 화면을 띄어 놓을 수 있으니 티비 화면에 따라 집안 분위기가 달라지고 인테리어 효과가 나네요. 이런 디자인 어디서도 보지 못했던 건데 너무너무 만족해요. 집에 오는 손님들도 예쁘다고 꼭 말씀해주셔서 어깨가 으쓱합니다. 그런데 아쉬운건 에너지 소비 효율 등급이 4등급이네요. 전기세가 좀 많이 나오겠어요. 그래도 이렇게 예쁜 티비를 얻었으니 전기세는 좀 더 내죠 뭐~~ 그만한 가치가 있잖아요. ^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 138cm 올레드 오브제컬렉션 55LX1QKNA",
+    "ReviewScore": "3",
+    "Syllable": "304",
+    "Word": "73",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": " 티비가 이렇게 이쁜건 반칙아닌가요.티비가 아니라 갤러리에 걸려있는 액자를 하나 집에 들여놓은 기분이예요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "아쉬운건 에너지 소비 효율 등급이 4등급이네요. 전기세가 좀 많이 나오겠어요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114849",
+    "RawText": "엄마집에 티비가 고장이 나서 새로 구입해야 했는데 엄마가 어디서 보고 오시더니 이 모델로 구매하고 싶다고 하셔서 구매해 드린 티비입니다. 그런데 엄마가 에너지 효율 등급은 확인을 못하셨나 봐요. 한달 사용해 보시더니 전기세가 너무 많이 나왔다고 하시네요. 4등급 제품이다 보니 워낙 에너지 소비량이 많아서 전기세가 많이 나온거 같다고 말씀 드리니 매우 속상해 하셨어요. 그래도 뒤에 수납 공간이 있어 지저분한 것들을 깔끔하게 정리 할수 있고 전선도 뒤에 숨길수 있어서 집이 깔끔해 정리 정돈하는게 아주 편해졌다고 좋아하시네요. ????",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 138cm 올레드 오브제컬렉션 55LX1QKNA",
+    "ReviewScore": "3",
+    "Syllable": "299",
+    "Word": "74",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "소비전력",
+        "SentimentText": "한달 사용해 보시더니 전기세가 너무 많이 나왔다고 하시네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "수납 공간이 있어 지저분한 것들을 깔끔하게 정리 할수 있고 전선도 뒤에 숨길수 있어서 집이 깔끔해 정리 정돈하는게 아주 편해졌다고 좋아하시네요. ????",
+        "SentimentWord": "21",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114850",
+    "RawText": "이 TV를 사야 할지, 말아야 할지 고민하다가 지인의 추천으로 구매하게 되었는데 저는 개인적으로 100퍼센트 만족스럽지는 않았어요. 우선 저는 깔끔하면서도 선명한 음질을 원했는데, 오디오가 없는 상태에서는 다소 답답하고 잘 전달되지 않는 듯한 느낌을 받았거든요. 그래서 방법을 찾아가며 음향 조절을 했더니 제가 원하는 퀄리티로 재생이 되더라고요. 이퀄라이저와 같은 옵션을 조정하면서 저에게 더 알맞은 소리 설정을 세팅해야해서 조작이 번거로워요. 혹시라도 기계 조작에 어려움을 느끼시는 분들은 이 점 참고하셔서 구매하길 바라요. 제 솔직한 리뷰가 도움이 되면 좋겠네요. 선명한 화질은 마음에 들어요!",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 217cm 나노셀 NLED TV 86NANO75KQA 벽걸이형",
+    "ReviewScore": "3",
+    "Syllable": "334",
+    "Word": "77",
+    "RDate": "20221111",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "저는 깔끔하면서도 선명한 음질을 원했는데, 오디오가 없는 상태에서는 다소 답답하고 잘 전달되지 않는 듯한 느낌을 받았거든요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "이퀄라이저와 같은 옵션을 조정하면서 저에게 더 알맞은 소리 설정을 세팅해야해서 조작이 번거로워요. ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "선명한 화질은 마음에 들어요!",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      }
+    ]
+  },
+  {
+    "Index": "114851",
+    "RawText": "워낙 장점이 많아서 제가 느낀 거랑 거의 같은 것 같아요. 사람들이 칭찬하는 걸 보고 저도 구매를 하게 되었기 때문에 아마도 다 비슷한가 봐요.저는 사용하면서 발견한 단점을 말해 보려고 합니다.구매하는데 그 부분이 중요한 사람도 있을 거 같아요.일단 단점은 스피커 부분이 아주 약합니다. 별도의 스피커를 연결하지 않으면 화질에 비해 빈약한 소리를 듣게 되요.그리고 무게가 꽤 무거워서 갖고 다니기에는 부담스러운 무게입니다.집에서 메인으로 쓰기에 더 적당한 제품인것 같아요.그리고 내장 베터리가 없어서 전원이 연결되어 있어야 하니 휴대성은 거의 없네요.그점이 아쉬웠어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 시네빔 HF65LA",
+    "ReviewScore": "3",
+    "Syllable": "318",
+    "Word": "75",
+    "RDate": "20221114",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "단점은 스피커 부분이 아주 약합니다. 별도의 스피커를 연결하지 않으면 화질에 비해 빈약한 소리를 듣게 되요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "무게가 꽤 무거워서 갖고 다니기에는 부담스러운 무게입니다.집에서 메인으로 쓰기에 더 적당한 제품인것 같아요",
+        "SentimentWord": "13",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "내장 베터리가 없어서 전원이 연결되어 있어야 하니 휴대성은 거의 없네요.그점이 아쉬웠어요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114852",
+    "RawText": "혼자 살다보니 전자제품을 사는게 너무 망설여지는데 프로젝터는 이후에도 많이 쓸 거 같아 구매했어요. 배송이 예상보다도 빨리 와서 받자마자 사용해 봤습니다. 스크린에 쏘면서 최적의 위치를 잡느라 이리저리 움직였는데, 프로젝터가 가벼워서 꽤 이동성이 높은 걸 느꼈습니다.사이즈도 작아서 집도 좁은데 자리를 많이 안 차지해서 좋았구요. 선이 없으니 선반위에 올려도 아래로 자잘한 선들은 보면서 짜증나지 않아서 좋구요.가장 중요한 화질은 화면을 키우면 선명도의 떨어지는 현상이 확연이 나타납니다.풀 HD라 사실 방이 환해도 잘 보일줄 알았는데 그렇지는 않네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 시네빔 PF50KA 빔 프로젝터",
+    "ReviewScore": "3",
+    "Syllable": "309",
+    "Word": "71",
+    "RDate": "20221113",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "프로젝터가 가벼워서 꽤 이동성이 높은 걸 느꼈습니다",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "사이즈도 작아서 집도 좁은데 자리를 많이 안 차지해서 좋았구요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "선이 없으니 선반위에 올려도 아래로 자잘한 선들은 보면서 짜증나지 않아서 좋구요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질은 화면을 키우면 선명도의 떨어지는 현상이 확연이 나타납니다.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114853",
+    "RawText": "요즘 캠핑가는데 저의 재미를 더 배로 만들어주는 제품입니다.캠핑가서 누워서 영화보는게 제 로망이였는데, 결국 이렇게 구매해서 캠핑에서 틀어보고 나서 아주 반했습니다. 텐트안에서 틀기에도 좋게 휴대성이 아주 간편하고 이리저리 선 연결 없이 충전형이라 저같은 캠퍼에게는 아주 적절한 제품이네요.일단 화질이 기대 했던 것 보다 더 좋아서 프로젝터를 텐트 벽에다 쏘면 아주 즐거운 시간이 펼쳐지네요.글자 잘 읽을 수 있을 정도의 화질이구요.단점은 스피커 음질은 별로입니다.따로 블루투스 스피커를 연결해서 사용하지 않는다면 화면을 보는거에 만족해야 해요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 시네빔 PF50KA 빔 프로젝터 포토후기 이벤트",
+    "ReviewScore": "3",
+    "Syllable": "305",
+    "Word": "69",
+    "RDate": "20221113",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "텐트안에서 틀기에도 좋게 휴대성이 아주 간편하고 이리저리 선 연결 없이 충전형이라 저같은 캠퍼에게는 아주 적절한 제품이네요.",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질이 기대 했던 것 보다 더 좋아서 프로젝터를 텐트 벽에다 쏘면 아주 즐거운 시간이 펼쳐지네요",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "단점은 스피커 음질은 별로입니다.",
+        "SentimentWord": "4",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114854",
+    "RawText": "일단은 티비 화면크기가 널찍해서 아주 만족스러웠어요. 확실히 크기가 크니까 마음까지 확 트인 느낌이네요^^역시 핸드폰이든 티비든 전자기기의 화면은 대대익선이라는 말이 틀린 게 아닌 것 같아요 ㅎㅎ그런데 들뜬 마음에 티비를 켜자마자 들리는 소리에 노이즈가 조금 들리는 것 같아요..사실 사용해본지 며칠 안되어서 이게 신호 탓인지 TV 자체의 소리 때문인지 모르겠는데 일단은 소리 쪽에 문제가 있어서 듣는 데에 조금 불편함이 있네요..일단은 쓸만 한 것 같아서 더 써보고 마저 후기 남길게요 ㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 55형(138cm) 55UM7900BNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "274",
+    "Word": "67",
+    "RDate": "20221118",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "일단은 티비 화면크기가 널찍해서 아주 만족스러웠어요. 확실히 크기가 크니까 마음까지 확 트인 느낌이네요^^",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리 쪽에 문제가 있어서 듣는 데에 조금 불편함이 있네요..",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "소음",
+        "SentimentText": "들뜬 마음에 티비를 켜자마자 들리는 소리에 노이즈가 조금 들리는 것 같아요..",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114855",
+    "RawText": "주문하고 언제 쯤 오나 확인했더니 제작 중이라고 떠서 놀랬는데, 며칠 후에 도착했어요. 사운드 바는 아직 도착 전입니다. 다른 곳보다 OO쇼핑에서 조금 저렴하게 나와서 여기서 구매했어요. OOO제품 티비가 화질이 좋다고 들어서 이번엔 OOO제품 구매했는데 기대보다는 그저 그렇습니다. 크기를 키워서 주문했더니 시원하긴 하네요.그런데 같이 주문 되어있는 스피커가 함께 오지 않아서 소리가 울려서 듣기 힘드네요.스피커에 대해 언제쯤 온단 설명이 없어서 며칠 기다리다가 설치 기사에게 전화해서 물어봐서 대답 들었어요.얼른 스피커 갖다 설치해주세요",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 55형(138cm) 55UP8300KNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "302",
+    "Word": "68",
+    "RDate": "20221117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "가격",
+        "SentimentText": "다른 곳보다 OO쇼핑에서 조금 저렴하게 나와서 여기서 구매했어요. ",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "OOO제품 티비가 화질이 좋다고 들어서 이번엔 OOO제품 구매했는데 기대보다는 그저 그렇습니다. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "0"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기를 키워서 주문했더니 시원하긴 하네요.",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "같이 주문 되어있는 스피커가 함께 오지 않아서 소리가 울려서 듣기 힘드네요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114856",
+    "RawText": "기존 tv 고장으로 오랜만에 바꿨습니다. 좋네요. 소리도 좋고, 쨍 한 화면 별로 안 좋아하는데 필름 메이커 버젼으로 설정 바꿀 수 있어 보기 편합니다. 스마트 tv가 초기에는 느리고 불편해서 안썼는데 이젠 빠르게 잘 넘어가고 통합 리모콘도 작동 잘되고 특히 휠버튼 토도독하고 돌리면 채널도 바꿀 수 있는게 마음에 듭니다. 그래도 HDMI 포트가 2개로 줄어버린 것은 좀 아쉽고.. 리모콘 버튼 하나가 위치때문에 자꾸 잘못 눌리는 사소한 문제도 있지만, 뭐 하여간 대부분 마음에 듭니다. 배송도 친절하게 잘 해주시고, 좋은 제품을 좋은 가격에 잘 샀습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 65형(163cm) 65UM7900BNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "311",
+    "Word": "80",
+    "RDate": "20221117",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "소리도 좋고",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "쨍 한 화면 별로 안 좋아하는데 필름 메이커 버젼으로 설정 바꿀 수 있어 보기 편합니다.",
+        "SentimentWord": "15",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "빠르게 잘 넘어가고",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "통합 리모콘도 작동 잘되고 특히 휠버튼 토도독하고 돌리면 채널도 바꿀 수 있는게 마음에 듭니다.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "좋은 제품을 좋은 가격에 잘 샀습니다.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "그래도 HDMI 포트가 2개로 줄어버린 것은 좀 아쉽고..",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": "리모콘 버튼 하나가 위치때문에 자꾸 잘못 눌리는 사소한 문제도 있지만, 뭐 하여간 대부분 마음에 듭니다. ",
+        "SentimentWord": "15",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114857",
+    "RawText": "거의 10년 정도 브랜드 티비 45인치 보다가 화질도 좋고 눈도 피로하지 않았는데 급 스피커가 고장인 바람에 고칠 수 없어 이왕 구입하는 김에 좀 더 큰걸로 구입하자 해서 65인치 주문했어요.처음엔 배송기사님이 설치하러 오셨는데 설치 후 브라운관이 나가는 바람에 다시 반품하고, 다행히 이틀뒤 재설치 했어요.저희집 평수에 비해 티비가 큰가봐여. 가까이 보니 눈이 급 피곤하네요ㅠ 좀 멀리 보면 화질이 선명하긴 해요. 근데 전 티비보다 화질이 별로인듯 해요ㅠ설치후 반품은 안되니 걍 보기로 했어요 생각보단. 사은품은 바로 배송 되나봐요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 65형(163cm) 65UM7900BNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "299",
+    "Word": "74",
+    "RDate": "20221117",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "저희집 평수에 비해 티비가 큰가봐여. 가까이 보니 눈이 급 피곤하네요ㅠ ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "좀 멀리 보면 화질이 선명하긴 해요. 근데 전 티비보다 화질이 별로인듯 해요ㅠ",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114858",
+    "RawText": "작년에 아이가 고3이어서 한동안 없애고 사용하다가 드디어 입시가 끝나서 새로 티비를 장만할수 있었어요. 평소에 영화 보는걸 좋아해서 음량 좋은 상품을 찾다 이 제품을 구입하게 되었습니다. 우선 제품이 도착했는데 와우~ 패널이 정말 얇네요. 한동안 티비없이 살다가 티비가 이렇게 얇게도 만들어 질수 있다는걸 이번에 알게되었네요. 패널 두께가 얇아지니 차지하는 공간도 적어져서 너무 마음에 듭니다. 그런데 사운드바가 있어서 영화관 같은 빵빵한 음량을 기대했는데 그 정도는 아니라 만족감이 덜했어요. 티비에서 듣더거 보다 조금 더 큰 정도~ 좀더 빵빵한 사운드를 원했는데 아쉬웠어요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 75형(189cm) 75UN7850KNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "323",
+    "Word": "77",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "패널 두께가 얇아지니 차지하는 공간도 적어져서 너무 마음에 듭니다",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "사운드바가 있어서 영화관 같은 빵빵한 음량을 기대했는데 그 정도는 아니라 만족감이 덜했어요",
+        "SentimentWord": "12",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114859",
+    "RawText": "기존에 사용했던 티비가 액정이 나가는 바람에 이번에 새로 구입하게 된 제품입니다 와우~ 이 화면에 이 베젤 두께와 슬림한 옆면 진정 실화인가요? 화면은 진짜 큰데 베젤이 얇아서 더 크게 느껴지네요. 큰 화면으로 영화나 동영상을 볼때 몰입감이 엄청 좋아요. 티비 진작 바꿀걸 그랬나봐요. 그런데 티비 화면이 커서 그런지 영화 보다 티비 뒷면을 만져보니 티비가 뜨끈뜨끈한게 발열감이 좀 심하네요. 티비를 오래 켜 놓은 것도 아닌데 원래 이렇게 발열이 되는 건지...아이들만 있을땐 하루종일 티비를 켜 놓던데 이렇게 발열이 많이 되기 걱정이 좀 되네요 ㅜㅜ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 75형(189cm) 75UN7850KNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "308",
+    "Word": "80",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "큰 화면으로 영화나 동영상을 볼때 몰입감이 엄청 좋아요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "티비 뒷면을 만져보니 티비가 뜨끈뜨끈한게 발열감이 좀 심하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114860",
+    "RawText": "동생 부부 결혼선물로 통 크게 TV를 사주게 되었어요~동생 신혼집 거실이 꽤 넓은 편이라서 TV가 너무 조그마하진 않을까 해서 큰 사이즈로 주문을 했는데 결과적으로 아주 크기를 잘 선택한 것 같아서 뿌듯합니다~화면크기가 커서 거실도 뭔가 휑해보이지도 않고 TV 보기에도 딱 적절한 것 같아요!근데 사은품이 누락이 된 것 같아요ㅠ사운드바가 온다고 해서 동생부부가 잔뜩 기대하고 있었는데 이렇게 누락이 되었다고 하니까 제가 괜히 미안해지더라구요??좋은 스피커 산다고 하던 걸 제가 사운드바 사은품도 있다고 하면서 말렸는데 빨리 조치를 좀 취해주셨으면 좋겠어요 ㅠㅠ",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 75형(189cm) 75UN7850KNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "313",
+    "Word": "75",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면크기가 커서 거실도 뭔가 휑해보이지도 않고 TV 보기에도 딱 적절한 것 같아요!",
+        "SentimentWord": "12",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제품구성",
+        "SentimentText": "사은품이 누락이 된 것 같아요ㅠ사운드바가 온다고 해서 동생부부가 잔뜩 기대하고 있었는데 이렇게 누락이 되었다고 하니까 제가 괜히 미안해지더라구요??",
+        "SentimentWord": "18",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114861",
+    "RawText": "부모님 댁에 티비가 오래되어서 종종 그냥 꺼져 버리는 일이 생겨서 티비 한데 사드려야 겠다 생각했는데 홈쇼핑에 티비가 나오는데 좋아보여 주문해서 보내드렸어요. ^^  저번주에 시골에 가서 설치된 티비를 봤는데 우서 75형이라 그런지 확실히 엄청 크네요. 거실 한쪽을 꽉 채우는 크기라 화면이 큼직큼직하게 나와서 눈이 안좋으신 부모님들 엄청 잘 보인다고 만족해 하시네요.  그런데 스마트 기능이 있는 티비이다 보니 리모텀을 잘 못 누르면 자꾸 다른 기능들이 나와서 연세 있으신 부모님이 조정해서 사용하기는 어려워 하시네요.. 이럴 줄 알았으면 그냥 저렴한 티비로 설치해 드릴걸 그랬나봐요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 75형(189cm) 75UQ9300KNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "328",
+    "Word": "80",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "거실 한쪽을 꽉 채우는 크기라 화면이 큼직큼직하게 나와서 눈이 안좋으신 부모님들 엄청 잘 보인다고 만족해 하시네요",
+        "SentimentWord": "16",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "조작성",
+        "SentimentText": " 스마트 기능이 있는 티비이다 보니 리모텀을 잘 못 누르면 자꾸 다른 기능들이 나와서 연세 있으신 부모님이 조정해서 사용하기는 어려워 하시네요",
+        "SentimentWord": "20",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114862",
+    "RawText": "기존에 집에 있던 티비는 결혼할때 구입한 거라 벌써 10년이 넘었네요. 그때 당시에는 최신상을 구매한거였는데 지금 보니 크기도 작고 사양도 모두 떨어지고.. 얼마전 결혼 10주년 기념으로 신랑이 티비를 사자고 해서 새로 구매하게 되었어요. ^^ 확실히 10년 만에 새로 구매해서 그런지 기존제품과 화질은 비교 불가일 정도로 엄청 좋아졌네요.  리얼 4K화질이라고 하더니 드라마를 보고 있으면 연예인들 눈가 주름이 다 보이네요 ㅋㅋ 그런데 티비를 좀 보고 있으면 티비가 뜨끈 뜨끈 해져서 걱정이 되네요 요즘 티비는 원래 이런 발열감이 다 나오는건지 우리집만 그런지.. 발열감은 큰 문제는 아니겠지요? 걱정은 좀 되지만 잘 사용하고 있어요 ^^",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG 울트라HD TV 75형(189cm) 75UQ9300KNA+LG사운드바",
+    "ReviewScore": "3",
+    "Syllable": "358",
+    "Word": "89",
+    "RDate": "20221119",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "기존 제품과 화질은 비교 불가일 정도로 엄청 좋아졌네요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "내구성",
+        "SentimentText": "그런데 티비를 좀 보고 있으면 티비가 뜨끈 뜨끈 해져서 걱정이 되네요 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114863",
+    "RawText": "사용 시간이 길어서 좋아요.. 연결 속도도 나쁘지 않고 동작도 버벅대지 않고 잘 먹히는 편이에요.. 이전에 쓰던 빔 프로젝트는 두 시간짜리 영화 한 편 보면 전원 꺼져서 맨날 충전기 꽂아놓고 봐야했는데, 이거는 배터리가 긴 편이라 소모 시간이 기네요. 영화 두 편 보고도 거뜬합니다... 가벼워서 실용성이 좋아요.. 여기저기 자리 옮겨가면서 보기에도 편하고요. 다만 거리가 길어지면 화질이 좀 떨어지는 편이네요... 34평 집 거실에서 쏘면 딱 깔끔하게 보이는 정도라고나 할까요? 작은 원룸에서 쓰면 엄청 좋을 거 같다는 생각이 들었네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG시네빔 PH550 미니빔 스마트빔 판매1위 빔프로젝터 내장배터리ARA",
+    "ReviewScore": "3",
+    "Syllable": "301",
+    "Word": "75",
+    "RDate": "20221111",
+    "GeneralPolarity": "1",
+    "Aspects": [
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "사용 시간이 길어서 좋아요..연결 속도도 나쁘지 않고 동작도 버벅대지 않고 잘 먹히는 편이에요.",
+        "SentimentWord": "13",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "가벼워서 실용성이 좋아요.",
+        "SentimentWord": "3",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "여기저기 자리 옮겨가면서 보기에도 편하고요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": " 거리가 길어지면 화질이 좀 떨어지는 편이네요.",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114864",
+    "RawText": "겨울이면 가족들과 캠핑장에 텐트를 쳐 놓고 장박을 즐깁니다. 그런데 이제까지는 캠핑장에서 태블릿을 이용해서 동영상이나 영화를 시청했는데 이번에는 큰 맘먹고 빔프로젝터를 구입했네요. 우선 캠핑 다닐때는 짐이 많으면 힘든데 이 제품은 무게가 가벼워 그나마 휴대하기 편하네요.  그리고 무선으로 배터리가 내장되어 있어 충전시 편리하네요. 배터리 충전후에 사용하면 되는데 아쉽게도 배터리 사용시간은 좀 짧네요. 광고에는 2시간 30분이라고 되어 있는데 2시간이 좀 안되면 방전이 되네요.. 배터리가 조금 더 오래 가면 좋겠지만 어쩔수 없이 선을 연결해서 충전하면서 사용합니다. 제품은 그럭저럭 만족합니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG시네빔 PH550 미니빔 스마트빔 판매1위 빔프로젝터 내장배터리ARA",
+    "ReviewScore": "3",
+    "Syllable": "334",
+    "Word": "75",
+    "RDate": "20221116",
+    "Aspects": [
+      {
+        "Aspect": "무게",
+        "SentimentText": "이 제품은 무게가 가벼워 그나마 휴대하기 편하네요. ",
+        "SentimentWord": "7",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "무선으로 배터리가 내장되어 있어 충전시 편리하네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "광고에는 2시간 30분이라고 되어 있는데 2시간이 좀 안되면 방전이 되네요.",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리 충전후에 사용하면 되는데 아쉽게도 배터리 사용시간은 좀 짧네요. ",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114865",
+    "RawText": "아이 교육 문제로 티비를 집에서 없애면서 집에서 영화를 보고 싶을때나 아이들 동영상 보여줄때 종종 사용하려고 구매한 상품이예요. 우선 처음 도착해서 박스를 열어보니 처음 눈에 띄는 본체의 느낌은 깔끔하고 예쁘다 였어요. 본체의 우아한 곡선과 군더더기 없는 디자인은 정말 볼 수록 매력적인 제품이네요. 그런데 제품을 들어보니 무게가 좀 있어 휴대성은 아쉬워요 친구네 집에서 사용하는건 무게가 정말 가벼워서 핸드폰보다 조금 더 무거운 정도였는데 이 제품은 묵직함이 느껴지네요. 혹시 여행가서도 사용해볼까했는데 여행 갈때 챙겨가면 짐 만 될것 같아 집에서만 사용해야 할것 같습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG시네빔 PH550 미니빔 스마트빔 판매1위 빔프로젝터 내장배터리ARA",
+    "ReviewScore": "3",
+    "Syllable": "322",
+    "Word": "78",
+    "RDate": "20221116",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "본체의 우아한 곡선과 군더더기 없는 디자인은 정말 볼 수록 매력적인 제품이네요",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "무게",
+        "SentimentText": "제품을 들어보니 무게가 좀 있어 휴대성은 아쉬워요",
+        "SentimentWord": "7",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114866",
+    "RawText": "캠핑용으로 하나 장만했어요. 야외에서도 FULL HD TV를 즐길 수 있고, 이 제품은 인터넷선 연결없이 와이파이로 이용할 수 있다는 점이 가장 마음에 드는 점이에요. 그리고 크기도 적당해서 작지도 않아서 영상을 충분히 즐길 수 있으면서 캠핑용으로 가지고 다니기에 부담이 없어요. 디자인 또한 너무 깔끔하고 예뻐요! 인테리어 아이템으로도 손색없을 것 같은 제품이죠. 그리고 야외에서 듣기에도 사운드도 좋고, 각종 OTT 어플이 깔려 있으면서 기기와 연결도 잘 되니까 너무 편해요. 하지만 리모콘이 많이 불편해요. 리모콘은 다른 호환되는 것으로 바꿔야 되나 싶을 정도에요. 게다가 화질이 ips패널이 아니라서 기대만큼 깨끗하고 선명한 영상을 구현해주지 못하더라고요. 그래서 가성비 생각해서 그냥 쓰자 싶긴 하지만 만족감은 쏘쏘하네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG전자 룸앤TV 27TN600S (스탠드)",
+    "ReviewScore": "3",
+    "Syllable": "409",
+    "Word": "96",
+    "RDate": "20221115",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "기능",
+        "SentimentText": "인터넷선 연결없이 와이파이로 이용할 수 있다는 점이 가장 마음에 드는 점이에요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "크기도 적당해서 작지도 않아서 영상을 충분히 즐길 수 있으면서 캠핑용으로 가지고 다니기에 부담이 없어요.",
+        "SentimentWord": "14",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "디자인",
+        "SentimentText": "디자인 또한 너무 깔끔하고 예뻐요! ",
+        "SentimentWord": "5",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "음량/음질",
+        "SentimentText": "야외에서 듣기에도 사운드도 좋고,",
+        "SentimentWord": "4",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "기능",
+        "SentimentText": "각종 OTT 어플이 깔려 있으면서 기기와 연결도 잘 되니까 너무 편해요. ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "리모콘이 많이 불편해요. 리모콘은 다른 호환되는 것으로 바꿔야 되나 싶을 정도에요.",
+        "SentimentWord": "11",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "화질",
+        "SentimentText": "화질이 ips패널이 아니라서 기대만큼 깨끗하고 선명한 영상을 구현해주지 못하더라고요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "가성비 생각해서 그냥 쓰자 싶긴 하지만 만족감은 쏘쏘하네요.",
+        "SentimentWord": "8",
+        "SentimentPolarity": "0"
+      }
+    ]
+  },
+  {
+    "Index": "114867",
+    "RawText": "음... 애매하네요. 정말 애매한 tv에요. 사실 tv인지 태블릿인지 모르겠어요. 그럴 정도로 애매합니다.요즘은 큰 화면의 tv만 봐서 그런지 tv라는 명칭으로 사이즈 작아서 tv보다는 모니터라고 생각하는 게 더 맞는 거 같네요. 이동형 모니터? 라고 한다면 더 잘 어울리는 이 제품은 이동식이라는 것이 가장 큰 장점인 거 같아요. 제 방 침대서도 끌고 와서 보고 화장대 근처로 가져와서 화장화면서도 보고 진짜 이동형으로 보는 큰 모니터? 태블릿? 으로써는 만족감이 생길 거 같아요.문제는 가격이 저렴하지 않은데 그 정도로 충분치 않아 아쉬움이 남아요. 전 tv를 산 거지 큰 태블릿을 산 게 아니니까요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG전자 스탠바이미 27ART10AKPL (스탠드)",
+    "ReviewScore": "3",
+    "Syllable": "338",
+    "Word": "85",
+    "RDate": "20221113",
+    "GeneralPolarity": "-1",
+    "Aspects": [
+      {
+        "Aspect": "사이즈",
+        "SentimentText": " 사이즈 작아서 tv보다는 모니터라고 생각하는 게 더 맞는 거 같네요. ",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": " 이 제품은 이동식이라는 것이 가장 큰 장점인 거 같아요",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "가격",
+        "SentimentText": "문제는 가격이 저렴하지 않은데 그 정도로 충분치 않아 아쉬움이 남아요",
+        "SentimentWord": "10",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114868",
+    "RawText": "컴팩트한 디자인이네요. 요즈음 랩탑에 odd를 장착하지 않는 것이 기본이라 외장으로 편하게 사용할 수 있고 고장이 없었으면 좋겠네요.OOO제품으로 구매하려고 했는데 색상 선택에서 핑크가 있어 핑크로 선택 했더니 자세히 보니 OOO제품으로 제조 일자가 2016년에 출시한 거더군요. OOO제품는 2019년 새로 출시한 건데 좀 어이가 없네요. 교환 신청했다가 저도 잘 보지 않고 옵션 선택해 신청한 부분이 있어 그냥 구매 하지만 처음부터 2016년 제품을 옵션에 둔 건 좀 아니지 않나요. 큼지막하게 제품 상세 설명에 핑크는 모델이 다르고 2016년 제품이라고 언급해 놓던가요. 하여간 아주 기분 나빴습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG전자 슬림 외장 ODD GP62NS60 아이언 실버",
+    "ReviewScore": "3",
+    "Syllable": "339",
+    "Word": "80",
+    "RDate": "20221117",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "디자인",
+        "SentimentText": "컴팩트한 디자인이네요. ",
+        "SentimentWord": "2",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "편의성",
+        "SentimentText": "랩탑에 odd를 장착하지 않는 것이 기본이라 외장으로 편하게 사용할 수 있고 ",
+        "SentimentWord": "11",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "제조일/제조사",
+        "SentimentText": "핑크로 선택 했더니 자세히 보니 OOO제품으로 제조 일자가 2016년에 출시한 거더군요. OOO제품는 2019년 새로 출시한 건데 좀 어이가 없네요.",
+        "SentimentWord": "19",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114869",
+    "RawText": "코로나로 인해 영화관을 못간지 벌써 2년은 된거 같네요. 그렇다 보니 집에서만 티비로 보는 영화로는 마음에 들지 않아서 큰맘 먹고 빔 프로젝터를 구매하게 되었네요. 그래도 여기 저기 후기들과 포스팅한 글들을 읽어보고 그중 마음에 들은 제품으로 구매하게 되었어요. 장점 : FULL HD급 600안시루멘으로 화질이 정말 끝내줘요~ 빔으로 보면 화질이 많이 떨어지게 되는데 이 제품은 밝고 선명한 화질이 눈을 편하게 해주고 몰입감을 높여 줘서 좋아요. 단점 : 화면이 100인치까지만 제공되어서 좀 아쉬웠어요. 구매할때는 100인치도 크다고 생각했는데 막상 사용해보니 더 큰 사이즈를 제공하는 빔으로 샀어야 했나 하는 후회가 살짝 되더라구요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG전자 시네빔 PF50KA",
+    "ReviewScore": "3",
+    "Syllable": "357",
+    "Word": "86",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "화질",
+        "SentimentText": "ULL HD급 600안시루멘으로 화질이 정말 끝내줘요~",
+        "SentimentWord": "6",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "사이즈",
+        "SentimentText": "화면이 100인치까지만 제공되어서 좀 아쉬웠어요",
+        "SentimentWord": "5",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114870",
+    "RawText": "아이들과 여행 다니는 걸 좋아하는데 여행을 가면 아이들이 흥분해서 평소보다 늦게 잠을 자게 되더라구요. 그러다 보니 숙소에 가서 각자 핸드폰을 하거나 티비를 보다 자는게 너무 아까워서 가족 모두 함께 할 수 있는걸 찾다 빔으로 영화보기로 했네요.여행가서 사용할거라 무선이 가능한지 여부를 먼저 선택했어요.  역시 무선이라 아무곳에서나 사용할 수 있는 점이 너무 편리했어요.다만 배터리가 2시간 30분정 다 유지가 되는데 긴 영화를 보게 되면 배터리가 다 보기전에 방전이 되어서 그 점이 아쉬웠네요. 배터리가 좀 더 오래 유지되게 업그레이 되면 좋겠네요.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG전자 시네빔 PF50KA",
+    "ReviewScore": "3",
+    "Syllable": "309",
+    "Word": "77",
+    "RDate": "20221120",
+    "GeneralPolarity": "0",
+    "Aspects": [
+      {
+        "Aspect": "편의성",
+        "SentimentText": "역시 무선이라 아무곳에서나 사용할 수 있는 점이 너무 편리했어요.",
+        "SentimentWord": "9",
+        "SentimentPolarity": "1"
+      },
+      {
+        "Aspect": "배터리",
+        "SentimentText": "배터리가 2시간 30분정 다 유지가 되는데 긴 영화를 보게 되면 배터리가 다 보기전에 방전이 되어서 그 점이 아쉬웠네요.",
+        "SentimentWord": "18",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  },
+  {
+    "Index": "114871",
+    "RawText": "제 인생에 처음 구매한 빔 프로젝터 입니다.  집에서 영화 감상할때 사용하고 싶어서 구매했네요. ^^ 사은품으로  족자 스크린을 제공해 주셨지만 스크린이 오염되어 있어 아쉬웠어요 사은품이라 검수를 제대로 안해서 보내주셨나봐요 ㅜㅜ 그래서 어쩔수 없이 집 벽에 쏴 봤네요.  그런데 빔 로딩 되는 시간이 생각보다 오래걸리네요. 그리고 앱을 연결해서 활성화 하기까지 대기시간이 좀 걸립니다. 저 같이 성격 급한 사람들은 좀 많이 답답하네요. 그 점만 빼고는 나름 만족하면서 잘 사용하고 있습니다.",
+    "Source": "SNS",
+    "Domain": "가전",
+    "MainCategory": "영상/음향가전",
+    "ProductName": "LG전자 시네빔 PF50KA",
+    "ReviewScore": "3",
+    "Syllable": "275",
+    "Word": "67",
+    "RDate": "20221120",
+    "Aspects": [
+      {
+        "Aspect": "품질",
+        "SentimentText": " 족자 스크린을 제공해 주셨지만 스크린이 오염되어 있어 아쉬웠어요",
+        "SentimentWord": "8",
+        "SentimentPolarity": "-1"
+      },
+      {
+        "Aspect": "시간/속도",
+        "SentimentText": "빔 로딩 되는 시간이 생각보다 오래걸리네요. ",
+        "SentimentWord": "6",
+        "SentimentPolarity": "-1"
+      }
+    ]
+  }
+]
