@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "55-",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "요즘 공부하고 있는 것이 있으신가요 만약 있다면 그것은 무엇이고 왜 그것을 공부하고 있고 무엇을 배웠는지 말씀해 주세요",
+                "wordCount": 17
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "요즘 제 나름대로 주택 관리 공부를 하고 있습니다. 제가 이거를 공부하게 된 계기는 저희 회사가 법인 집합 건물이나 공동 건물들 임대 관리를 해 주고 있습니다. 시설 관리도 해 주고요. 그러다 보니까 제가 임대차 계약만 요 관리를 하면서 만나다 보니 가끔은 담당자들이 시설에 관련돼 있는 내용과 그다음에 시설 법과 관련돼 있는 그런 내용들을 물어보기도 합니다. 그래서 제가 답변을 못 해줘서 담당자를 통해서 어 대답을 해주는 경우가 있었는데 이런 것들을 제가 보완하기 위해서 제 나름대로 주택 관리 공부를 하고 있습니다. 그래서 여기에는 집합 건물에 대한 법률이라든가 시설에 대해서 어 어느 정도는 나와 있어서 이거를 좀 공부하다 보니까 조금씩 모랄 몰랐던 것들이 알게 되고 또 업무에도 도움이 되는 것 같습니다. 그래서 저는 요즘 공부를 주택 관리를 하고 있는데 나름대로 소기의 성과를 거두고 있습니다.",
+                "wordCount": 120
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "그래서 제가 답변을 못 해줘서 담당자를 통해서 어 대답을 해주는 경우가 있었는데 이런 것들을 제가 보완하기 위해서 제 나름대로 주택 관리 공부를 하고 있습니다.",
+                    "expression": "c_imp",
+                    "category": "personality"
+                }
+            ],
+            "summary": {
+                "text": "집합 건물에 대한 법률과 시설에 대한 내용이 어느 정도는 나와 있어서 이것을 좀 공부하다 보니 알게 되고 또 업무에도 도움이 되는 것 같습니다. 그래서 제가 주택 관리를 하고 있는데 나름대로 성과를 거두고 있습니다.",
+                "wordCount": 33
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 641038,
+            "duration": 20030,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_308172.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2706638,
+            "duration": 84580,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_308172.wav"
+        }
+    }
+}

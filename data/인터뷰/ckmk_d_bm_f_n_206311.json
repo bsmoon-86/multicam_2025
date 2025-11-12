@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "지금까지 살면서 어떤 문제를 해결할 때 본인이 창의적으로 문제를 해결한 경험이 있으실까요 있다면 그 과정을 최대한 자세하게 설명해 주시기 바랍니다",
+                "wordCount": 20
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "어 이거는 창의적으로 어떤 일을 해결했다기보다는 저는 이 제 개인적으로 좀 저는 약간 사차원적인 생각을 조금 많이 하는 편인 것 같아요. 그래서 같은 상황을 봐도 저는 조금 다른 사람보다 특별 특이한 답을 많이 내는 편이라 그것이 꼭 정답은 아닌데 사람들이 되게 특이한 발상이다 이런 라는 말을 되게 많이 들었거든요. 그래서 어떻게 이걸 보면서 그걸 생각해 약간 이런 식으로 그런데 그게 정답과는 완전히 비껴 나갈 때도 있고 어떨 때는 그게 되게 창의적인 답변이 되기도 하는데 그래서 제가 어떤 문제 어떤 일에 대해서 이제 이런 의견을 냈을 때 사람들이 저한테 야 너 되게 독특하다 그리고 진짜 어떻게 기발하다 어떻게 그런 생각을 했냐 이런 답변을 갖는 경우가 되게 많았는데 어 일단 그래서 저는 약간 저의 시각으로 봐서 대답을 했을 때 조금 더 특별한 답안이 나오는 것 같다고 생각합니다.",
+                "wordCount": 126
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "저는 개인적으로 사차원적인 생각을 많이 하는 편이라 특별한 답을 많이 내는 편인데, 정답과는 완전히 비껴 나갈 때도 있고 창의적인 답변이 되기도 해서, 저는 약간 저의 시각으로 봐서 대답을 했을 때 조금 더 특별한 답안이 나오는 것 같다고 생각합니다.",
+                "wordCount": 38
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 579278,
+            "duration": 18100,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_206311.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1820558,
+            "duration": 56890,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_206311.wav"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "55-",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "이전 직장을 그만둔 특별한 이유가 있는지 궁금합니다 그리고 현재 직장도 같은 이유로 그만둘 가능성이 있나요",
+                "wordCount": 15
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "이전 직장을 그만둔 이유는 직장 상사에 하고 불협 화음이 있어서 그만두게 되었습니다. 제 바로 위 상사인데요. 저 뿐만이 아니라 다른 직원들도 굉장히 힘들어하는 그런 상사였습니다. 부하 직원들을 거의 애완견같이 취급을 하고 그리고 인간적인 모독을 많이 주는 편이었습니다. 그리고 본인은 업무 수행을 하지 않으면서 밑에 있는 직원들에게만 강요를 하는 그런 상사였습니다. 현 직장에서도 그런 상사가 있을 거라고 저는 생각하지 않습니다. 전에 모셨던 그 상사는 특별한 케이스이고 이런 상사는 아무래도 우리나라에는 없을 거라고 생각을 합니다. 만약에 현 직장에 그런 상사가 있었다고 하면은 벌써 소문이 퍼져서 제가 이 회사에 들어오기 전에 내용을 알았을 것입니다. 그러기 때문에 저는 이 회사를 중간에 그만둘 가능성이 없을 것입니다.",
+                "wordCount": 102
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "이전 직장의 불협 화음으로 인해 그만두게 된 상사가 있습니다. 부하 직원들에게 인간적인 모독을 가하고 업무 수행을 하지 않으면서 밑에 직원들에게만 강요했습니다. 현 직장에 이런 상사가 있다면 이 회사를 중간에 그만둘 가능성은 없을 것입니다.",
+                "wordCount": 33
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 396878,
+            "duration": 12400,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_269838.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2710478,
+            "duration": 84700,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_269838.wav"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "55-",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "최근 물류를 둘러싼 환경의 변화가 많이 일어나는 추세입니다 지원자님께서는 물류의 미래에 대해서 어떻게 생각하시는지 본인의 생각을 자유롭게 말씀해 주세요",
+                "wordCount": 19
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "물류란 소비자에게 가장 필요한 때에 가장 신속하게 갓 배달해 주는 것이 물류입니다. 그래서 물류는 지금 현 상황에서는 각 기업들이 굉장히 신경 쓰고 그 고민하고 그리고 많은 투자를 해서 구축한다고 들었습니다. 앞으로 물류에는 새로운 디바이스 디바이스인 드론 같은 거를 최대한 활용해서 물류를 수행한다는 얘기도 들었습니다. 또 최근에는 알리바바 처지 중국 기업이 국내에 있는 우리 소비자들을 위해서 물류 창고를 이 한국 청라에 둔다는 그런 소문도 있는데 어찌됐던 모든 기업들 특히 글로벌 기업들이 국내 지출도 많이 한다고 합니다. 그래서 우리나라에 어 쿠팡이나 아니면은 쥐마켓 이런 기업들 중에서도 물류 시스템을 다변화하고 그다음에 물류와 관련돼 있는 미래 지향적인 디바이스 도입 등 그런 것들을 했으면 좋겠습니다.",
+                "wordCount": 100
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "물류란 소비자에게 가장 필요한 때에 가장 신속하게 갓 배달해 주는 것입니다. 이에 각 기업들이 굉장히 신경 쓰고 많은 투자를 해서 물류 시스템을 다변화하고 물류와 관련돼 있는 미래 지향적인 디바이스 도입 등 그런 것들을 했으면 좋겠습니다.",
+                "wordCount": 35
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 622798,
+            "duration": 19460,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_270813.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2638158,
+            "duration": 82440,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_270813.wav"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "35-44",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "만약 타 부서와 갈등 상황이 발생한다면 어떻게 해결하시겠습니까 상황을 가정하고 말씀 부탁드립니다",
+                "wordCount": 12
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "예 만약 업무를 하다가 타 부서와 갈등 상황이 발생하게 될 경우 그 갈등을 해결하기 위해서 일단 대화를 통해서 타협점을 찾을 것 같습니다. 만약 제가 총무 팀이고 인사 팀이 인사 팀과의 갈등이 생겼다고 가정을 해보겠습니다. 인사 팀과 총무 팀이 업무의 경계가 조금 모호한 면이 있기 때문에 그러한 점에서 오는 갈등을 가정한다면 저희 저는 이제 그 갈등을 해결하기 위해서 이제 타 부서와 인사 팀과 함께 이야기를 해볼 예정입니다. 일단 그 업무의 경계가 불명확한 점을 인지를 하고 있고 서로가 인지를 하는 것은 인정을 하고 이것에 대해서 어느 부서와 조금 더 연관이 있는지 그리고 다음 업무를 함에 있어서 더 연관 있는 부서는 어디인지 조금 더 대화를 통해서 해결책을 찾아볼 예정입니다. 만약에 대화를 통해서 타협점을 찾아진다면 그 타협점을 가지고 업무를 진행하고 마약 타협점이 이러한 이렇게 했을 때도 타협점 발생하지 않는다면 그럼 이번에는 저희가 업무 처리를 하고 다음번에는 인사 팀에서 업무 처리를 하자 이런 식으로 뭐 서로 약속을 한다던지 하는 방법으로 갈등을 해결하해 볼 예정입니다.",
+                "wordCount": 148
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "업무를 하다가 타 부서와 갈등 상황이 발생하게 될 경우 대화를 통해서 타협점을 찾을 것 같습니다. 업무를 하다가 인사 팀과 갈등이 생겼다고 가정해 보겠습니다. 업무의 경계가 모호한 점이 있기 때문에 갈등 해결을 위해 타 부서와 인사 팀과 함께 이야기를 해볼 예정입니다. 대화를 통해 타협점이 찾아진다면 이번에는 업무 처리를 하고 다음번에는 인사팀에서 업무 처리를 하자 이런 식으로 갈등을 해결할 예정입니다.",
+                "wordCount": 58
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 387278,
+            "duration": 12100,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_245079.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 3124238,
+            "duration": 97630,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_245079.wav"
+        }
+    }
+}

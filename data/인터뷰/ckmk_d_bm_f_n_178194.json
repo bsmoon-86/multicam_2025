@@ -1,0 +1,61 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "지원자님께서 우리 회사에 지원을 할 때 원하시는 직무가 있으실 겁니다 그런데 만약 지원자님께서 지금 지원하신 이 직무가 아닌 다른 부서에 배치가 된다면 어떻게 하시겠습니까 그래도 괜찮으시겠습니까",
+                "wordCount": 26
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "제가 지원한 다른 직무에 배치하게 된다면 저는 그 회사에 다니기를 포기하고 제가 원하는 직무에서 일을 할 수 있는 다른 기회를 찾아 나설 것 같습니다. 물론 해당 직무에 들어간다고 해서 제가 원하
+                 일을 제가 워낙 제가 하고 싶은 일만 할 거라는 생각은 하지 않습니다. 다른 부서에 들어가면 저 일을 하지 못해 팀원들에게 피해를 끼칠 수도 끼칠 확률도 높고 제가 직무에 만족하지 못해 일의 효율성도 떨어질 것입니다. 개인과 단체 모두에게 좋은 영향을 끼치지 못할 것이라고 생각합니다. 저는 제가 가고자 하는 길과 꿈에 대한 뚜렷한 소신이 있기 때문에 피치 못할 사정으로 다른 직무에 배치가 된다면 아쉽지만 회사에서 근무하기를 포기할 것 같습니다.",
+                "wordCount": 98
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "저는 소신이 있어서 다른 부서에 배치되면 회사 다니기를 포기하고 원하는 직무에서 일을 할 수 있는 다른 기회를 찾아 나설 것 같습니다. 그 부서에 들어가면 팀원들에게 피해를 끼치고 일의 효율성도 떨어질 것입니다. 개인과 단체 모두에게 좋은 영향이 없을 것이라고 생각합니다.",
+                "wordCount": 39
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 637838,
+            "duration": 19930,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_178194.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1967438,
+            "duration": 61480,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_178194.wav"
+        }
+    }
+}

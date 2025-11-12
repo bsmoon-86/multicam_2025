@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "물류업을 수행함에 있어서 가장 중요한 역량은 무엇이라고 지원자님께서는 생각하시나요 본인 스스로 그 역량을 갖추고 있다고 생각하시나요",
+                "wordCount": 16
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "물류업을 수행함에 있어서 가장 중요한 역량은 물류의 방향을 정하는 것입니다. 이렇게 공간 지각 능력이 있어서 물류를 어떻게 배치할지를 정하는 것이 물류업에 있어서 가장 중요합니다. 분류를 함에 있어서 창고의 크기 그리고 분류가 어디에 어떻게 배치되어 있는지 공간을 효율적으로 짜는 것은 이 동선을 줄이고 인건비를 줄이고 가장 중요한 방법입니다. 저는 뛰어난 공간 지각 능력을 가지고 있기 때문에 제가 물류업을 수행함에 있어서 가장 중요한 요소를 가지고 있다고 생각합니다. 또한 저는 성실함을 가지고 있습니다. 제가 가지고 있는 특유의 성실함이 물류업을 수행함에 있어서 가장 중요한 요소 중 하나라고 생각합니다. 물류에 있어서 가장 중요한 것 중 하나는 고객과의 시간 약속을 지키는 것입니다. 고객과의 시간 약속을 지키기 위해서는 성실해야 합니다. 성실하게 일을 해야지 물류를 제시간 안에 할 수 있습니다. 저는 특유의 성실함을 가지고 있기 때문에 제가 물류업을 수행할 수 있는 역량을 지닌 사람이라고 생각합니다.",
+                "wordCount": 128
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "물류업을 수행함에 있어서 가장 중요한 역량은 물류의 방향을 정하는 것입니다. 공간 지각 능력이 있어서 물류를 어떻게 배치할지를 정하는 것이 물류업에 있어서 가장 중요합니다. 성실함을 가지고 있기 때문에 물류업을 수행할 수 있는 역량을 지닌 사람이라고 생각합니다.",
+                "wordCount": 35
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 470478,
+            "duration": 14700,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_368516.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2916558,
+            "duration": 91140,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_368516.wav"
+        }
+    }
+}

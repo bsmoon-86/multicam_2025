@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "35-44",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "본인이 직접 해외 출장 장소를 선택할 수 있다면 꼭 한 번 가서 일해보고 싶은 나라가 있나요 구체적으로 답변해 주시기 바랍니다",
+                "wordCount": 20
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "제가 해외 출장 장소를 선택하 선택할 수 있다면 미국에서 일을 하고 싶습니다. 그 이유는 미국은 현재 세계의 중심입니다. 문화 경제 금융뿐만 아니라 지금 세계를 움직이고 있는 것이 미국이기 때문입니다. 만약 미국에서 일을 하게 된다면 다양한 문화를 교류할 것이며 여러 가지의 창의성 독창성 등 많은 것을 배울 수 있을 것 같기 때문에 미국에서 일을 하고 싶습니다.",
+                "wordCount": 56
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "세계 중심인 미국에서 일하게 된다면 다양한 문화를 교류하고 여러 가지의 창의성 독창성 등 많은 것을 배울 수 있을 것 같기 때문에 미국에서 일을 하고 싶습니다.",
+                "wordCount": 25
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 540238,
+            "duration": 16880,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_256487.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1062478,
+            "duration": 33200,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_256487.wav"
+        }
+    }
+}

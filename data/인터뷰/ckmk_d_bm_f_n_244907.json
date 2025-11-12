@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "45-54",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "일을 하다 보면 직장 상사와 트러블이 생길 수 있는데 그때는 어떻게 할 것입니까 또한 상사가 혼내면 기분이 나쁘지는 않으실까요",
+                "wordCount": 19
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "일을 하다 보면 상사와 트러블이 생길 수 있습니다. 업무상 상사와 트러블이 생길 경우 저는 제 감정을 드러낼 수 없을 것 같아요. 왜냐하면 업무에 아직 미숙한 부분이 많은 데다가 이를 배우는 입장이기 때문에 제가 가진 생각이 틀릴 수도 있다고 생각합니다. 상사와 문제가 생긴다면 제가 더 불리하기 때문에 저는 그런 상황을 가급적 피할 것 같아요. 상사가 혼을 내면 기분은 나쁘겠지만 우선은 배운다는 자세로 임하는 것이 가장 현명할 것 같습니다.",
+                "wordCount": 66
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "미숙한 업무로 상사와 트러블이 생기면 감정을 표현하기 힘들 것 같습니다. 상사가 혼을 내면 기분은 나쁘겠지만 일단 배우는 자세로 임하는 것이 가장 현명하다고 생각합니다.",
+                "wordCount": 23
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 467918,
+            "duration": 14620,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_244907.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1435598,
+            "duration": 44860,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_244907.wav"
+        }
+    }
+}

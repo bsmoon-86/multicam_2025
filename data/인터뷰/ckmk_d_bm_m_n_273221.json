@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "성과 목표를 어떻게 관리해야 하는지 방법을 알고 계신가요 그것이 왜 효과적인지도 말씀해 보세요",
+                "wordCount": 13
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "저는 성과와 목표를 항상 크게 설정하고 벽에 걸어 놓습니다. 제가 성과와 목표를 크게 잡는 이유는 제가 백을 성공하지는 못해도 칠십이나 팔십 프로는 성공할 수 있기 때문입니다. 물론 백 프로를 다 성공하면 좋겠지만 매번 그렇게 성공을 할 수 없기 때문에 평소에 성과와 목표를 높게 잡아 놓으면 조금 부족하더라도 상당히 좋은 성과와 목표를 달성할 수 있다고 생각합니다. 뿐만 아니라 제가 이렇게 성과나 목표를 적어서 벽에 걸어 놓는 이유가 있습니다. 매일 일을 하면서 제가 설정했던 성과나 목표를 보면서 다시 한 번 다짐할 수 있기 때문입니다. 이 성과나 목표를 한번 달성해 보자 라고 다시 한번 다짐하다 보면 어느 순간 이루어져 있는 저의 모습을 많이 봤기 때문에 저는 항상 이런 식으로 성과와 목표를 설정하고 있습니다.",
+                "wordCount": 110
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "저는 매일 일을 하면서 제가 설정했던 성과나 목표를 보면서 다시 한 번 다짐할 수 있기 때문에 매일 성과와 목표를 크게 설정하고 벽에 걸어 놓습니다.",
+                "wordCount": 24
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 307278,
+            "duration": 9600,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_273221.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2606158,
+            "duration": 81440,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_273221.wav"
+        }
+    }
+}
