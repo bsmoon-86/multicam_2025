@@ -1,0 +1,55 @@
+cd c: 
+mkdir git-test
+cd git-test
+
+git config --global user.name "유저이름"		--> 유저의 이름을 지정 (global은 전체 저장소 설정)
+git config --global user.email "유저이메일"	--> 유저의 이메일을 지정
+git config --unset --global user.name		--> 유저의 이름을 삭제
+git config --unset --global user.email		--> 유저의 이메일 삭제
+
+git init ( 깃 초기화 )
+git status ( 깃 상태 확인 )
+	on branch main 		--> 현재의 브랜치는 main에서 작업중
+	No commits yet		--> 현재 커밋이 없음
+	untracked files		--> 관리중인 파일 외에 새로 추가된 파일을 표기
+	nothing add to commit --> 커밋할 파일이 존재하지 않는다. 스테이지 영역에 파일이 존재하지 않는다. 
+git add 파일명 ( 파일 스테이지 등록 )	--> .git 스테이지에 저장
+	Changes to be committed --> 스테이지 영역에 파일이 존재한다는것을 알려준다. 
+git commit -m 커밋메시지 ( 파일 저장소 등록 )  --> .git 저장소에 저장 스테이지 제거
+git log ( 깃 로그 확인 )
+
+git add . 			--> 변경 사항 및 추가된 파일 전부 add
+
+git commit -am 커밋메시지 ( 파일 수정 시 add, commit 동시 명령어 ) --> 파일이 추가가 되는 경우에는 원하는 대로 실행이 되지 않음
+
+git show 			--> 깃 커밋 파일 수정 이력 출력
+git show "해쉬값"	--> 특정 커밋 파일 수정 이력 출력
+
+git diff ( 깃 변경 사항 확인 )  --> 수정된 파일의 내용을 확인(저장소와 작업트리를 비교)
+git diff --staged 			--> 스테이지와 저장소를 비교
+git restore 파일명 ( 깃 작업 되돌리기 ) -> 저장소의 파일의 작업으로 되돌리기
+git restore --staged 파일명 ( 스테이지 작업 되돌리기 ) -> 스테이지에 add 한 작업이 되돌아간다. 컴퓨터의 파일은 그대로 유지
+git reset HEAD^ ( 최근 커밋 되돌리기 )
+git reset --hard 커밋해쉬 ( 특정 커밋으로 되돌리기 )
+git revert 커밋해쉬 ( 특정 커밋을 취소하기 ) -> git log에 취소 기록이 남는다. 
+
+git branch ( 저장소의 브랜치 목록 확인 )
+git branch 브랜치명 ( 새로운 브랜치 생성 ) 
+git swich 브랜치명 ( 브랜치 변경 ) 
+git log --oneline --branches ( 커밋의 이력들을 모든 브랜치 별로 확인 가능 ) ( oneline은 줄여서 표현 ) ( --graph 를 이용하면 커밋간의 관계 출력 )
+git merge 브랜치명 ( main과 브랜치를 결합 )
+git branch -d 브랜치명 ( 특정 브랜치를 제거 )		
+
+git remote add origin 깃허브레파지토리주소 ( 깃저장소와 깃허브 저장소 연결 )
+
+git clone 깃허브레파지토리주소 ( 깃허브 원격저장소의 파일을 저장 )
+
+git push ( 깃 저장소에서 커밋한 파일을 원격 저장소에 저장 )
+git fetch ( 원격 저장소와 깃 저장소의 버전 체크 )
+git pull origin main ( 원격 저장소의 버전과 깃 저장소의 버전에 맞게 맞춤 ) 
+
+git tag -a "태그이름" "해쉬값"	--> 특정 커밋에 tag 메시지를 남김 
+
+git push --tags		--> github repo에 tag 정보를 업로드 
+
+
