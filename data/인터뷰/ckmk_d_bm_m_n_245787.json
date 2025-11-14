@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "35-44",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "지원자님께서는 이전 직장에서 퇴사를 한 후에 어 퇴사한 것을 후회하신 적은 없으셨나요 있다면 어 왜 후회하셨는지 그 이유도 함께 말씀해 주시길 바랍니다",
+                "wordCount": 22
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "전혀 후회하지 않습니다. 회사에 다닐 때는 건강이 극도로 좋지 않아서 얼굴에 이상한 반점이 생기고 간 수치가 올라가고 신장 기능도 떨어졌었는데 회사를 퇴사하고 잠을 푹 자고 제시간에 자고 아침 일찍 일어나니 몸이 많이 회복되어 정말 건강한 신체를 가지게 되었습니다. 만약 퇴사하지 않고 회사를 계속 다녔다면 저는 지금쯤 큰 병을 얻거나 아니면 암 같은 매우 심각한 질병에 걸려서 남은 인생을 얼마 살지 못하고 후회와 슬픔 속에서 살다가 비참하게 인생을 마감하였을 것입니다. 그래서 저는 퇴사한 것을 제 인생 최고의 선택이라고 생각하고 있습니다.",
+                "wordCount": 79
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "회사에 다닐 때는 건강이 극도로 좋지 않아서 얼굴에 이상한 반점이 생기고 간 수치가 올라가고 신장 기능도 떨어졌었는데 회사를 퇴사하고 잠을 푹 자고 제시간에 자고 아침 일찍 일어나니 몸이 많이 회복되어 정말 건강한 신체를 가지게 되었습니다.",
+                    "expression": "c_private",
+                    "category": "background"
+                }
+            ],
+            "summary": {
+                "text": "회사를 퇴사하고 제시간에 자고 아침 일찍 일어나니 몸이 많이 회복되어 건강한 신체를 가지게 되었습니다. 그래서 저는 퇴사한 것을 제 인생 최고의 선택이라고 생각하고 있습니다.",
+                "wordCount": 25
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 486478,
+            "duration": 15200,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_245787.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1886158,
+            "duration": 58940,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_245787.wav"
+        }
+    }
+}

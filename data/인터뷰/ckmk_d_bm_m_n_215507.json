@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "현재 신입사원을 채용하고 있는 과정에 대해서 불만이 있다면 그것은 무엇인지 그렇다면 프로세스를 어떻게 바꾸고 싶은지 이야기해 주시기 바랍니다",
+                "wordCount": 18
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "제 생각에는 신입사원 채용을 했던 사람들의 의견을 듣는 것이 가장 바람직하다고 생각합니다. 우선 이전에 진행이 되었던 체험 프로세스들을 최소 오년에서 십년 자료본을 보고 현재 어떠한 문제점이 있고 이것에 대한 한계를 조금은 더 개선할 수 있고 더 나은 인재를 채용하여 우리 회사에 기여할 수 있다면은 바꿔야 된다고 생각을 합니다. 그렇다면 제가 바꾸고 싶은 내용들을 몇 가지 말씀드리겠습니다. 첫 번째 지역 인재 채용입니다. 지금 엠제트 세대들의 가장 큰 바람은 자신들이 원하는 환경에서 조금은 편안하게 업무를 하고 싶어 하는 것입니다. 하지만 회사 특성상 추천적인 관계를 지향한다고 해도 교육에는 이 조직의 위계질서라는 것은 없어질 수는 없기 때문에 신입들이 조금은 부담스러워할 수 있습니다. 하지만 그 환경을 개선하는 것은 쉽지 않고 그렇게 그 외부적인 환경에 있는 지역 인재들이 이 우리 회사에 충성도를 높일 수 있도록 지역 인재를 채용해서 그 사람들이 꾸준히 전문가로서 발전할 수 있도록 하는 것이 좋을 것 같습니다. 이상입니다.",
+                "wordCount": 134
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "신입사원 채용을 했던 사람들의 의견을 듣는 것이 가장 바람직하다고 생각합니다. 우선 이전에 진행이 되었던 체험 프로세스들을 최소한 오년에서 십년 자료본을 보고 문제점을 개선하고 더 나은 인재를 채용하여 우리 회사에 기여할 수 있다면 바꿔야 된다고 생각을 합니다.",
+                "wordCount": 38
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 608078,
+            "duration": 19000,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_215507.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2764878,
+            "duration": 86400,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_215507.wav"
+        }
+    }
+}

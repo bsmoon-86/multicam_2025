@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "35-44",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "본인이 생각하기에 자신의 노년은 어떤 모습이었으면 좋겠습니까 이상적인 노년의 모습을 말씀해 주시기 바랍니다",
+                "wordCount": 13
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "제가 생각한 저의 노년은 여전히 사회 구성원으로서 전문가적 지식과 경험을 사회에 나눌 수 있는 그런 사람이길 바랍니다. 이 삼십 대인 지금도 어 현재 제 커리어를 성장시키기 위해 많이 노력을 하고 있구요. 사회 구성에서도 혹은 제가 들어가는 회사에서도 부단히 한 사람 이상의 가치를 낼 수 있도록 구성원으로서의 가치를 중요시하고 있습니다. 이렇게 삼십 대를 지나 사십 대 오십 대를 넘어 노년까지 쌓아왔던 저의 경험과 지식들이 노년이라고 해서 편하게 여생을 이제 즐기거나 여유 있게 사는 것보다는 제 후대 혹은 제 제 자 자녀분 자녀들 그리고 저의 사회적인 후배들이 저에게 계속해서 성장할 수 있도록 도움을 줄 수 있고 그리고 지식을 나눠줄 수 있는 지혜를 나눠줄 수 있는 그런 노년이 되고자 노력하고 있습니다. 물론 금전적인 여유와 취미 생활을 즐길 수 있는 시간들도 지금보다 더 여유로웠으면 또 좋겠습니다.",
+                "wordCount": 122
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "저는 노년이라고 해서 편하게 여생을 즐기거나 여유 있게 사는 것보다는 자녀들과 사회적인 후배들이 계속해서 성장할 수 있도록 도움을 줄 수 있고 지식을 나눠줄 수 있는 지혜를 나눠주는 그런 노년이 되고자 노력하고 있습니다.",
+                "wordCount": 32
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 306958,
+            "duration": 9590,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_421044.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2395598,
+            "duration": 74860,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_421044.wav"
+        }
+    }
+}

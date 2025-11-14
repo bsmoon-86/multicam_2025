@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "과거에 직면했던 어려운 문제를 해결하기 위해 어떤 아이디어를 제안해 보았고 무엇을 하셨는지 그 과정에 대해서 말씀해 주세요",
+                "wordCount": 17
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "과거 대학교 다닐 때에 단과 대학 부학생회장을 역임한 적이 있습니다. 어 그때 학교 측에서는 각 과마다 과 사무실이라는 것이 존재했었는데 그 과 사무실을 지하로 이전을 하길 원했습니다. 그리고 그러한 진행 절차가 어 학교 측과 어떠한 학생들 간에 협의가 협의를 하고 진행이 됐던 것이 아니라 학교 측의 단독적인 그러한 일방적인 진행으로 인하여서 학과생들이 많은 피해를 보는 상황이 있었습니다. 그럴 때에 학생들 또한 본인들의 권리를 주장을 하고 학생회 또한 당연히 그러한 권리를 주장함에 도와주기 위해서 좌담회를 개최함으로써 진정 학생들이 원하는 것을 학교 측에 알리는 방법을 선택을 했었고 그 결과 물론 과 사무실 자체를 지하로 이전하게 됨으로써 기존의 있었던 과 사무실을 교수실로 바꾸게 되었지만 어 지하로 이전하게 됨과 동시에 그 지하 공간을 새로운 리모델링을 해서 과 사무실에서 더욱 쾌적한 환경과 원하는 구조로 바꿀 수 있게 하였고 그러한 것들을 어 할 때 지 금전적인 지원을 더욱더 받음으로써 기존에 각 과에서 필요하고 하고 싶었던 것들을 더욱 요구할 수 있게 되었습니다.",
+                "wordCount": 145
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "과거 대학교 다닐 때에 단과 대학 부학생회장을 역임한 적이 있습니다.",
+                    "expression": "c_private",
+                    "category": "background"
+                }
+            ],
+            "summary": {
+                "text": "과거 대학교 단과 대학 부학생회장을 지낸 적이 있습니다. 학교 측에서는 과 사무실을 지하로 이전하길 원했으나 학교 측의 단독적인 진행으로 학과생들이 피해를 보는 상황이었습니다. 학생들은 본인의 권리를 주장하며 도와주기 위해 좌담회를 개최했습니다. 그 결과 과 사무실 자체를 지하로 이전에 따라 지하 공간을 리모델링하여 쾌적한 환경으로 바꿀 수 있었습니다.",
+                "wordCount": 47
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 317518,
+            "duration": 9920,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_349049.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 3540878,
+            "duration": 110650,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_349049.wav"
+        }
+    }
+}

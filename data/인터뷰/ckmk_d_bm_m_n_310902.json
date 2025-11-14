@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "55-",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "글로벌 인재에게 있어서 가장 필요하다고 생각되는 요소와 그것을 얻기 위해서 지원자님이 노력했던 방법들에 대해서 함께 답변해 주시기 바랍니다",
+                "wordCount": 18
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "글로벌이라고 하면 전 세계를 아우른다는 뜻이 내포되어 있다고 말씀드리겠습니다. 그래서 글로벌 인재라고 할 수 있는 것은 세계적인 어 그런 명제에 대해서 어 어떤 일이든지 어 세계적으로 기획을 하고 세계적으로 그 진행을 하고 또 세계적으로 그 결과를 받아내는 것이라고 할 수 있겠습니다. 그를 위해서 어 가장 중요한 것은 각 나라 각 지방의 그 사람들의 문화를 연구해 보는 것이 가장 중요하다고 생각합니다. 물론 언어가 기본이 돼야겠지만 어 저는 언어보다는 그들의 문화 그들의 생각이 중요하다고 생각합니다. 예를 들어서 우리나라에서는 흰색을 좋아하지만 다른 어떤 나라를 가면 흰색은 터부시 되는 그런 경향이 있는 것을 제가 경험을 했습니다. 그런 경우에는 제품 디자인에 흰색을 터부시되는 내용을 반영을 해서 디자인을 해서 출시를 해야지 성공을 할 수 있다는 것이죠. 이러한 것이 일 예가 되겠지만 바로 글로벌 인재가 갖추어야 될 그러한 그 필수 요소가 아닌가 이런 생각을 합니다.",
+                "wordCount": 128
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "글로벌 인재란 전 세계를 포괄하는 의미이며 어떤 일이라도 세계적으로 기획, 진행, 결과를 내는 것입니다. 그를 위해 각 나라 각 지방의 그 사람들의 문화를 연구해 보는 것이 가장 중요합니다. 언어가 기본이 되겠지만 언어보다는 그들의 문화 그들의 생각이 중요하다고 생각합니다.",
+                "wordCount": 38
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 377678,
+            "duration": 11800,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_310902.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 3601358,
+            "duration": 112540,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_310902.wav"
+        }
+    }
+}

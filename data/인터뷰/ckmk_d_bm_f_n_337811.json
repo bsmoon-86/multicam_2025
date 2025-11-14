@@ -1,0 +1,75 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "45-54",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "지원자님의 성격상 장점과 단점에 대해서 각각 말씀해 주시고 또한 구체적인 예시를 들어주셔도 좋을 것 같습니다",
+                "wordCount": 15
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "네 저의 장점은 좀 사람들과 대화하는 것을 좋아하고 또 어떤 공감 능력이 좀 좋은 것 같아요. 어 그래서 좀 다른 분들이 좀 편하게 이 이야기를 저에게 할 수 있는 것 같고 어 어떤 불만 사항이나 요구 사항들을 말씀하실 때 어 저랑 좀 대화를 하면 좀 편하게 또 좀 누그러진 감정으로 이야기할 수 있어서 그런 게 저의 장점이 아닌가 생각을 합니다. 아 이런 단점은 어 제가 조금 큰 그림을 좀 보다 보니까 가끔은 꼼꼼하지 못하게 좀 간단한 것들 쉬운 것들을 좀 놓치는 경우들이 있더라구요. 아 그래서 좀 그런 것들은 단점이 아닌가 생각을 하고 또 그런 것들을 보완하기 위해서 좀 노트를 필기를 좀 열심히 하고 있습니다. 메모를 항상 하고요 메모하지 않으면 가끔 잊어버리는 경우들이 있어서 꼼꼼히 메모할려고 노력을 하고 있습니다.",
+                "wordCount": 119
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "네 저의 장점은 좀 사람들과 대화하는 것을 좋아하고 또 어떤 공감 능력이 좀 좋은 것 같아요.",
+                    "expression": "c_person",
+                    "category": "background"
+                },
+                {
+                    "text": "어 그래서 좀 다른 분들이 좀 편하게 이 이야기를 저에게 할 수 있는 것 같고 어 어떤 불만 사항이나 요구 사항들을 말씀하실 때 어 저랑 좀 대화를 하면 좀 편하게 또 좀 누그러진 감정으로 이야기할 수 있어서 그런 게 저의 장점이 아닌가 생각을 합니다.",
+                    "expression": "c_person",
+                    "category": "background"
+                },
+                {
+                    "text": "아 이런 단점은 어 제가 조금 큰 그림을 좀 보다 보니까 가끔은 꼼꼼하지 못하게 좀 간단한 것들 쉬운 것들을 좀 놓치는 경우들이 있더라구요.",
+                    "expression": "c_person",
+                    "category": "background"
+                },
+                {
+                    "text": "메모를 항상 하고요 메모하지 않으면 가끔 잊어버리는 경우들이 있어서 꼼꼼히 메모할려고 노력을 하고 있습니다.",
+                    "expression": "c_person",
+                    "category": "background"
+                }
+            ],
+            "summary": {
+                "text": "저는 사람들과 대화하는 것을 좋아하고 또 공감 능력이 좀 좋습니다. 단점은 조금 꼼꼼하지 못하게 쉬운 것들을 놓치는 경우가 있어서 보완하기 위해서 필기를 좀 열심히 하고 있습니다. 항상 메모를 해놓습니다.",
+                "wordCount": 29
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 620878,
+            "duration": 19400,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_337811.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1989198,
+            "duration": 62160,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_337811.wav"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "35-44",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "태어나서 지금까지 한 일 중에 가장 후회했던 일이 무엇인지 한 가지만 골라 말씀해 주세요",
+                "wordCount": 14
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "열 여덟 살 때 대학 수학능력시험을 마치고 사 년간 공부할 대학의 학과를 선택했던 일을 저는 가장 후회합니다. 당시 저는 어떤 방법으로 학과를 선택했냐면 제 성적으로 갈 수 있는 몇 가지 대학을 추른 다음에 그 대학 중에서 가장 제 점수에 맞는 학과를 선택했습니다. 그래서 선택한 학과가 영어 영문학과인데요. 지금 돌이켜보면 저는 영어에도 또 영어 문학에도 그 당시 큰 관심이 없었고 더 나가 무엇을 배우는 학문인지도 솔직히 잘 몰랐던 것 같습니다. 물론 대학교 시절에 문학을 배웠던 것은 저의 인생을 굉장히 풍요롭게 한 일이긴 하지만은 대학을 졸업한 후 이게 정말 내가 사 년이라는 시간을 투자해서 했어야 하는 공부인가 그리고 이게 실용적으로 나의 삶에 도움이 되는 일인가를 생각했을 때 늘 가장 큰 후회가 앞섭니다. 다시 그 시절로 돌아간다면 나는 어떤 인생을 살고 싶은지 어떠한 삶을 꾸려나가고 싶은지 그리고 그러기 위해서 가장 핫한 이십 대에는 무엇을 공부하고 배워야 할지에 대해서 굉장히 진지하게 고민하고 생각해 볼 것 같습니다. 점수에 맞춰서 대학을 가고 점수에 맞춰서 학과를 쉽게 선택한 일 저는 지금 가장 후회하고 있습니다.",
+                "wordCount": 157
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "열 여덟 살 때 대학 수학능력시험을 마치고 사 년간 공부할 대학의 학과를 선택했던 일을 저는 가장 후회합니다.",
+                    "expression": "c_private",
+                    "category": "background"
+                },
+                {
+                    "text": "점수에 맞춰서 대학을 가고 점수에 맞춰서 학과를 쉽게 선택한 일 저는 지금 가장 후회하고 있습니다.",
+                    "expression": "c_private",
+                    "category": "background"
+                }
+            ],
+            "summary": {
+                "text": "열 여덟 살 때 수학능력시험을 마치고 제 점수에 맞는 학과를 선택했던 일을 가장 후회합니다. 영어에도 관심이 없었고 무엇을 배우는 학문인지도 몰랐습니다. 다시 그 시절로 돌아간다면 어떤 인생을 살고 싶은지 그리고 어떤 삶을 꾸려나가고 싶은지에 대해서 진지하게 고민하고 생각해 볼 것 같습니다. 점수에 맞춰서 대학을 가고 점수에 맞게 학과를 선택한 일 지금 가장 후회하고 있습니다.",
+                "wordCount": 54
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 281678,
+            "duration": 8800,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_192994.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2557518,
+            "duration": 79920,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_192994.wav"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "저희 회사에 들어오셔서 본인이 하고 싶은 업무가 있으신지 궁금합니다 있으시다면 그 이유와 함께 말해 주세요",
+                "wordCount": 15
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "제가 우리 회사에 들어와서 하고 싶은 업무는 인사팀 업무입니다. 왜냐하면 평소에 사람들과 대화하는 것을 좋아하기 때문에 저의 커뮤니케이션 스킬은 회사에도 큰 도움이 될 수 있을 것이라고 생각합니다. 또한 다양한 경험을 많이 해 봤기 때문에 사람들이 어떤 불만을 가지고 있는지 그러한 것들을 잘 대처할 자신이 있습니다. 회사에서 어떤 문제 때문에 힘들어하고 있는지 가지고 있는 경청 스킬로 사람들의 고민을 들어 보고 그 부분을 어떻게 효율적이고 제대로 해결할 수 있을지를 고민해서 해결해 보겠습니다. 또한 사람들이 회사에 다니게끔 만드는 동기 부여 또한 회사를 다니는 데 있어서 중요하다고 생각합니다. 회사 경영에 있어서는 직원들이 회사를 잘 다니게끔 하는 것도 중요하기 때문에 그러한 동기 부여할 만한 이벤트들을 많이 만들고 싶습니다. 그러한 업무를 기획을 하는 과정에서 개선할 부분도 찾고 사람들의 만족도 조사도 해서 어떤 부분을 만족하는지 고객 하나하나 그리고 직원들 하나하나가 만족할 수 있을 만한 그런 행사도 진행을 해 보고 싶습니다.",
+                "wordCount": 134
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "저는 인사팀 업무를 하며 사람들과 대화하며 어떤 불만을 가지고 있는지 잘 대처할 자신이 있습니다. 또한 사람들이 회사에 다니게끔 만드는 동기 부여도 중요하기 때문에 그러한 동기 부여할 만한 이벤트들을 많이 만들고 싶습니다. 업무 기획 과정에서 개선할 부분도 찾고 사람들의 만족도 조사도 해서 직원들 하나하나가 만족할 수 있는 행사도 진행을 해 보고 싶습니다",
+                "wordCount": 51
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 267278,
+            "duration": 8350,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_380238.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2906638,
+            "duration": 90830,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_380238.wav"
+        }
+    }
+}

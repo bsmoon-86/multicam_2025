@@ -1,0 +1,80 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "MALE",
+            "ageRange": "55-",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "업무시에 분쟁이 발생할 때를 대비한 지원자님만의 대처법이 있으신가요 있다면 구체적으로 설명해 주실 수 있나요",
+                "wordCount": 14
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "업무 시 분쟁이 발생을 하게 되면은 저는 먼저 사항 파악을 합니다. 그래서 상대방과의 분쟁 해결을 위해서 어떻게 준비를 해야 되는지 그것을 먼저 정리를 한 다음에 대처를 합니다. 타 부서하고의 업무 분쟁이 발생이 된다고 하면은 제일 먼저 규정이라고 하는 것이 있을 테니까 규정을 면밀히 살펴볼 것입니다. 그런데 규정에도 해당 사항이 없는 그런 것이라고 한다면은 또 그럴 때는 그 분쟁 해결을 위해서 상대방과 만나서 인간적인 부분으로 푸는 것도 하나의 방법일 것 같습니다. 그래서 이런 경우에는 상대방을 존중하고 이해를 해 준다면은 또 분쟁이 쉽게 풀릴 수 있겠죠. 가끔 회사 내부의 분쟁 뿐만이 아니라 고객과의 분쟁도 있습니다. 특히 고객도 불만이 있어서 분쟁이 발생이 되기 때문에 그 불만이 있는 부분을 해소를 해 줘야 되는데 그것이 쉽지는 않겠죠. 근데 들어주는 것만이라도 많은 손님한테는 도움이 됩니다.",
+                "wordCount": 118
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "업무 시 분쟁이 발생을 하게 되면은 저는 먼저 사항 파악을 합니다.",
+                    "expression": "c_confl_mg",
+                    "category": "personality"
+                },
+                {
+                    "text": "그래서 상대방과의 분쟁 해결을 위해서 어떻게 준비를 해야 되는지 그것을 먼저 정리를 한 다음에 대처를 합니다.",
+                    "expression": "c_confl_mg",
+                    "category": "personality"
+                },
+                {
+                    "text": "타 부서하고의 업무 분쟁이 발생이 된다고 하면은 제일 먼저 규정이라고 하는 것이 있을 테니까 규정을 면밀히 살펴볼 것입니다.",
+                    "expression": "c_confl_mg",
+                    "category": "personality"
+                },
+                {
+                    "text": "그런데 규정에도 해당 사항이 없는 그런 것이라고 한다면은 또 그럴 때는 그 분쟁 해결을 위해서 상대방과 만나서 인간적인 부분으로 푸는 것도 하나의 방법일 것 같습니다.",
+                    "expression": "c_confl_mg",
+                    "category": "personality"
+                },
+                {
+                    "text": "그래서 이런 경우에는 상대방을 존중하고 이해를 해 준다면은 또 분쟁이 쉽게 풀릴 수 있겠죠.",
+                    "expression": "c_confl_mg",
+                    "category": "personality"
+                }
+            ],
+            "summary": {
+                "text": "업무 시 분쟁이 발생하면 저는 먼저 사항을 파악하고, 상대방과의 분쟁 해결을 위한 준비를 한 뒤에 대처를 합니다. 타 부서와 업무 분쟁이 발생하면 규정을 면밀히 살펴볼 것이고, 규정에도 해당 사항이 없는 것이라면 상대방을 존중하고 이해를 해 준다면 분쟁을 쉽게 해결할 수 있을 것입니다.",
+                "wordCount": 42
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 600078,
+            "duration": 18750,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_q_bm_m_n_340927.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2878158,
+            "duration": 89940,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Male/New/ckmk_a_bm_m_n_340927.wav"
+        }
+    }
+}

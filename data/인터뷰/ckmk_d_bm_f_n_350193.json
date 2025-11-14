@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "상사가 회사의 이익에 반하는 행동을 하는 것을 직접 목격하게 되실 수도 있는데요 그렇게 된다면 어떤 방법으로 대처를 하실 것인지 궁금합니다",
+                "wordCount": 20
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "만약에 상사가 회사에 이익에 반하는 행동을 제가 직접 목격하게 된다면은 일단 너무 많이 당황스러울 것 같습니다. 하지만 저는 그때 어떻게 대처할 거냐 생각을 해 봤을 때 일단 그 상사가 와 저의 관계에 대해서 다시 한번 볼 수 있을 것 같습니다. 아무리 관계가 좋은 관계여도 그 상사가 회사의 이익에 반하는 행동은 당연히 부정되고 하지 말아야 했을 행동이기 때문에 일단 저는 관계가 아무리 좋아도 저는 그 상사에게 저의 그런 목격했던 그런 그 사항에 대해서 어떻게 대처하실지 먼저 여쭤 보고서 그리고 나서 그 상사가 묵인을 하길 원한다 했을 때 저는 정말 타당한 이유를 대면서 묵인을 하면 절대 안 되는 이유를 다시금 그 상사와 말을 할 것 같습니다.",
+                "wordCount": 105
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "회사와 제 관계는 아무리 좋은 관계여도 회사의 이익에 반하는 행동은 당연히 부정되고 말아야 했을 행동입니다. 그 상사가 묵인 하길 원한다 했을 때 저는 정말 타당한 이유를 대면서 묵인을 하면 절대 안 되는 이유를 다시 상사와 말할 것 같습니다.",
+                "wordCount": 38
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 403918,
+            "duration": 12620,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_350193.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1803278,
+            "duration": 56350,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_350193.wav"
+        }
+    }
+}

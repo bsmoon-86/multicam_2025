@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "55-",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "아 이 직무에 지원한 이유는 무엇인지요 그 이유를 말씀해 주시구요 또 본인이 이 직무에 적합한 인재인지도 함께 설명해 주시기 바랍니다",
+                "wordCount": 20
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "이 직무에 지원한 이유가 무엇인지 말씀해 주시고 본인이 왜 적합한 인재인지도 설명해 주세요 라고 질문하셨습니다. 거기에 대한 저의 답변을 말씀드리겠습니다. 무작정 무의미한 저의 삶에 말도 어눌하고 답답한 주부에게 이런 기회가 주어진 것에 행운이라 생각되고 나만의 자아찾기라 할까 나이 많고 답답했던 내 삶에 큰 빛 같은 존재로 생각되어 이어 이런 일이 주어졌다는 것만으로도 감사하게 생각하고 지원하게 되었습니다. 젊은 청춘들의 센스 있는 답만큼은 못하지만 기회가 주어진다는 것만으로도 저에게 행운이라 생각되어 이 분야는 전공 전공도 같고 하고 싶은 일이었기 때문에 더 많은 시너지를 될 거라고 생각합니다. 체력도 뒷받침되고 성실한 제가 이 회사에 적합하다고 생각되어 지원하게 되었습니다. 이상 지원한 이유에 대한 저의 답변이었습니다. 감사합니다.",
+                "wordCount": 100
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": " 전공도 같고 하고 싶은 일이기 때문에 더 많은 시너지가 될 거라고 생각합니다. 체력도 뒷받침되고 성실한 제가 이 회사에 적합하다고 생각되어 지원하게 되었습니다.",
+                "wordCount": 22
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 438478,
+            "duration": 13700,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_193583.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 2627278,
+            "duration": 82100,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_193583.wav"
+        }
+    }
+}

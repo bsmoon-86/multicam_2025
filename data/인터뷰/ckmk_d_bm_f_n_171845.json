@@ -1,0 +1,60 @@
+{
+    "version": "1.0",
+    "dataSet": {
+        "info": {
+            "date": "20230116",
+            "occupation": "BM",
+            "channel": "MOCK",
+            "place": "ONLINE",
+            "gender": "FEMALE",
+            "ageRange": "-34",
+            "experience": "NEW"
+        },
+        "question": {
+            "raw": {
+                "text": "본인이 생각하는 거 말구요 주변 사람들이 생각하는 본인의 장점과 단점을 저희에게 각각 얘기해 주시겠어요",
+                "wordCount": 14
+            },
+            "emotion": [],
+            "intent": []
+        },
+        "answer": {
+            "raw": {
+                "text": "어 제 장점은 옛날부터 실행력이 있다는 겁니다. 어 뭔가 하겠다고 마음을 먹었으면 빨리하고 싶어하는 편입니다. 그렇다고 계획이 부실하지는 않고 제가 실패하는 걸 싫어해서 어 그리고 만약에 그 계획이 틀어진다 하더라도 빨리 수습하는 걸 좋아하는 성향이 있고 그렇게 잘하는 것 같습니다. 그러나 단점 같은 경우에는 조금 성급하고 그 과정에서 마무 마감이 깔끔하지 않은 게 제 단점이라고 생각합니다. 그러나 이게 정말 어릴 때부터 지적을 받아왔던 부분이고 제가 느끼기에 이거를 고치는 게 굉장히 어려운 일 같아서 아직까지 많은 노력을 기울이고 있습니다.",
+                "wordCount": 79
+            },
+            "emotion": [],
+            "intent": [
+                {
+                    "text": "",
+                    "expression": "",
+                    "category": "attitude"
+                }
+            ],
+            "summary": {
+                "text": "제 장점은 실행력있는 계획이고 단점은 조금 성급하고 과정에서 마무 마감이 깔끔하지 않은 점입니다. 하지만 이 부분을 고치는 게 굉장히 어려운 일 같아 아직까지 많은 노력을 기울이고 있습니다.",
+                "wordCount": 27
+            }
+        }
+    },
+    "rawDataInfo": {
+        "question": {
+            "fileFormat": "wav",
+            "fileSize": 361038,
+            "duration": 11280,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_q_bm_f_n_171845.wav"
+        },
+        "answer": {
+            "fileFormat": "wav",
+            "fileSize": 1920718,
+            "duration": 60020,
+            "samplingBit": 16,
+            "channelCount": 1,
+            "samplingRate": "16kHz",
+            "audioPath": "/Mock/01.Management/Female/New/ckmk_a_bm_f_n_171845.wav"
+        }
+    }
+}
