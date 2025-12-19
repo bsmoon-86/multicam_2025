@@ -3,7 +3,7 @@ from flask import Flask, request, jsonify, Response, render_template
 from google import genai
 
 app = Flask(__name__)
-client = genai.Client(api_key='AIzaSyAztfQPjLw1Rdn8E6haeiQUtOS_xRELHAs')
+client = genai.Client(api_key='')
 
 MODEL = "gemini-2.5-flash"
 
