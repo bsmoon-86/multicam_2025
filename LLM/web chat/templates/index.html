@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>일반 Chat</h1>
+    <div id="chat" style="white-space:pre-wrap;border:1px solid #ddd;padding:12px;height:300px;overflow:auto;"></div>
+    <input id="msg" placeholder="메시지 입력" style="width:80%;" />
+    <button id="send">전송</button>
+
+    <script>
+        const chat = document.getElementById("chat");
+        const msg = document.getElementById("msg");
+
+        document.getElementById("send").onclick = async () => {
+            const text = msg.value.trim();
+            if (!text) return;
+
+            chat.textContent += `\n\n[나] ${text}\n[Gemini] `;
+            msg.value = "";
+
+            const res = await fetch("/api/chat", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message: text })
+            });
+            const data = await res.json();
+            chat.textContent += data.text;
+            chat.scrollTop = chat.scrollHeight;
+        };
+    </script>
+
+    <div id="chat2" style="white-space:pre-wrap;border:1px solid #ddd;padding:12px;height:300px;overflow:auto;"></div>
+    <input id="msg2" placeholder="메시지 입력" style="width:80%;" />
+    <button id="send2">전송(스트리밍)</button>
+
+    <script>
+        const chat2 = document.getElementById("chat2");
+        const msg2 = document.getElementById("msg2");
+
+        document.getElementById("send2").onclick = () => {
+            const text = msg2.value.trim();
+            if (!text) return;
+
+            chat2.textContent += `\n\n[나] ${text}\n[Gemini] `;
+            msg2.value = "";
+
+            const es = new EventSource("/api/stream?message=" + encodeURIComponent(text));
+            es.onmessage = (e) => {
+                if (e.data === "[DONE]") { es.close(); return; }
+                chat2.textContent += e.data;
+                chat2.scrollTop = chat2.scrollHeight;
+            };
+            es.onerror = () => { es.close(); };
+        };
+    </script>
+</body>
+
+</html>
