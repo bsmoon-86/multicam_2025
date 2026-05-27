@@ -47,7 +47,7 @@ model = nn.Sequential(
 
 # [변경 포인트 3] 손실 함수와 옵티마이저 변경
 criterion = nn.CrossEntropyLoss() # <--- CrossEntropy로 변경
-optimizer = optim.Adam(model.parameters(), lr=0.01, ) # <--- SGD로 변경 (관성 0.9 추가)
+optimizer = optim.SGD(model.parameters(), lr=0.01, ) # <--- SGD로 변경 (관성 0.9 추가)
 
 # ... (학습 코드는 기존과 100% 동일하게 유지) ...
 print("모델 학습을 시작합니다...")
